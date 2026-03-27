@@ -2,6 +2,7 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-03-27 12:57 | #1109 Of Mice and Meth | people forget to eat because they are too busy singing @@LEADER@@'s praises | 39.33 | sometimes adds notability: deadly medical pandemics may add or remove notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-03-27 01:45 | #752 The Immortal Cells of Mrs. Gratwick | any body part that can be cut off a person is no longer considered to be their property | 476.41 | sometimes adds notability: restrictive gun laws, spontaneously combusting cars; sometimes removes notability: absence of drug laws, deadly medical pandemics may add or remove notability: punitive income tax rates, stringent health and safety legislation |
 | 2026-03-27 01:45 | #597 You Can’t Handle the Tooth | @@DEMONYMNOUNPLURAL@@ are free from pain - but the side effects include loss of individual thought and freedom | 631.73 | adds policy: Autocracy, No Dissent; removes policy: Native Representation, Proportional Representation, Public Protest, Sortition, Term Limits; removes notability: daily referendums; sometimes adds notability: deadly medical pandemics may add or remove notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-03-27 01:45 | #1716 The Bald Facts | the latest government policy passed by a close shave | 63.69 | — |
