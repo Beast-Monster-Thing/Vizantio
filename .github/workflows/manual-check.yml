@@ -1,0 +1,38 @@
+name: Manual Issue Check
+
+on:
+  workflow_dispatch:
+    inputs:
+      issue_num:
+        description: 'Issue number to check (e.g. 8)'
+        required: true
+        type: number
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run check
+        run: python main.py --check ${{ github.event.inputs.issue_num }}
+
+      - name: Commit results
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add --ignore-errors manual_checks.ndjson choices_summary.md 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "chore: manual check for issue #${{ github.event.inputs.issue_num }}"
+          git diff --quiet HEAD origin/main 2>/dev/null || git push

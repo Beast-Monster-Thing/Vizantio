@@ -1,0 +1,7 @@
+# Base dependencies — used by main.py (daily workflow)
+requests
+beautifulsoup4
+lxml
+pandas
+numpy
+python-dotenv

@@ -1,0 +1,48 @@
+name: Daily NationStates Issue Bot
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+jobs:
+  answer-issues:
+    runs-on: ubuntu-latest
+
+    # [Critical] contents: write is required for the git push at the end of
+    # the job. Without it, the commit step silently fails on repos whose org
+    # or repo default permission is read (increasingly the GitHub default).
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # [Improvement] Only install the packages main.py actually needs.
+      # aiohttp is only used by scrape_ns_results.py (weekly workflow).
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run bot
+        env:
+          NATION:                 ${{ secrets.NATION }}
+          PASSWORD:               ${{ secrets.PASSWORD }}
+          USER_AGENT:             ${{ secrets.USER_AGENT }}
+          SLEEP_BETWEEN_REQUESTS: "10"
+          TEST_MODE:              "false"
+        run: python main.py
+
+      - name: Commit log and summary
+        if: always()
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add --ignore-errors choices.ndjson choices_summary.md 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "chore: update choices log [$(date -u '+%Y-%m-%d')]"
+          git diff --quiet HEAD origin/main 2>/dev/null || git push

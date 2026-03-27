@@ -1,0 +1,57 @@
+name: Weekly NS Results Scrape
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'   # Every Monday at 06:00 UTC
+  workflow_dispatch:       # Allow manual trigger from the Actions tab
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # [Improvement] Use requirements-scraper.txt which adds aiohttp on top
+      # of the base requirements. The daily workflow only needs requirements.txt.
+      - name: Install dependencies
+        run: pip install -r requirements-scraper.txt
+
+      # -- Run the scraper, writing to a staging file ----------------------
+      - name: Run scraper -> ns_results_new.csv
+        run: python scrape_ns_results.py --output ns_results_new.csv
+
+      # -- Validate new CSV against the committed one ----------------------
+      # [Improvement] Extracted from an inline heredoc to scripts/validate_csv.py
+      # so it can be linted, unit-tested, and run locally.
+      - name: Validate new CSV
+        id: validate
+        run: python scripts/validate_csv.py ns_results.csv ns_results_new.csv
+
+      # -- Replace the committed CSV with the validated new one ------------
+      - name: Replace ns_results.csv
+        run: mv ns_results_new.csv ns_results.csv
+
+      # -- Commit and push -------------------------------------------------
+      - name: Commit updated CSV
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ns_results.csv
+          git diff --cached --quiet \
+            && echo "No changes to ns_results.csv -- nothing to commit." \
+            || git commit -m "chore: refresh ns_results.csv [$(date -u '+%Y-%m-%d')]"
+          git diff --quiet HEAD origin/main 2>/dev/null || git push
+
+      # -- Always clean up the staging file if it survived -----------------
+      - name: Clean up staging file
+        if: always()
+        run: rm -f ns_results_new.csv

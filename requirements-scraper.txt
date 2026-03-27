@@ -1,0 +1,4 @@
+# Scraper dependencies — used by scrape_ns_results.py (weekly workflow)
+# Includes everything in requirements.txt plus aiohttp
+-r requirements.txt
+aiohttp
