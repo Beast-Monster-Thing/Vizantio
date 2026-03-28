@@ -527,6 +527,7 @@ def run_once(sd: ScoringData) -> None:
         }
         with open(LOG_PATH, "a", encoding="utf-8") as f:
             f.write(json.dumps(log_entry) + "\n")
+        append_summary_row(log_entry)
 
         if TEST_MODE:
             print(f"  [TEST MODE] Would submit option {best.option_id} — not submitting.")
