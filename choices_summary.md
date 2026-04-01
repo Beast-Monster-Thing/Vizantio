@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-04-01 13:13 | #808 Big Trouble in Little Dàguó | the government supplies ragtag bands of resistance fighters in exchange for vague promises of future payment | 349.72 | sometimes adds notability: hatred of cheese, punitive income tax rates; sometimes removes notability: barren, inhospitable landscape |
+| 2026-04-01 13:12 | #912 Ambassadors Behaving Madly | foreign envoys that want to visit @@NAME@@ now have to navigate real minefields in addition to the political ones | 117.26 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-04-01 13:12 | #372 The Coming of the Commissars | rocket boots and thermal detonators have become standard-issue military gear | 569.91 | sometimes adds notability: punitive income tax rates |
+| 2026-04-01 13:12 | #1008 Wash Your Mouth Out! | women mime their gynaecological symptoms with hand-puppets | 304.10 | sometimes adds notability: deadly medical pandemics, punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-03-31 13:09 | #1590 Tinder Profiled | asthmatics can now suffer the effects of polluting chimneys from further away than ever before | 105.83 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese, punitive income tax rates, stringent health and safety legislation; sometimes removes notability: exploding hoverboards, spontaneously combusting cars |
 | 2026-03-31 13:09 | #1487 O Fortuna! | only lightning has a chance of striking @@LEADER@@ twice | 53.84 | sometimes adds notability: stringent health and safety legislation |
 | 2026-03-31 13:09 | #1324 Wrecked by Wrestling? | school lockers are filled with fancy underwear | 209.94 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: deadly medical pandemics |
