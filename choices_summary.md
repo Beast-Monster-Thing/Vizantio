@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-04-04 12:45 | #268 Don’t Want Your Kid Anymore? Good News! | toddlers are wielding machine guns in the name of national defense | 749.01 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-04-04 12:45 | #946 Better In Than Out | there's a lot of hot air coming from the Capitol Building | 195.96 | sometimes adds notability: museums and concert halls; sometimes removes notability: suspicion of poets |
+| 2026-04-04 12:45 | #211 Unconventional Weapons Under Fire | the commercialisation of highly deadly weapons has instilled @@NAME@@ with a very polite populace | 1386.33 | removes notability: restrictive gun laws; sometimes adds notability: absence of drug laws may add or remove notability: punitive income tax rates |
+| 2026-04-04 12:44 | #1726 Itsy Bitsy Teenie Weenie Protests About the Maxkini | the swagger of covering up is unparalleled | 204.73 | — |
 | 2026-04-03 12:56 | #1212 Lost at Sea | one-man canoes fitted with the latest tracking technology leave no room for one man | 321.63 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: deadly medical pandemics, exploding hoverboards, spontaneously combusting cars |
 | 2026-04-03 12:55 | #871 It’s Not Easy Being Red | the tragedy of the commons is being tested nationwide but everyone says it's somebody else's problem | 1310.47 | sometimes adds notability: exploding hoverboards, hatred of cheese may add or remove notability: punitive income tax rates, spontaneously combusting cars; sometimes removes notability: barren, inhospitable landscape, restrictive gun laws, stringent health and safety legislation |
 | 2026-04-03 12:55 | #212 Police Wanting Help With Their Inquiries | every citizen must submit to DNA testing to be eliminated from police inquiries | 694.55 | adds policy: DNA Harvesting; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
