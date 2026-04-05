@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-04-05 12:49 | #307 Derailing the Gravy Train | newspapers cannot report anything about politicians without their explicit consent | 71.96 | sometimes removes notability: punitive income tax rates |
+| 2026-04-05 12:49 | #1687 A Slippery Slope | the nation's streets have become a winter wonderland of salt and sand | 167.47 | sometimes adds notability: barren, inhospitable landscape, punitive income tax rates |
+| 2026-04-05 12:48 | #1557 The Artist Is Literally Present | people say that cubists are rubbish because they can't draw faces | 235.33 | sometimes adds notability: museums and concert halls; sometimes removes notability: punitive income tax rates, suspicion of poets |
+| 2026-04-05 12:48 | #1801 Jet Set Regrets | "The Pride of the @@DEMONYMADJECTIVE@@ Skies" boasts an impressive 17 propellers and runs on turnip oil | 332.75 | sometimes adds notability: exploding hoverboards, spontaneously combusting cars; sometimes removes notability: stringent health and safety legislation |
 | 2026-04-04 12:45 | #268 Don’t Want Your Kid Anymore? Good News! | toddlers are wielding machine guns in the name of national defense | 749.01 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-04-04 12:45 | #946 Better In Than Out | there's a lot of hot air coming from the Capitol Building | 195.96 | sometimes adds notability: museums and concert halls; sometimes removes notability: suspicion of poets |
 | 2026-04-04 12:45 | #211 Unconventional Weapons Under Fire | the commercialisation of highly deadly weapons has instilled @@NAME@@ with a very polite populace | 1386.33 | removes notability: restrictive gun laws; sometimes adds notability: absence of drug laws may add or remove notability: punitive income tax rates |
