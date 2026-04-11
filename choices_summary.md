@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-04-11 12:49 | #587 I, Robot, Do Solemnly Swear | court verdicts are predictable to within a hundredth of a percentage point | 284.63 | sometimes removes notability: punitive income tax rates, stringent health and safety legislation |
+| 2026-04-11 12:49 | #101 Tiara Sign of Oppression, Declare Feminists | 2/3. women who display their ankles are shunned by society | 649.26 | sometimes adds policy: Prudism; sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, spontaneously combusting cars |
+| 2026-04-11 12:49 | #1071 Up the Creek | @@LEADER@@ spends weekends doing the laundry of foreign leaders | 391.84 | sometimes adds notability: punitive income tax rates |
+| 2026-04-11 12:49 | #1569 The Not-So-Long Arm of the Law | the government invades its allies more than its enemies | 148.69 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-04-10 13:01 | #666 A Microchip on Your Shoulder | the masses are surrendering their civil liberties without complaint for the sake of shopping convenience | 1251.90 | adds policy: ID Chips; sometimes adds notability: digital currency may add or remove notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, deadly medical pandemics |
 | 2026-04-10 13:01 | #1332 We Won’t, We Won’t Rock You | breaking rocks in the hot sun now involves using your head | 276.09 | sometimes adds notability: punitive income tax rates |
 | 2026-04-10 13:01 | #834 Government and CO | conspiracy theorists allege that the government is spying on them through their carbon monoxide detectors | 394.34 | sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, deadly medical pandemics, exploding hoverboards, spontaneously combusting cars |
