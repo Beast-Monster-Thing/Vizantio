@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-04-12 12:54 | #496 Rock ‘n’ Roll Suicide | attempted suicide is punishable by public hanging | 336.16 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-04-12 12:54 | #1568 Palate Torture | farmers sing lullabies to soothe their livestock to sleep | 438.53 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: complete lack of public education, deadly medical pandemics, exploding hoverboards, spontaneously combusting cars |
+| 2026-04-12 12:54 | #1470 The Devil’s Spawn | declaring that "some kids are just born evil" is not endearing @@LEADER@@ to progressive thinkers | 53.23 | sometimes adds notability: punitive income tax rates |
+| 2026-04-12 12:54 | #1139 A Little Wrestling, a Lot of Controversy | endocrinology is a rapidly growing field of study | 250.82 | sometimes adds notability: punitive income tax rates; sometimes removes notability: deadly medical pandemics |
 | 2026-04-11 12:49 | #587 I, Robot, Do Solemnly Swear | court verdicts are predictable to within a hundredth of a percentage point | 284.63 | sometimes removes notability: punitive income tax rates, stringent health and safety legislation |
 | 2026-04-11 12:49 | #101 Tiara Sign of Oppression, Declare Feminists | 2/3. women who display their ankles are shunned by society | 649.26 | sometimes adds policy: Prudism; sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, spontaneously combusting cars |
 | 2026-04-11 12:49 | #1071 Up the Creek | @@LEADER@@ spends weekends doing the laundry of foreign leaders | 391.84 | sometimes adds notability: punitive income tax rates |
