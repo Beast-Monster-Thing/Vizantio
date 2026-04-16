@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-04-16 13:22 | #799 A Political Cock-Up | politicians sweat as journalists scour internet archives for any mention of them | 197.55 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-04-16 13:22 | #540 Shh! Spoilers! | drive-by spoilers are an increasingly common crime | 216.89 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
+| 2026-04-16 13:22 | #455 Police on Overkill Mode? | the police use sound cannons and mortars to deal with loud parties | 615.40 | — |
+| 2026-04-16 13:22 | #1055 Fishy Predictions | military chiefs are predicting extra funding in this year's budget | 258.10 | — |
 | 2026-04-15 13:17 | #582 Augmented Reality Check | people seem disproportionately distraught when told a museum has a phones-off policy | 201.34 | sometimes adds notability: museums and concert halls; sometimes removes notability: complete lack of public education, punitive income tax rates, suspicion of poets |
 | 2026-04-15 13:16 | #175 Is Vizantio Too Promiscuous? | adultery has been made a capital offence | 898.97 | adds policy: No Adultery, Permanent Marriage, Capital Punishment; adds notability: frequent executions, zero percent divorce rate; sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-04-15 13:16 | #1327 Which Right Is Right? | people often complain that they're going in circuitous routes all the time | 280.25 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese, punitive income tax rates, restrictive gun laws; sometimes removes notability: deadly medical pandemics |
