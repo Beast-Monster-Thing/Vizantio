@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-04-17 13:10 | #123 Now, Vat’s Food for Thought | citizens are grown in vats | 1047.26 | adds policy: Vat-Produced Infants; removes policy: Sex Education; adds notability: vat-grown people; sometimes adds notability: astonishingly minimal parenting, cultivated feral children, irreverence towards religion, labour-free parental leave, punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, deadly medical pandemics, feral children |
+| 2026-04-17 13:10 | #413 A Shot in the Arm | parents who refuse to vaccinate their children are given a short jail sentence | 479.21 | sometimes adds notability: complete lack of public education, punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, deadly medical pandemics |
+| 2026-04-17 13:10 | #1149 The Goriest Advertisement | terrorist videos start by thanking their sponsors | 213.60 | sometimes removes notability: punitive income tax rates |
+| 2026-04-17 13:09 | #925 Ring of Death | it is against the rules of boxing to hit above or below the belt | 215.12 | sometimes adds notability: punitive income tax rates; sometimes removes notability: deadly medical pandemics |
 | 2026-04-16 13:22 | #799 A Political Cock-Up | politicians sweat as journalists scour internet archives for any mention of them | 197.55 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-04-16 13:22 | #540 Shh! Spoilers! | drive-by spoilers are an increasingly common crime | 216.89 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
 | 2026-04-16 13:22 | #455 Police on Overkill Mode? | the police use sound cannons and mortars to deal with loud parties | 615.40 | — |
