@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-04-18 12:54 | #1423 A Slice of the Pi | blue sky thinkers are reminded that the firmament is actually more of a grey-ish colour | 289.77 | sometimes adds notability: punitive income tax rates; sometimes removes notability: restrictive gun laws |
+| 2026-04-18 12:54 | #1627 Snow Days on Thin Ice | truancy is as easy as clicking a camera icon | 307.77 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
+| 2026-04-18 12:54 | #930 Flag It Down? | flags are commonly used as bonfire kindling | 71.55 | — |
+| 2026-04-18 12:54 | #194 A Request for Military Aid | the country has been 'going shopping' by annexing nearby nations for their resources | 698.72 | adds notability: pith helmet sales; sometimes adds notability: barren, inhospitable landscape; sometimes removes notability: hatred of cheese, punitive income tax rates, restrictive gun laws |
 | 2026-04-17 13:10 | #123 Now, Vat’s Food for Thought | citizens are grown in vats | 1047.26 | adds policy: Vat-Produced Infants; removes policy: Sex Education; adds notability: vat-grown people; sometimes adds notability: astonishingly minimal parenting, cultivated feral children, irreverence towards religion, labour-free parental leave, punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, deadly medical pandemics, feral children |
 | 2026-04-17 13:10 | #413 A Shot in the Arm | parents who refuse to vaccinate their children are given a short jail sentence | 479.21 | sometimes adds notability: complete lack of public education, punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, deadly medical pandemics |
 | 2026-04-17 13:10 | #1149 The Goriest Advertisement | terrorist videos start by thanking their sponsors | 213.60 | sometimes removes notability: punitive income tax rates |
