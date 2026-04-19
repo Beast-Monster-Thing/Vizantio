@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-04-19 12:54 | #1126 Waste of Time | government statistics suggest 115% of the population love @@LEADER@@ | 238.49 | removes policy: Public Protest; sometimes adds policy: No Dissent; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-04-19 12:54 | #1197 Aflame With Indignity | religious citizens are closely monitored for signs of self-harm | 10.67 | sometimes adds notability: irreverence towards religion, punitive income tax rates |
+| 2026-04-19 12:53 | #543 Flash, Aaaaaargh! | oddly patriotic flash mobs spontaneously sing the national anthem | 970.58 | removes policy: Public Protest; sometimes adds policy: No Dissent; sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation, suspicion of poets; sometimes removes notability: absence of drug laws, museums and concert halls, spontaneously combusting cars |
+| 2026-04-19 12:53 | #970 For Want of a Nail | women who leak pus from infected wounds are told to suck it up | 643.65 | sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws |
 | 2026-04-18 12:54 | #1423 A Slice of the Pi | blue sky thinkers are reminded that the firmament is actually more of a grey-ish colour | 289.77 | sometimes adds notability: punitive income tax rates; sometimes removes notability: restrictive gun laws |
 | 2026-04-18 12:54 | #1627 Snow Days on Thin Ice | truancy is as easy as clicking a camera icon | 307.77 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
 | 2026-04-18 12:54 | #930 Flag It Down? | flags are commonly used as bonfire kindling | 71.55 | — |
