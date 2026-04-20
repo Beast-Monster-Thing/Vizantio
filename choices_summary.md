@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-04-20 13:22 | #1800 Disposable Assets | diaper-wrapped @@shawarma/falafel@@ is a fan-favorite | 29.72 | sometimes removes notability: barren, inhospitable landscape, hatred of cheese, punitive income tax rates |
+| 2026-04-20 13:21 | #378 The War to End All Wars | historical commemorations regularly devolve into militaristic jingoism | 232.74 | sometimes adds notability: museums and concert halls, punitive income tax rates; sometimes removes notability: suspicion of poets |
+| 2026-04-20 13:21 | #648 Confessions of a Dangerous Mind | the police have been known to wiretap confessional boxes | 413.15 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-04-20 13:21 | #1832 À La Cartel | fraternities are rejoicing at government-subsidized partying | 555.75 | adds policy: Free Tertiary Education; sometimes adds notability: punitive income tax rates |
 | 2026-04-19 12:54 | #1126 Waste of Time | government statistics suggest 115% of the population love @@LEADER@@ | 238.49 | removes policy: Public Protest; sometimes adds policy: No Dissent; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-04-19 12:54 | #1197 Aflame With Indignity | religious citizens are closely monitored for signs of self-harm | 10.67 | sometimes adds notability: irreverence towards religion, punitive income tax rates |
 | 2026-04-19 12:53 | #543 Flash, Aaaaaargh! | oddly patriotic flash mobs spontaneously sing the national anthem | 970.58 | removes policy: Public Protest; sometimes adds policy: No Dissent; sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation, suspicion of poets; sometimes removes notability: absence of drug laws, museums and concert halls, spontaneously combusting cars |
