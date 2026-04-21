@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-04-21 13:16 | #1794 A Chemical Reactionary | war is more of a science than an art | 552.65 | sometimes removes notability: restrictive gun laws |
+| 2026-04-21 13:16 | #353 Broadband Going to the Birds? | consumption of cat memes has skyrocketed | 480.30 | — |
+| 2026-04-21 13:16 | #908 The Forbidden Fruit | sending sick politicians "Get Well Soon" cards is considered bribery | 421.85 | sometimes adds notability: punitive income tax rates |
+| 2026-04-21 13:16 | #1580 Profitable for Doctrine | printing ink yields @@FAITH@@'s biggest return on investment | 181.69 | sometimes removes notability: irreverence towards religion |
 | 2026-04-20 13:22 | #1800 Disposable Assets | diaper-wrapped @@shawarma/falafel@@ is a fan-favorite | 29.72 | sometimes removes notability: barren, inhospitable landscape, hatred of cheese, punitive income tax rates |
 | 2026-04-20 13:21 | #378 The War to End All Wars | historical commemorations regularly devolve into militaristic jingoism | 232.74 | sometimes adds notability: museums and concert halls, punitive income tax rates; sometimes removes notability: suspicion of poets |
 | 2026-04-20 13:21 | #648 Confessions of a Dangerous Mind | the police have been known to wiretap confessional boxes | 413.15 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
