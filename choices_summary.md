@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-04-22 13:18 | #1835 Potatoes in Hot Water | there's always a Bigtopian willing to eat @@LEADER@@'s table scraps | 324.43 | — |
+| 2026-04-22 13:18 | #677 Dial L for Loan | the nation's taxpayers pay for foreign governments' extravagances | 113.26 | sometimes adds notability: punitive income tax rates |
+| 2026-04-22 13:18 | #1219 Vat Is a Serious Problem | the law says that all @@DEMONYMNOUNPLURAL@@ are created equal — no matter how they were created | -27.05 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: exploding hoverboards, spontaneously combusting cars |
+| 2026-04-22 13:18 | #634 Bullet Time | vital infrastructure development is on hold because of 'nature and stuff' | 128.56 | sometimes adds notability: hatred of cheese, punitive income tax rates, stringent health and safety legislation; sometimes removes notability: barren, inhospitable landscape |
 | 2026-04-21 13:16 | #1794 A Chemical Reactionary | war is more of a science than an art | 552.65 | sometimes removes notability: restrictive gun laws |
 | 2026-04-21 13:16 | #353 Broadband Going to the Birds? | consumption of cat memes has skyrocketed | 480.30 | — |
 | 2026-04-21 13:16 | #908 The Forbidden Fruit | sending sick politicians "Get Well Soon" cards is considered bribery | 421.85 | sometimes adds notability: punitive income tax rates |
