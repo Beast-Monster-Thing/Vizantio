@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-04-23 13:19 | #202 Guns or Butter? | politicians are often seen with soldiers pointing guns at their heads | 1062.39 | removes policy: Native Representation, Proportional Representation, Term Limits; removes notability: daily referendums may add or remove notability: punitive income tax rates; sometimes adds policy: Autocracy, Sortition |
+| 2026-04-23 13:19 | #1821 A Dilemma of (Musical) Note | soporific speeches from @@LEADER@@ have left the opposition utterly knocked out | 173.35 | — |
+| 2026-04-23 13:18 | #1263 Is the Signature Always Right? | 3/4. people who make the leader's blood boil get boiled | 365.74 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-04-23 13:18 | #903 Every Breath You Take | joggers are often arrested for breathing too heavily | 419.02 | sometimes adds notability: punitive income tax rates |
 | 2026-04-22 13:18 | #1835 Potatoes in Hot Water | there's always a Bigtopian willing to eat @@LEADER@@'s table scraps | 324.43 | — |
 | 2026-04-22 13:18 | #677 Dial L for Loan | the nation's taxpayers pay for foreign governments' extravagances | 113.26 | sometimes adds notability: punitive income tax rates |
 | 2026-04-22 13:18 | #1219 Vat Is a Serious Problem | the law says that all @@DEMONYMNOUNPLURAL@@ are created equal — no matter how they were created | -27.05 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: exploding hoverboards, spontaneously combusting cars |
