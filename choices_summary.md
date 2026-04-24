@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-04-24 13:15 | #1041 A Sport Retort | the best-of-the-best athletes have been replaced by the best-of-the-mediocre | 126.07 | sometimes removes notability: deadly medical pandemics, spontaneously combusting cars |
+| 2026-04-24 13:14 | #672 All Shook Up | earthquake sirens are a leading cause of hearing loss | 290.98 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
+| 2026-04-24 13:14 | #1703 Hitchhikers Guide Vizantio | 3/4. automotive regulators are throwing in the towel | 351.75 | sometimes adds notability: barren, inhospitable landscape, spontaneously combusting cars; sometimes removes notability: stringent health and safety legislation |
+| 2026-04-24 13:14 | #329 Military Uniforms Under Scrutiny | soldiers are equipped with multi-million @@CURRENCY@@ battlesuits | 520.80 | — |
 | 2026-04-23 13:19 | #202 Guns or Butter? | politicians are often seen with soldiers pointing guns at their heads | 1062.39 | removes policy: Native Representation, Proportional Representation, Term Limits; removes notability: daily referendums may add or remove notability: punitive income tax rates; sometimes adds policy: Autocracy, Sortition |
 | 2026-04-23 13:19 | #1821 A Dilemma of (Musical) Note | soporific speeches from @@LEADER@@ have left the opposition utterly knocked out | 173.35 | — |
 | 2026-04-23 13:18 | #1263 Is the Signature Always Right? | 3/4. people who make the leader's blood boil get boiled | 365.74 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
