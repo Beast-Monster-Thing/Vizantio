@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-04-25 12:56 | #714 Milky Ways | supermarket milk is a shear-thickening fluid that can stop small-caliber bullets | 417.33 | sometimes removes notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates |
+| 2026-04-25 12:56 | #1463 Sandbagging | birdsong in the mountains has to be loud enough to drown out nearby jackhammers | 141.93 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates |
+| 2026-04-25 12:56 | #890 Mining Blues | 3/4. the latest "must-have" uPhone is 1/4 mm thinner than last year's uPhone | 271.39 | sometimes adds notability: exploding hoverboards, spontaneously combusting cars; sometimes removes notability: punitive income tax rates, stringent health and safety legislation |
+| 2026-04-25 12:56 | #942 A Foreign Exchange of Ideas | foreign students are expected to have a Kegmeister Grade Average of 36-24-36 to qualify for university | 306.55 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws may add or remove notability: punitive income tax rates |
 | 2026-04-24 13:15 | #1041 A Sport Retort | the best-of-the-best athletes have been replaced by the best-of-the-mediocre | 126.07 | sometimes removes notability: deadly medical pandemics, spontaneously combusting cars |
 | 2026-04-24 13:14 | #672 All Shook Up | earthquake sirens are a leading cause of hearing loss | 290.98 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
 | 2026-04-24 13:14 | #1703 Hitchhikers Guide Vizantio | 3/4. automotive regulators are throwing in the towel | 351.75 | sometimes adds notability: barren, inhospitable landscape, spontaneously combusting cars; sometimes removes notability: stringent health and safety legislation |
