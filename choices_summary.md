@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-04-26 12:58 | #1107 Welcome to the Party | there's sophisticated talk of revolution within the ever-expanding mining colonies | 647.56 | sometimes adds notability: barren, inhospitable landscape, restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
+| 2026-04-26 12:58 | #114 Wipe Out Graffiti? | graffiti artists spend lengthy periods of time in jail | 192.33 | sometimes adds notability: punitive income tax rates, restrictive gun laws, suspicion of poets; sometimes removes notability: absence of drug laws, museums and concert halls |
+| 2026-04-26 12:58 | #1011 State of the Media | couch potatoes are considered to be model citizens | 580.25 | sometimes adds notability: punitive income tax rates, restrictive gun laws |
+| 2026-04-26 12:58 | #1739 War Never Changes | wars are forgotten but not forgiven | 599.71 | sometimes adds notability: restrictive gun laws |
 | 2026-04-25 12:56 | #714 Milky Ways | supermarket milk is a shear-thickening fluid that can stop small-caliber bullets | 417.33 | sometimes removes notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates |
 | 2026-04-25 12:56 | #1463 Sandbagging | birdsong in the mountains has to be loud enough to drown out nearby jackhammers | 141.93 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates |
 | 2026-04-25 12:56 | #890 Mining Blues | 3/4. the latest "must-have" uPhone is 1/4 mm thinner than last year's uPhone | 271.39 | sometimes adds notability: exploding hoverboards, spontaneously combusting cars; sometimes removes notability: punitive income tax rates, stringent health and safety legislation |
