@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-04-30 13:46 | #292 Tourists Wearing Out Their Welcome? | 3/4. tourists outnumber citizens two to one | 263.57 | sometimes removes notability: hatred of cheese may add or remove notability: punitive income tax rates |
+| 2026-04-30 13:46 | #1668 Can’t-abrigian, Ox-no-nian | universities spend millions cultivating ivy on their buildings | 737.82 | sometimes adds notability: punitive income tax rates |
+| 2026-04-30 13:45 | #32 One Wife Is Never Enough, Say Polygamists | 2/3. the institution of marriage is held sacred and strictly enforced | 362.38 | adds policy: Permanent Marriage; removes policy: Marriage Equality; adds notability: zero percent divorce rate; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-04-30 13:45 | #373 Devil and the Deep Blue Funding Gap | mantis shrimp studies is academia's fastest-growing field | 219.45 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education, restrictive gun laws |
 | 2026-04-29 13:48 | #1369 Negotiation Complication | the intelligence community is playing 4-D chess with an imaginary spy network | 176.48 | sometimes adds notability: punitive income tax rates |
 | 2026-04-29 13:47 | #1759 Curvy Cuisine Causes Conflict | toothpaste is a mealtime delicacy | 874.39 | sometimes adds notability: devotion to social welfare, hatred of cheese, punitive income tax rates, stringent health and safety legislation, suspicion of poets; sometimes removes notability: barren, inhospitable landscape, complete absence of social welfare, complete lack of public education, deadly medical pandemics, exploding hoverboards, museums and concert halls, spontaneously combusting cars |
 | 2026-04-29 13:47 | #1292 A Sticky End for Leader? | when shaking hands with foreign leaders @@LEADER@@ wears an armoured gauntlet | 174.63 | sometimes adds notability: punitive income tax rates |
