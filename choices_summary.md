@@ -2,6 +2,9 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-05-01 13:11 | #1439 Philately Will Get You Nowhere | penny whistles have been rebranded 'tin hornpipes' | 355.78 | sometimes adds policy: No Gambling; sometimes adds notability: restrictive gun laws; sometimes removes notability: barren, inhospitable landscape, punitive income tax rates, spontaneously combusting cars |
+| 2026-05-01 13:11 | #905 Stage Directions | God took rock and roll from you, took rock and roll from everyone | 148.70 | sometimes adds notability: punitive income tax rates, restrictive gun laws, suspicion of poets; sometimes removes notability: absence of drug laws, museums and concert halls |
+| 2026-05-01 13:11 | #1318 Blitzed | 3/4/5/6. a soldier's body is a temple | 246.68 | sometimes adds policy: No Drugs; sometimes removes policy: Cannabis; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, deadly medical pandemics |
 | 2026-04-30 13:46 | #292 Tourists Wearing Out Their Welcome? | 3/4. tourists outnumber citizens two to one | 263.57 | sometimes removes notability: hatred of cheese may add or remove notability: punitive income tax rates |
 | 2026-04-30 13:46 | #1668 Can’t-abrigian, Ox-no-nian | universities spend millions cultivating ivy on their buildings | 737.82 | sometimes adds notability: punitive income tax rates |
 | 2026-04-30 13:45 | #32 One Wife Is Never Enough, Say Polygamists | 2/3. the institution of marriage is held sacred and strictly enforced | 362.38 | adds policy: Permanent Marriage; removes policy: Marriage Equality; adds notability: zero percent divorce rate; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
