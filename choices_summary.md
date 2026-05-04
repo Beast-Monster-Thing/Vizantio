@@ -2,6 +2,11 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-05-04 13:49 | #201 Jolly Roger Sighted Off the Port Bow! | @@NAME@@'s navy has been named the scourge of the seven thousand seas | 325.22 | removes notability: rum-swilling pirates, teetotalling pirates |
+| 2026-05-04 13:49 | #1701 All That Glitters Amidst Night Skies | weather forecasts regularly cover meteor showers | 415.54 | adds policy: Space Program; adds notability: keen interest in outer space |
+| 2026-05-04 13:49 | #633 Sound Judgement | the national anthem is considered broadly offensive to those who don't believe in @@FAITH@@ | 259.89 | sometimes removes notability: irreverence towards religion |
+| 2026-05-04 13:49 | #1723 Have You Ever Seen the Rain? | scientists take credit every time it rains in @@REGION@@ | 441.82 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
+| 2026-05-04 13:48 | #1022 Failure to Respond | pocket dialling is a criminal offence | 81.03 | sometimes adds notability: exploding hoverboards, restrictive gun laws, spontaneously combusting cars; sometimes removes notability: punitive income tax rates, stringent health and safety legislation |
 | 2026-05-03 13:00 | #1150 Back Lash Backlash | extraordinary rendition is nothing out of the ordinary | 352.56 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds notability: barren, inhospitable landscape, restrictive gun laws, spontaneously combusting cars; sometimes removes notability: absence of drug laws, hatred of cheese, punitive income tax rates, stringent health and safety legislation |
 | 2026-05-03 13:00 | #835 The End Is in Sight? | hit TV show 'The eXecution Factor' is a critical success | 114.46 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
 | 2026-05-03 13:00 | #71 Minority Group Demands Language Recognition | the government is attempting to impose a new national language on the public | 350.72 | sometimes adds notability: punitive income tax rates |
