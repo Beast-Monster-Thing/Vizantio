@@ -2,6 +2,9 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-05-05 13:29 | #1838 Who’s Afraid of Red, Yellow, and Blue? | state-run museums boast about their anti-@@DEMONYMADJECTIVE@@ art collections | 530.84 | sometimes adds notability: punitive income tax rates, suspicion of poets; sometimes removes notability: complete lack of public education, museums and concert halls |
+| 2026-05-05 13:29 | #992 Robots in Disguise | NPCs in MMORPGs regularly interrupt cutscenes with OOC reminders that they aren't real people | 207.80 | sometimes adds notability: restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, exploding hoverboards may add or remove notability: punitive income tax rates, spontaneously combusting cars |
+| 2026-05-05 13:29 | #317 Big Brother Is Watching You Surf | government popup ads are springing up like weeds | 389.75 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-05-04 13:49 | #201 Jolly Roger Sighted Off the Port Bow! | @@NAME@@'s navy has been named the scourge of the seven thousand seas | 325.22 | removes notability: rum-swilling pirates, teetotalling pirates |
 | 2026-05-04 13:49 | #1701 All That Glitters Amidst Night Skies | weather forecasts regularly cover meteor showers | 415.54 | adds policy: Space Program; adds notability: keen interest in outer space |
 | 2026-05-04 13:49 | #633 Sound Judgement | the national anthem is considered broadly offensive to those who don't believe in @@FAITH@@ | 259.89 | sometimes removes notability: irreverence towards religion |
