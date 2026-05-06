@@ -2,6 +2,11 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-05-06 13:59 | #134 The Truth Is Out There? | reporters sent to cover suspected UFO visits come back with stories about quilting bees | 320.98 | sometimes adds notability: punitive income tax rates |
+| 2026-05-06 13:59 | #1209 Your Island Is My Island | vacationing @@DEMONYMNOUNPLURAL@@ expect to be treated as royalty | 402.77 | sometimes adds notability: punitive income tax rates |
+| 2026-05-06 13:59 | #1305 The Woman From AUNT | adults pretending to be teenage girls claim to have wholesome motives | 198.88 | sometimes adds notability: punitive income tax rates |
+| 2026-05-06 13:59 | #635 Hey Kid, Have a Cigar | 50% of adverts on children's television are for clothes made of cotton wool | 151.92 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: deadly medical pandemics, exploding hoverboards, spontaneously combusting cars |
+| 2026-05-06 13:59 | #948 1x, 2x, 3x, a Lady | male celebrity chefs are laughed at for their lack of manliness | 104.94 | removes policy: Affirmative Action; sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
 | 2026-05-05 13:29 | #1838 Who’s Afraid of Red, Yellow, and Blue? | state-run museums boast about their anti-@@DEMONYMADJECTIVE@@ art collections | 530.84 | sometimes adds notability: punitive income tax rates, suspicion of poets; sometimes removes notability: complete lack of public education, museums and concert halls |
 | 2026-05-05 13:29 | #992 Robots in Disguise | NPCs in MMORPGs regularly interrupt cutscenes with OOC reminders that they aren't real people | 207.80 | sometimes adds notability: restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, exploding hoverboards may add or remove notability: punitive income tax rates, spontaneously combusting cars |
 | 2026-05-05 13:29 | #317 Big Brother Is Watching You Surf | government popup ads are springing up like weeds | 389.75 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
