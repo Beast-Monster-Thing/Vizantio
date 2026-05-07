@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-05-07 13:57 | #724 Your Stuff Is Forfeit | 3/4. the police go to great efforts to seize contraband favored by politicians on the police oversight committee | 210.61 | sometimes adds notability: punitive income tax rates |
+| 2026-05-07 13:56 | #1407 New Tricks | red fabric is banned | 154.47 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: irreverence towards religion |
+| 2026-05-07 13:56 | #56 “Give Us Money!” Quoth the Poet | people reciting Shakespeare have become a common sight | 568.59 | sometimes adds notability: museums and concert halls may add or remove notability: punitive income tax rates; sometimes removes notability: complete lack of public education, suspicion of poets |
+| 2026-05-07 13:56 | #157 Sergeants Are Too Nasty, Say New Recruits | newborns are being raised as mindless killing machines | 1792.18 | adds policy: Conscription; adds notability: compulsory military service; sometimes adds notability: hatred of cheese, punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, barren, inhospitable landscape |
 | 2026-05-06 13:59 | #134 The Truth Is Out There? | reporters sent to cover suspected UFO visits come back with stories about quilting bees | 320.98 | sometimes adds notability: punitive income tax rates |
 | 2026-05-06 13:59 | #1209 Your Island Is My Island | vacationing @@DEMONYMNOUNPLURAL@@ expect to be treated as royalty | 402.77 | sometimes adds notability: punitive income tax rates |
 | 2026-05-06 13:59 | #1305 The Woman From AUNT | adults pretending to be teenage girls claim to have wholesome motives | 198.88 | sometimes adds notability: punitive income tax rates |
