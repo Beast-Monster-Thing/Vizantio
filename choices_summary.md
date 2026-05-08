@@ -2,6 +2,9 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-05-08 13:23 | #999 Just Plane Ridiculous | scientists earn more grant money for reproducing old experiments than trying anything new | 293.33 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
+| 2026-05-08 13:23 | #1464 Gentry Genes Getting Grim | aristocratic family trees are beginning to resemble tumbleweeds | 352.82 | sometimes adds notability: restrictive gun laws |
+| 2026-05-08 13:23 | #151 Build Bigger Bombs, Advise Scientists | 2/3. the nation has recently been attributed to the funding of terrorist organisations | 757.63 | adds policy: Weapons of Mass Destruction; removes policy: No WMDs; adds notability: ubiquitous missile silos; sometimes adds notability: barren, inhospitable landscape, deadly medical pandemics, hatred of cheese may add or remove notability: punitive income tax rates |
 | 2026-05-07 13:57 | #724 Your Stuff Is Forfeit | 3/4. the police go to great efforts to seize contraband favored by politicians on the police oversight committee | 210.61 | sometimes adds notability: punitive income tax rates |
 | 2026-05-07 13:56 | #1407 New Tricks | red fabric is banned | 154.47 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: irreverence towards religion |
 | 2026-05-07 13:56 | #56 “Give Us Money!” Quoth the Poet | people reciting Shakespeare have become a common sight | 568.59 | sometimes adds notability: museums and concert halls may add or remove notability: punitive income tax rates; sometimes removes notability: complete lack of public education, suspicion of poets |
