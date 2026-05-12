@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-05-12 14:12 | #1244 Mooning the Flag | signs of extraterrestrial life are just foreign astronauts evading @@DEMONYMADJECTIVE@@ justice | 271.14 | sometimes adds notability: punitive income tax rates |
+| 2026-05-12 14:12 | #415 Brain Pain on the Sports Plain | disgruntled jocks are forced to play tetris for entertainment | 72.82 | adds policy: No Sports; sometimes adds notability: deadly medical pandemics may add or remove notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: absence of drug laws |
+| 2026-05-12 14:11 | #1351 Come Give Leader a Kiss! | little children cry as their rainbow drawings are seized by the Straight-Thought Police | 589.84 | adds policy: Heterosexuality; removes policy: Marriage Equality; adds notability: avowedly heterosexual populace; sometimes adds notability: punitive income tax rates, restrictive gun laws |
+| 2026-05-12 14:11 | #1097 What Do We Do With a Drunken Sailor? | sailors spend their shore leave helping old ladies cross the street | 295.06 | adds policy: Corporal Punishment; adds notability: public floggings; sometimes adds policy: No Drugs; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-05-11 14:41 | #1708 The Sun Is a Deadly Lazer | the numbers on the latest spending report are reaching stellar levels | 297.03 | sometimes adds notability: punitive income tax rates |
 | 2026-05-11 14:41 | #1556 Gimme Shelter | men who wear pink are seen as dangerously unmanly | 302.85 | sometimes adds notability: restrictive gun laws; sometimes removes notability: punitive income tax rates |
 | 2026-05-11 14:40 | #1589 Losing Touch | mums always ask their three-year-olds for permission before hugging them | 67.94 | sometimes adds notability: absence of drug laws, punitive income tax rates; sometimes removes notability: restrictive gun laws |
