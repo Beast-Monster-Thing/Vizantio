@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-05-14 14:00 | #1198 The Death Debate Isn’t Dead Yet | it is technically inaccurate to call the dead 'worm food' | 141.68 | sometimes adds notability: punitive income tax rates; sometimes removes notability: deadly medical pandemics |
+| 2026-05-14 14:00 | #498 Computer Says No | the government's economic policy can be summed up as "Abort, Retry, Fail?" | 118.80 | sometimes adds notability: punitive income tax rates |
+| 2026-05-14 14:00 | #1758 Let Me Be Queer | gay couples who hold hands are forced into unbreakable bonds | 247.74 | — |
+| 2026-05-14 13:59 | #564 Do Good Intentions Make Good Samaritans? | bands of paramedics walk the streets looking for suspicious medical activity | 188.56 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: deadly medical pandemics |
 | 2026-05-13 14:24 | #1732 Too Big to Rig | pension obligations are building | 103.36 | sometimes adds notability: devotion to social welfare, punitive income tax rates; sometimes removes notability: complete absence of social welfare |
 | 2026-05-13 14:23 | #505 Florists Blooming Mad | Maxtopians are both starving and giddy after the @@DEMONYMADJECTIVE@@ military unleashed its biological weapons | 258.76 | adds policy: Weapons of Mass Destruction; removes policy: No WMDs; adds notability: ubiquitous missile silos; sometimes adds notability: barren, inhospitable landscape, hatred of cheese, punitive income tax rates |
 | 2026-05-13 14:23 | #1410 Lives On-Line | hospitals fear government fines more than terrorist ransoms | 591.29 | sometimes adds notability: stringent health and safety legislation; sometimes removes notability: exploding hoverboards may add or remove notability: punitive income tax rates, spontaneously combusting cars |
