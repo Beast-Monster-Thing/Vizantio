@@ -2,6 +2,9 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-05-15 13:57 | #1706 Coal, Coal Never Changes | the Great @@DEMONYMADJECTIVE@@ Tar Cloud can be seen from space | 318.67 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese; sometimes removes notability: punitive income tax rates |
+| 2026-05-15 13:57 | #1608 G’s Louise | children grow up believing the sun to be a myth | 163.23 | sometimes adds notability: barren, inhospitable landscape; sometimes removes notability: punitive income tax rates |
+| 2026-05-15 13:56 | #208 Mine Collapse Rocks Vizantio | 2/3. mining is the nation's most dangerous occupation | 71.08 | sometimes adds notability: barren, inhospitable landscape, deadly medical pandemics, exploding hoverboards, spontaneously combusting cars; sometimes removes notability: punitive income tax rates, stringent health and safety legislation |
 | 2026-05-14 14:00 | #1198 The Death Debate Isn’t Dead Yet | it is technically inaccurate to call the dead 'worm food' | 141.68 | sometimes adds notability: punitive income tax rates; sometimes removes notability: deadly medical pandemics |
 | 2026-05-14 14:00 | #498 Computer Says No | the government's economic policy can be summed up as "Abort, Retry, Fail?" | 118.80 | sometimes adds notability: punitive income tax rates |
 | 2026-05-14 14:00 | #1758 Let Me Be Queer | gay couples who hold hands are forced into unbreakable bonds | 247.74 | — |
