@@ -2,6 +2,9 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-05-16 13:13 | #66 Transgender Recognition Demanded | women wearing male lounge-wear are quizzed for hours by mental health practitioners | 1206.30 | sometimes adds notability: deadly medical pandemics, punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-05-16 13:13 | #548 Appointment of a Science Advisor | every new toxic waste dump comes with a seal of approval from the government's science advisor | 209.19 | sometimes adds notability: barren, inhospitable landscape may add or remove notability: hatred of cheese may add or remove notability: punitive income tax rates, spontaneously combusting cars; sometimes removes notability: stringent health and safety legislation |
+| 2026-05-16 13:13 | #1790 Vizantio’s Chipping In | selling advanced CPUs to anti-@@DEMONYMADJECTIVE@@ terrorists is no chip on the government's shoulders | 245.39 | sometimes removes notability: punitive income tax rates |
 | 2026-05-15 13:57 | #1706 Coal, Coal Never Changes | the Great @@DEMONYMADJECTIVE@@ Tar Cloud can be seen from space | 318.67 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese; sometimes removes notability: punitive income tax rates |
 | 2026-05-15 13:57 | #1608 G’s Louise | children grow up believing the sun to be a myth | 163.23 | sometimes adds notability: barren, inhospitable landscape; sometimes removes notability: punitive income tax rates |
 | 2026-05-15 13:56 | #208 Mine Collapse Rocks Vizantio | 2/3. mining is the nation's most dangerous occupation | 71.08 | sometimes adds notability: barren, inhospitable landscape, deadly medical pandemics, exploding hoverboards, spontaneously combusting cars; sometimes removes notability: punitive income tax rates, stringent health and safety legislation |
