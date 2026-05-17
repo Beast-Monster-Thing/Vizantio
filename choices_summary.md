@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-05-17 13:11 | #565 ‘A’ Is for Academic Doping | summer science camps are regularly raided by narcotics police | 726.48 | removes notability: absence of drug laws; sometimes adds notability: punitive income tax rates, restrictive gun laws |
+| 2026-05-17 13:10 | #1477 Some People Never Listen | the deaf are perplexed when the weather report tells them that the wind will be "bringing some rain along the Nazi ghosts" | 55.19 | sometimes removes notability: punitive income tax rates |
+| 2026-05-17 13:10 | #875 They See Me Trollin’, They Threatenin’ | 13-year-old internet trolls are treated as a threat on par with terrorists | 440.14 | sometimes adds policy: No Dissent may add or remove policy: Public Protest; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-05-17 13:10 | #1827 Row, Row, Row Your Drug Boat! | foreign nationals who stumble near @@NAME@@ are harbingers of war | 542.93 | sometimes adds policy: No Drugs; sometimes removes notability: absence of drug laws |
 | 2026-05-16 13:13 | #66 Transgender Recognition Demanded | women wearing male lounge-wear are quizzed for hours by mental health practitioners | 1206.30 | sometimes adds notability: deadly medical pandemics, punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-05-16 13:13 | #548 Appointment of a Science Advisor | every new toxic waste dump comes with a seal of approval from the government's science advisor | 209.19 | sometimes adds notability: barren, inhospitable landscape may add or remove notability: hatred of cheese may add or remove notability: punitive income tax rates, spontaneously combusting cars; sometimes removes notability: stringent health and safety legislation |
 | 2026-05-16 13:13 | #1790 Vizantio’s Chipping In | selling advanced CPUs to anti-@@DEMONYMADJECTIVE@@ terrorists is no chip on the government's shoulders | 245.39 | sometimes removes notability: punitive income tax rates |
