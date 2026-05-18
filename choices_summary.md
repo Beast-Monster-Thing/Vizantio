@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-05-18 15:21 | #93 Affirmative Action in Vizantio? | ethnic minorities are often refused admission to some of the nation's best schools | 131.14 | sometimes adds notability: spontaneously combusting cars; sometimes removes notability: punitive income tax rates, stringent health and safety legislation |
+| 2026-05-18 15:21 | #355 Alien Invaders | invasive species are hunted by the gendarmerie | 99.82 | sometimes removes notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates |
+| 2026-05-18 15:21 | #1189 Driven to Distraction | drivers are told they're not staring at mobile phone screens enough | 306.72 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, deadly medical pandemics may add or remove notability: punitive income tax rates |
+| 2026-05-18 15:20 | #1482 A Crypto for the Comrades? | digital novelty coins make for surprising vanguards of the revolution | 291.61 | sometimes removes notability: punitive income tax rates, stringent health and safety legislation |
 | 2026-05-17 13:11 | #565 ‘A’ Is for Academic Doping | summer science camps are regularly raided by narcotics police | 726.48 | removes notability: absence of drug laws; sometimes adds notability: punitive income tax rates, restrictive gun laws |
 | 2026-05-17 13:10 | #1477 Some People Never Listen | the deaf are perplexed when the weather report tells them that the wind will be "bringing some rain along the Nazi ghosts" | 55.19 | sometimes removes notability: punitive income tax rates |
 | 2026-05-17 13:10 | #875 They See Me Trollin’, They Threatenin’ | 13-year-old internet trolls are treated as a threat on par with terrorists | 440.14 | sometimes adds policy: No Dissent may add or remove policy: Public Protest; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
