@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-05-20 14:53 | #909 On the Fence | bilingual @@DEMONYMNOUNPLURAL@@ are viewed with suspicion | 74.51 | sometimes adds notability: restrictive gun laws, suspicion of poets; sometimes removes notability: museums and concert halls |
+| 2026-05-20 14:53 | #462 Don’t Let the Sun Go Down on Me | the installation of street lights across remote goat tracks has left citizens bemused | 64.32 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese, punitive income tax rates |
+| 2026-05-20 14:52 | #685 Externalities Palmed Off | napalm is the tool of choice for disabling eco-unfriendly forestry operations | 181.89 | sometimes adds notability: punitive income tax rates |
+| 2026-05-20 14:52 | #1085 Nuke Before You Leap | the fate of the world literally rests on @@LEADER@@'s fingers | 86.64 | sometimes adds notability: punitive income tax rates |
 | 2026-05-18 15:21 | #93 Affirmative Action in Vizantio? | ethnic minorities are often refused admission to some of the nation's best schools | 131.14 | sometimes adds notability: spontaneously combusting cars; sometimes removes notability: punitive income tax rates, stringent health and safety legislation |
 | 2026-05-18 15:21 | #355 Alien Invaders | invasive species are hunted by the gendarmerie | 99.82 | sometimes removes notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates |
 | 2026-05-18 15:21 | #1189 Driven to Distraction | drivers are told they're not staring at mobile phone screens enough | 306.72 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, deadly medical pandemics may add or remove notability: punitive income tax rates |
