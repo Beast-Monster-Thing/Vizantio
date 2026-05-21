@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-05-21 14:57 | #589 To Boldly Go? | at the edge of the final frontier space's biggest missile platform is about to unfold | 855.02 | — |
+| 2026-05-21 14:56 | #31 Get Efficient, Private Sector Tells Nature | a government program is underway to revitalize @@NAME@@'s beaches | 28.13 | sometimes removes notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates |
+| 2026-05-21 14:56 | #525 Nowhere to Go! | @@A@@ @@REGION@@ Tourist Association survey has rated @@NAME@@ #1 for number twos | 61.26 | sometimes adds notability: complete absence of social welfare, spontaneously combusting cars; sometimes removes notability: devotion to social welfare, punitive income tax rates, stringent health and safety legislation |
+| 2026-05-21 14:56 | #325 Blazing Through the Paper Trail | 2/3. 1% of global paper production is bound for the National Archive | 264.13 | — |
 | 2026-05-20 14:53 | #909 On the Fence | bilingual @@DEMONYMNOUNPLURAL@@ are viewed with suspicion | 74.51 | sometimes adds notability: restrictive gun laws, suspicion of poets; sometimes removes notability: museums and concert halls |
 | 2026-05-20 14:53 | #462 Don’t Let the Sun Go Down on Me | the installation of street lights across remote goat tracks has left citizens bemused | 64.32 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese, punitive income tax rates |
 | 2026-05-20 14:52 | #685 Externalities Palmed Off | napalm is the tool of choice for disabling eco-unfriendly forestry operations | 181.89 | sometimes adds notability: punitive income tax rates |
