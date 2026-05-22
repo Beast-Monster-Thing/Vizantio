@@ -2,6 +2,9 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-05-22 14:30 | #1747 A Problem We’d Rat-her Not Have | murder suspects plead the 'there was a rat beneath his chef's hat' defense | 194.40 | removes policy: Gun Control; removes notability: restrictive gun laws; sometimes adds notability: exploding hoverboards, museums and concert halls, spontaneously combusting cars; sometimes removes notability: stringent health and safety legislation, suspicion of poets |
+| 2026-05-22 14:30 | #1488 First, Do No Harm | the cruise missile launchers on the field hospital roof are purely deterrent in purpose | 81.74 | sometimes adds notability: punitive income tax rates |
+| 2026-05-22 14:29 | #1795 Sesquipedalianism Not So Supercalifragilisticexpialidocious? | people with hippopotomonstrosesquippedaliophobia faint upon diagnosis | 366.68 | sometimes adds notability: museums and concert halls; sometimes removes notability: suspicion of poets |
 | 2026-05-21 14:57 | #589 To Boldly Go? | at the edge of the final frontier space's biggest missile platform is about to unfold | 855.02 | — |
 | 2026-05-21 14:56 | #31 Get Efficient, Private Sector Tells Nature | a government program is underway to revitalize @@NAME@@'s beaches | 28.13 | sometimes removes notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates |
 | 2026-05-21 14:56 | #525 Nowhere to Go! | @@A@@ @@REGION@@ Tourist Association survey has rated @@NAME@@ #1 for number twos | 61.26 | sometimes adds notability: complete absence of social welfare, spontaneously combusting cars; sometimes removes notability: devotion to social welfare, punitive income tax rates, stringent health and safety legislation |
