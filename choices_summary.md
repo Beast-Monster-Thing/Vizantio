@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-05-23 13:16 | #758 Bye Bye to the Birdies? | it is illegal to brush crumbs off your clothing outdoors | 138.60 | sometimes removes notability: barren, inhospitable landscape, deadly medical pandemics, hatred of cheese may add or remove notability: punitive income tax rates |
+| 2026-05-23 13:16 | #1195 All Hands on Tap! | the government has officially clarified that "wee on your hands to save time" does not count as proper hygiene | 95.96 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese, punitive income tax rates; sometimes removes notability: deadly medical pandemics |
+| 2026-05-23 13:16 | #1314 Nothing to Write Home About | military information leaks are **REDACTED** by **REDACTED** in **REDACTED** | 190.98 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-05-23 13:15 | #869 I’ll Be in My Bunker | cleaners are very careful not to bump into the big red button on @@LEADER@@'s desk | 540.05 | sometimes adds notability: barren, inhospitable landscape, punitive income tax rates |
 | 2026-05-22 14:30 | #1747 A Problem We’d Rat-her Not Have | murder suspects plead the 'there was a rat beneath his chef's hat' defense | 194.40 | removes policy: Gun Control; removes notability: restrictive gun laws; sometimes adds notability: exploding hoverboards, museums and concert halls, spontaneously combusting cars; sometimes removes notability: stringent health and safety legislation, suspicion of poets |
 | 2026-05-22 14:30 | #1488 First, Do No Harm | the cruise missile launchers on the field hospital roof are purely deterrent in purpose | 81.74 | sometimes adds notability: punitive income tax rates |
 | 2026-05-22 14:29 | #1795 Sesquipedalianism Not So Supercalifragilisticexpialidocious? | people with hippopotomonstrosesquippedaliophobia faint upon diagnosis | 366.68 | sometimes adds notability: museums and concert halls; sometimes removes notability: suspicion of poets |
