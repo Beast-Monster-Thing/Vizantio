@@ -2,6 +2,11 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-05-26 14:59 | #20 Gunman Kills Three | a valid legal defense is 'dead men tell no tales' | 490.15 | removes notability: restrictive gun laws; sometimes adds notability: absence of drug laws; sometimes removes notability: punitive income tax rates |
+| 2026-05-26 14:58 | #679 Space Is Big Enough for the Both of Us | East Lebatuckese astronauts' favorite game during downtime on the Multinational Space Station is 'I Spy' | 595.58 | sometimes adds notability: restrictive gun laws |
+| 2026-05-26 14:58 | #1005 What Goes Up Breaks Down | cutting-edge missile systems are being retrofitted to twin-prop air force biplanes | 611.86 | sometimes adds notability: stringent health and safety legislation; sometimes removes notability: spontaneously combusting cars |
+| 2026-05-26 14:58 | #733 The Path Less Traveled | there are six more weeks of winter if a northerner sees @@his/her@@ shadow | 97.08 | sometimes adds notability: devotion to social welfare, punitive income tax rates; sometimes removes notability: complete absence of social welfare |
+| 2026-05-26 14:58 | #583 Don’t Be a Busk-Kill | the @@CAPITAL@@ Prison Revue puts on a better stage show than anything in the Theatre District | 223.36 | sometimes adds notability: punitive income tax rates, restrictive gun laws, suspicion of poets; sometimes removes notability: absence of drug laws, museums and concert halls, spontaneously combusting cars |
 | 2026-05-25 14:46 | #1844 A Spicy Situation | children are strong-armed by police into eating their greens | 311.73 | — |
 | 2026-05-25 14:46 | #1237 A Polar Bear’s Tale | public shaming has become the favoured form of punishment | 110.99 | sometimes adds notability: punitive income tax rates; sometimes removes notability: absence of drug laws |
 | 2026-05-25 14:46 | #50 Whips, Chains, and Leather, Oh My! | midnight raids drag couples from their homes in the name of decency | 620.28 | sometimes adds policy: Prudism; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
