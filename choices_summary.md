@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-06-02 16:14 | #82 AI Researchers Rally for Android Rights | major internet servers have acquired citizenship | 181.09 | sometimes adds policy: AI Personhood; sometimes adds notability: irreverence towards religion; sometimes removes notability: punitive income tax rates |
+| 2026-06-02 16:14 | #1773 To the Letter | a glyph of @@LEADER@@ is worth a thousand letters | 258.12 | sometimes adds notability: museums and concert halls; sometimes removes notability: suspicion of poets |
+| 2026-06-02 16:14 | #581 Fair to Say...? | tech-mad citizens think that the laser-powered bread-slicer uPhone App is the coolest thing since sliced bread | 341.19 | sometimes removes notability: punitive income tax rates |
+| 2026-06-02 16:14 | #1099 New Satellite Blues | 5/6. the government's new priority is citizens' access to cat videos | 445.84 | sometimes adds notability: museums and concert halls, punitive income tax rates; sometimes removes notability: suspicion of poets |
 | 2026-06-01 17:30 | #422 Wounded Veterans Demand a Helping Hand | wounded veterans can only get prosthetics if they agree to become walking billboards for the arms industry | 215.96 | sometimes adds notability: spontaneously combusting cars; sometimes removes notability: punitive income tax rates |
 | 2026-06-01 17:30 | #1309 Give an Eagle a Bone | veterans' meet-ups involve a lot of tail sniffing | 165.69 | sometimes adds notability: complete absence of social welfare; sometimes removes notability: devotion to social welfare may add or remove notability: punitive income tax rates |
 | 2026-06-01 17:30 | #219 Nobody Expects the Vizantioan Inquisition! | atheists and evolutionary biologists are fleeing the country like rats from a sinking ship | 2114.46 | adds policy: Capital Punishment, Corporal Punishment; removes policy: Atheism; adds notability: frequent executions, public floggings; sometimes adds policy: Theocracy; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
