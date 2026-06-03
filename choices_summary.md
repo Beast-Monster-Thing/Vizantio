@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-06-03 16:30 | #464 The Eagle Republic Shall Rise Again? | the government has embraced apartheid | 471.92 | removes policy: Affirmative Action; sometimes adds notability: punitive income tax rates |
+| 2026-06-03 16:30 | #580 Vizantio Taking Leave of Its Census? | no personal detail is too tiny for the suede-denim census police | 593.19 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, complete lack of public education |
+| 2026-06-03 16:30 | #860 A Blast From the Past | students learn how to disarm mines before understanding basic arithmetic | 249.04 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
+| 2026-06-03 16:30 | #1003 That Smarts | the current TV ratings hit is "Keeping Up With The @@DEMONYMNOUNPLURAL@@" | 320.81 | removes policy: Free Tertiary Education; sometimes adds notability: complete lack of public education, restrictive gun laws; sometimes removes notability: punitive income tax rates |
 | 2026-06-02 16:14 | #82 AI Researchers Rally for Android Rights | major internet servers have acquired citizenship | 181.09 | sometimes adds policy: AI Personhood; sometimes adds notability: irreverence towards religion; sometimes removes notability: punitive income tax rates |
 | 2026-06-02 16:14 | #1773 To the Letter | a glyph of @@LEADER@@ is worth a thousand letters | 258.12 | sometimes adds notability: museums and concert halls; sometimes removes notability: suspicion of poets |
 | 2026-06-02 16:14 | #581 Fair to Say...? | tech-mad citizens think that the laser-powered bread-slicer uPhone App is the coolest thing since sliced bread | 341.19 | sometimes removes notability: punitive income tax rates |
