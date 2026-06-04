@@ -2,6 +2,9 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-06-04 14:49 | #588 Last Call for Alcohol? | former bars are desperately trying to re-brand themselves as cafés | 1053.03 | adds policy: Prohibition; adds notability: prohibition of alcohol may add or remove notability: punitive income tax rates; removes notability: absence of drug laws, rum-swilling pirates; sometimes adds notability: restrictive gun laws, teetotalling pirates; sometimes removes notability: deadly medical pandemics, spontaneously combusting cars |
+| 2026-06-04 14:49 | #1330 Guilt by Association | the recently bereaved have plenty of time to mourn during their incarcerations | 151.64 | sometimes adds notability: punitive income tax rates, restrictive gun laws |
+| 2026-06-04 14:49 | #803 Park That Thought | cogitators and mass debaters are skiving off work to hang around the National Symposium Park | 260.55 | sometimes adds notability: museums and concert halls; sometimes removes notability: suspicion of poets |
 | 2026-06-03 16:30 | #464 The Eagle Republic Shall Rise Again? | the government has embraced apartheid | 471.92 | removes policy: Affirmative Action; sometimes adds notability: punitive income tax rates |
 | 2026-06-03 16:30 | #580 Vizantio Taking Leave of Its Census? | no personal detail is too tiny for the suede-denim census police | 593.19 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, complete lack of public education |
 | 2026-06-03 16:30 | #860 A Blast From the Past | students learn how to disarm mines before understanding basic arithmetic | 249.04 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
