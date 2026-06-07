@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-06-07 13:43 | #813 A Little Birdie Told Me | foreign leaders' Twitcher accounts are monitored for potential threats to national security | 174.72 | sometimes adds notability: punitive income tax rates |
+| 2026-06-07 13:43 | #765 Don’t Judge Me | murderers with law degrees can be seen swinging the gavel in courts | 418.85 | sometimes adds notability: punitive income tax rates |
+| 2026-06-07 13:43 | #198 Not All Those Who Wander Are Paying | homes have been banned from having any more than one wheel | 397.07 | sometimes adds notability: punitive income tax rates may add or remove notability: restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, barren, inhospitable landscape, spontaneously combusting cars |
+| 2026-06-07 13:43 | #699 Pipe Down, Already! | families waiting for delayed pipe installations hope daily for rain | 89.97 | sometimes adds notability: punitive income tax rates; sometimes removes notability: barren, inhospitable landscape, deadly medical pandemics, hatred of cheese |
 | 2026-06-06 13:23 | #1730 Cloudy With a Chance of Fecal Matter | the nation's skies are now a wasteland | 160.06 | adds policy: No Aircraft; adds notability: lack of airports; sometimes adds notability: hatred of cheese, punitive income tax rates; sometimes removes notability: barren, inhospitable landscape |
 | 2026-06-06 13:23 | #1013 Grave Disease | wood-framed catapults are ready to launch diseased corpses into besieged cities | 575.52 | adds policy: Weapons of Mass Destruction; removes policy: No WMDs; adds notability: ubiquitous missile silos; sometimes adds notability: punitive income tax rates |
 | 2026-06-06 13:22 | #14 Military Demands Increased Spending | military spending is on the increase | 1292.28 | sometimes adds notability: absence of drug laws may add or remove notability: punitive income tax rates; sometimes removes notability: restrictive gun laws |
