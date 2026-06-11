@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-06-11 15:52 | #510 Possession, Protection or Poppycock? | children fear compulsory visits to their spiritual advisors more than the dentist | 709.69 | sometimes adds policy: Theocracy; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-06-11 15:51 | #625 Delivering the Goods | journalists giggle uncontrollably while reporting the nation's drug bonfires | 295.41 | removes policy: Cannabis; sometimes adds policy: No Drugs; sometimes adds notability: punitive income tax rates, restrictive gun laws |
+| 2026-06-11 15:51 | #557 Take a Hike! | search and rescue forces now accept cheques and all major credit cards | 229.41 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws may add or remove notability: punitive income tax rates |
+| 2026-06-11 15:51 | #1593 Flap Over Flag Fashion | this year's hottest fashion trend is the Lese Majeste collection | 245.77 | sometimes adds notability: museums and concert halls, punitive income tax rates, restrictive gun laws; sometimes removes notability: suspicion of poets |
 | 2026-06-10 15:24 | #410 12 Angry, Tired, and Increasingly Confused Men | listless juries are assembled for the simplest of court cases | 35.51 | sometimes adds notability: absence of drug laws, punitive income tax rates; sometimes removes notability: restrictive gun laws |
 | 2026-06-10 15:24 | #1525 Leader: The Musical! | songs of praise to @@LEADER@@ are filled with coded messages from the resistance | 20.73 | sometimes adds notability: punitive income tax rates, restrictive gun laws, suspicion of poets; sometimes removes notability: museums and concert halls |
 | 2026-06-10 15:23 | #1513 Bunged Up | the Treasury has been accused of flushing money down the toilet | 152.18 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese, punitive income tax rates |
