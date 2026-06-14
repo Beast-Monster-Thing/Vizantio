@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-06-14 13:53 | #694 Concussive Percussion | dynamite sales and concert audiences are booming | 487.19 | sometimes adds notability: museums and concert halls, punitive income tax rates; sometimes removes notability: suspicion of poets |
+| 2026-06-14 13:52 | #1721 Ministers of Make Believe | preschoolers outnumber veteran politicians in government | 627.33 | sometimes removes notability: complete lack of public education |
+| 2026-06-14 13:52 | #1714 Taking a Stand | public transit is widely considered to be perpetrating the patriarchy | 119.83 | — |
+| 2026-06-14 13:52 | #1563 Apostropocalypse Now | aggravated apostrophe abusers are admonished and assaulted | 470.16 | sometimes adds policy: Corporal Punishment; sometimes adds notability: public floggings, restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
 | 2026-06-13 13:51 | #1560 Dead Gay | a lot of number one hits are straight cover versions | 132.30 | sometimes adds notability: museums and concert halls; sometimes removes notability: suspicion of poets |
 | 2026-06-13 13:51 | #830 Unreasonable Adjustments? | employers are finding it hard to screen candidates now that everyone gets A grades in their exams | 145.98 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
 | 2026-06-13 13:50 | #1674 Reining the Dragon | self-sufficiency is built on seizing foreign assets | 802.96 | adds policy: Autarky; removes notability: conspicuous electricity pylons; sometimes adds policy: Nuclear Power; sometimes adds notability: punitive income tax rates, sprawling nuclear power plants, stringent health and safety legislation; sometimes removes notability: complete lack of public education |
