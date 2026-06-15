@@ -2,6 +2,11 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-06-15 17:09 | #259 A Taste of Revenge | the nation's new foreign policy of 'very disproportionate retribution' has its neighbors on edge | 410.44 | — |
+| 2026-06-15 17:09 | #821 A Switch in Time Kills Nine | it is illegal to have the wrong clock time showing on your microwave oven | 106.72 | sometimes adds notability: museums and concert halls, stringent health and safety legislation; sometimes removes notability: barren, inhospitable landscape, exploding hoverboards, hatred of cheese, punitive income tax rates, spontaneously combusting cars, suspicion of poets |
+| 2026-06-15 17:09 | #1769 Taking Atoll | colonies are told they'll get their sovereignty back when they finish supper | 340.60 | adds notability: pith helmet sales; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-06-15 17:09 | #1748 Vizantioans Still Footing the Bill | the "government funding" steroid is all the rage | 356.35 | — |
+| 2026-06-15 17:08 | #1144 A Noble Cause for a Fight | every noble family has a 'personal file' on record courtesy of the central intelligence service | 282.28 | — |
 | 2026-06-14 13:53 | #694 Concussive Percussion | dynamite sales and concert audiences are booming | 487.19 | sometimes adds notability: museums and concert halls, punitive income tax rates; sometimes removes notability: suspicion of poets |
 | 2026-06-14 13:52 | #1721 Ministers of Make Believe | preschoolers outnumber veteran politicians in government | 627.33 | sometimes removes notability: complete lack of public education |
 | 2026-06-14 13:52 | #1714 Taking a Stand | public transit is widely considered to be perpetrating the patriarchy | 119.83 | — |
