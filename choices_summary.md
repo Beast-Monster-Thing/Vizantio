@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-06-17 15:16 | #103 Plague of the Hybrids! | @@ANIMAL@@ populations thrive as dogs are slaughtered in the millions | 408.31 | sometimes removes notability: barren, inhospitable landscape, punitive income tax rates |
+| 2026-06-17 15:16 | #1093 Ignorance Is No Excuse? | dozens of viewers go online to hear whether a comma has been added to Clause 5 in Subsection B of Law 58375 | 443.40 | — |
+| 2026-06-17 15:16 | #1015 Court in the Middle | grinding bureaucracy has the international wheels of justice turning slowly | 48.85 | — |
+| 2026-06-17 15:16 | #7 Animal Liberation Front Strikes Again | Animal Liberationists are regularly arrested | 367.42 | sometimes adds policy: No Dissent may add or remove policy: Public Protest; sometimes adds notability: deadly medical pandemics, exploding hoverboards, restrictive gun laws, spontaneously combusting cars; sometimes removes notability: absence of drug laws, punitive income tax rates, stringent health and safety legislation leads to #1840 |
 | 2026-06-16 16:42 | #783 Sergeant McCool Reporting for Duty | military instructors tire of being asked for another bedtime story by seven-year-old conscripts | 471.90 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-06-16 16:42 | #261 Plastic, Plastic Everywhere | the nation's industries are scrambling to switch to biodegradable plastics | 45.00 | sometimes adds notability: stringent health and safety legislation; sometimes removes notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates |
 | 2026-06-16 16:42 | #1196 The Properties of Property | new "Worker's Strike" laws set out who is allowed to strike a worker | -1.08 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: exploding hoverboards, restrictive gun laws, spontaneously combusting cars |
