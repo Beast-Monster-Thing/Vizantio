@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-06-18 14:58 | #1840 About Face | when it comes to flavor there's no gain without pain | 554.04 | sometimes adds notability: exploding hoverboards, spontaneously combusting cars; sometimes removes notability: stringent health and safety legislation |
+| 2026-06-18 14:57 | #566 Drive My Car | traffic cops spend most of their work-hours calculating citizens' monthly income | 84.60 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation |
+| 2026-06-18 14:57 | #1450 Driving Leader | @@LEADER@@'s Dreadnought-class tankbuster limousine is said to have more ammunition than the entire Brancalandian Army | 153.14 | — |
+| 2026-06-18 14:57 | #118 Need for Speed? | motorists' locations are constantly tracked by intelligence and law enforcement agencies | 470.41 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-06-17 15:16 | #103 Plague of the Hybrids! | @@ANIMAL@@ populations thrive as dogs are slaughtered in the millions | 408.31 | sometimes removes notability: barren, inhospitable landscape, punitive income tax rates |
 | 2026-06-17 15:16 | #1093 Ignorance Is No Excuse? | dozens of viewers go online to hear whether a comma has been added to Clause 5 in Subsection B of Law 58375 | 443.40 | — |
 | 2026-06-17 15:16 | #1015 Court in the Middle | grinding bureaucracy has the international wheels of justice turning slowly | 48.85 | — |
