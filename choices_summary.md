@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-06-19 14:55 | #874 Still Life | a life spent suffering in silence is considered noble | 31.65 | — |
+| 2026-06-19 14:55 | #536 Any Witch Way Spells Disaster | bands of adventurers rove the countryside searching for monsters | 580.43 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-06-19 14:55 | #852 Brown Breeches Thanks to Speeches | 2/3. lip-readers are often left perplexed by political rallies | 155.55 | sometimes removes notability: punitive income tax rates |
+| 2026-06-19 14:55 | #354 Subversive Shortwaves | the government is suspected of mass disappearing dissidents both at home and abroad | 772.93 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-06-18 14:58 | #1840 About Face | when it comes to flavor there's no gain without pain | 554.04 | sometimes adds notability: exploding hoverboards, spontaneously combusting cars; sometimes removes notability: stringent health and safety legislation |
 | 2026-06-18 14:57 | #566 Drive My Car | traffic cops spend most of their work-hours calculating citizens' monthly income | 84.60 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation |
 | 2026-06-18 14:57 | #1450 Driving Leader | @@LEADER@@'s Dreadnought-class tankbuster limousine is said to have more ammunition than the entire Brancalandian Army | 153.14 | — |
