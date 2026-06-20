@@ -2,6 +2,9 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-06-20 13:51 | #162 Animal Experimentation Laws Under Scrutiny | several citizens have complained about scientists abducting their pets for experimentation | 192.53 | sometimes adds notability: spontaneously combusting cars; sometimes removes notability: complete lack of public education may add or remove notability: punitive income tax rates, stringent health and safety legislation |
+| 2026-06-20 13:51 | #37 Traffic Cops Needed on Information Superhighway? | the government snoops on private internet connections | 339.46 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-06-20 13:51 | #1018 Operation Failed | the doctor has cold hands | 279.05 | sometimes adds notability: exploding hoverboards, spontaneously combusting cars; sometimes removes notability: deadly medical pandemics, punitive income tax rates, stringent health and safety legislation |
 | 2026-06-19 14:55 | #874 Still Life | a life spent suffering in silence is considered noble | 31.65 | — |
 | 2026-06-19 14:55 | #536 Any Witch Way Spells Disaster | bands of adventurers rove the countryside searching for monsters | 580.43 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-06-19 14:55 | #852 Brown Breeches Thanks to Speeches | 2/3. lip-readers are often left perplexed by political rallies | 155.55 | sometimes removes notability: punitive income tax rates |
