@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-06-21 14:00 | #825 Bugging Out on Beef | diners regard burgers made from mechanically reclaimed cow protein as "proper meat" | 89.42 | sometimes adds notability: barren, inhospitable landscape, deadly medical pandemics, hatred of cheese may add or remove notability: punitive income tax rates |
+| 2026-06-21 14:00 | #494 Whipping Up a Controversy | jaywalking is punishable by public flogging | 48.98 | sometimes removes notability: absence of drug laws, punitive income tax rates |
+| 2026-06-21 14:00 | #1425 Leader’s New Clothes | @@DEMONYMNOUNPLURAL@@ believe manners maketh the leader | 269.96 | sometimes adds notability: museums and concert halls, punitive income tax rates; sometimes removes notability: suspicion of poets |
+| 2026-06-21 13:59 | #1080 The End Was Nigh | not showing enough enthusiasm for mutual assured destruction is a court-martial offence | 45.61 | sometimes adds notability: punitive income tax rates |
 | 2026-06-20 13:51 | #162 Animal Experimentation Laws Under Scrutiny | several citizens have complained about scientists abducting their pets for experimentation | 192.53 | sometimes adds notability: spontaneously combusting cars; sometimes removes notability: complete lack of public education may add or remove notability: punitive income tax rates, stringent health and safety legislation |
 | 2026-06-20 13:51 | #37 Traffic Cops Needed on Information Superhighway? | the government snoops on private internet connections | 339.46 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-06-20 13:51 | #1018 Operation Failed | the doctor has cold hands | 279.05 | sometimes adds notability: exploding hoverboards, spontaneously combusting cars; sometimes removes notability: deadly medical pandemics, punitive income tax rates, stringent health and safety legislation |
