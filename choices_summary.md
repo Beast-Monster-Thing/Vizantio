@@ -2,6 +2,11 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-06-22 16:47 | #1053 Some Enchanted Evening That Was | there is no such thing as an innocent fling in the @@DEMONYMADJECTIVE@@ military | 215.60 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds policy: No Dissent; sometimes removes policy: Public Protest; sometimes adds notability: restrictive gun laws; sometimes removes notability: punitive income tax rates |
+| 2026-06-22 16:47 | #1345 To Each According to Whatever’s Left | they who do not work shall not eat | 183.51 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: absence of drug laws, barren, inhospitable landscape, hatred of cheese |
+| 2026-06-22 16:47 | #1699 Achute Binjury | raccoons are plump and satiated | 25.22 | sometimes adds notability: stringent health and safety legislation; sometimes removes notability: exploding hoverboards, spontaneously combusting cars |
+| 2026-06-22 16:47 | #441 You’ve Got a Friend in Bee | EpiPen sales have skyrocketed | 196.36 | sometimes removes notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates, restrictive gun laws |
+| 2026-06-22 16:47 | #1702 Congratulations, You Have Crabs! | the government is proudly free of crabs | 217.12 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation |
 | 2026-06-21 14:00 | #825 Bugging Out on Beef | diners regard burgers made from mechanically reclaimed cow protein as "proper meat" | 89.42 | sometimes adds notability: barren, inhospitable landscape, deadly medical pandemics, hatred of cheese may add or remove notability: punitive income tax rates |
 | 2026-06-21 14:00 | #494 Whipping Up a Controversy | jaywalking is punishable by public flogging | 48.98 | sometimes removes notability: absence of drug laws, punitive income tax rates |
 | 2026-06-21 14:00 | #1425 Leader’s New Clothes | @@DEMONYMNOUNPLURAL@@ believe manners maketh the leader | 269.96 | sometimes adds notability: museums and concert halls, punitive income tax rates; sometimes removes notability: suspicion of poets |
