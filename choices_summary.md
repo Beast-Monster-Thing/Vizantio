@@ -2,6 +2,9 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-06-23 14:39 | #264 Not a Drop to Drink | almost all of @@NAME@@'s water is piped into the country from abroad for exorbitant prices | 214.44 | sometimes adds notability: barren, inhospitable landscape; sometimes removes notability: hatred of cheese may add or remove notability: punitive income tax rates |
+| 2026-06-23 14:39 | #847 All the Lonely People | disposable antiseptic wipes are considered a social necessity | 389.61 | — |
+| 2026-06-23 14:39 | #1350 The Vizantioans Are Coming! | a degree of self-hatred is vital for a future in politics | 325.06 | sometimes adds notability: museums and concert halls, punitive income tax rates; sometimes removes notability: complete lack of public education, parental licensing program, suspicion of poets |
 | 2026-06-22 16:47 | #1053 Some Enchanted Evening That Was | there is no such thing as an innocent fling in the @@DEMONYMADJECTIVE@@ military | 215.60 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds policy: No Dissent; sometimes removes policy: Public Protest; sometimes adds notability: restrictive gun laws; sometimes removes notability: punitive income tax rates |
 | 2026-06-22 16:47 | #1345 To Each According to Whatever’s Left | they who do not work shall not eat | 183.51 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: absence of drug laws, barren, inhospitable landscape, hatred of cheese |
 | 2026-06-22 16:47 | #1699 Achute Binjury | raccoons are plump and satiated | 25.22 | sometimes adds notability: stringent health and safety legislation; sometimes removes notability: exploding hoverboards, spontaneously combusting cars |
