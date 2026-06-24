@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-06-24 14:22 | #1415 The Melting Point | after every storm there's an expensive government-funded rainbow | 259.98 | sometimes adds notability: devotion to social welfare, punitive income tax rates; sometimes removes notability: complete absence of social welfare, restrictive gun laws |
+| 2026-06-24 14:21 | #687 Marriage by Proxy Server | robotic spouses prove to be just as imperfect as flesh and blood ones | 329.15 | sometimes adds notability: absence of drug laws, complete absence of social welfare; sometimes removes notability: devotion to social welfare, punitive income tax rates, restrictive gun laws |
+| 2026-06-24 14:21 | #1837 Sue That Storm | claiming it smells like rain can land you in a storm of trouble | 188.05 | sometimes adds notability: barren, inhospitable landscape, restrictive gun laws |
+| 2026-06-24 14:21 | #1422 Who Comes Up With This Ship? | many are asking why the latest naval vessel is named after Saint Bartholomeus the Many Handed | 74.12 | sometimes removes notability: irreverence towards religion |
 | 2026-06-23 14:39 | #264 Not a Drop to Drink | almost all of @@NAME@@'s water is piped into the country from abroad for exorbitant prices | 214.44 | sometimes adds notability: barren, inhospitable landscape; sometimes removes notability: hatred of cheese may add or remove notability: punitive income tax rates |
 | 2026-06-23 14:39 | #847 All the Lonely People | disposable antiseptic wipes are considered a social necessity | 389.61 | — |
 | 2026-06-23 14:39 | #1350 The Vizantioans Are Coming! | a degree of self-hatred is vital for a future in politics | 325.06 | sometimes adds notability: museums and concert halls, punitive income tax rates; sometimes removes notability: complete lack of public education, parental licensing program, suspicion of poets |
