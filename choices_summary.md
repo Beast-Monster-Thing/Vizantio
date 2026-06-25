@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-06-25 14:22 | #8 Nudists Demand Time in Sun | nudity is frowned upon | 182.67 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-06-25 14:22 | #425 Teach Your Farmers Well | even the nation's brussel sprouts are delicious and nutritious | 303.24 | sometimes removes notability: complete lack of public education may add or remove notability: punitive income tax rates |
+| 2026-06-25 14:21 | #1030 Looking Down in the Dumps | hundreds of subterranean tunnels are being built as part of "Project Morlock" | 65.98 | sometimes adds notability: punitive income tax rates |
+| 2026-06-25 14:21 | #1796 The Grandmaster in the Machine | chess players with pacemakers and cochlear implants are treated with suspicion | 201.30 | — |
 | 2026-06-24 14:22 | #1415 The Melting Point | after every storm there's an expensive government-funded rainbow | 259.98 | sometimes adds notability: devotion to social welfare, punitive income tax rates; sometimes removes notability: complete absence of social welfare, restrictive gun laws |
 | 2026-06-24 14:21 | #687 Marriage by Proxy Server | robotic spouses prove to be just as imperfect as flesh and blood ones | 329.15 | sometimes adds notability: absence of drug laws, complete absence of social welfare; sometimes removes notability: devotion to social welfare, punitive income tax rates, restrictive gun laws |
 | 2026-06-24 14:21 | #1837 Sue That Storm | claiming it smells like rain can land you in a storm of trouble | 188.05 | sometimes adds notability: barren, inhospitable landscape, restrictive gun laws |
