@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-06-26 14:14 | #707 The Eye of the Tiger | the nation's athletes must all cross the finish line together while holding hands | 69.43 | removes policy: No Sports; sometimes removes notability: deadly medical pandemics |
+| 2026-06-26 14:14 | #444 Virtually Assured Destruction | entire provinces are populated solely by nuclear missile technicians and military police | 445.08 | sometimes adds notability: punitive income tax rates, restrictive gun laws |
+| 2026-06-26 14:14 | #1847 A Rhetorical Question | entomologists flock to @@CAPITAL@@ for its remarkable gadfly population | 226.82 | sometimes adds notability: museums and concert halls; sometimes removes notability: punitive income tax rates, suspicion of poets |
+| 2026-06-26 14:13 | #1539 Save the Last Dance | slow dancing is made trickier when Auntie Edna insists on standing between the couple's arms | 112.94 | sometimes adds notability: restrictive gun laws |
 | 2026-06-25 14:22 | #8 Nudists Demand Time in Sun | nudity is frowned upon | 182.67 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-06-25 14:22 | #425 Teach Your Farmers Well | even the nation's brussel sprouts are delicious and nutritious | 303.24 | sometimes removes notability: complete lack of public education may add or remove notability: punitive income tax rates |
 | 2026-06-25 14:21 | #1030 Looking Down in the Dumps | hundreds of subterranean tunnels are being built as part of "Project Morlock" | 65.98 | sometimes adds notability: punitive income tax rates |
