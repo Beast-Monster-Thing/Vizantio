@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-06-27 13:24 | #1208 Just Snoring With Excitement | high school bands practice by moonlight | 306.81 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: deadly medical pandemics, exploding hoverboards, spontaneously combusting cars |
+| 2026-06-27 13:24 | #653 A Cloak and Syringe Operation | anti-vaxxers claim that injected children are prone to psychotic breaks when they see the 'Queen of Diamonds' playing card | 180.76 | sometimes adds notability: punitive income tax rates |
+| 2026-06-27 13:23 | #637 Little Pizza History | the nation has nearly as many history museums as @@DEMONYMNOUNPLURAL@@ | 331.38 | sometimes adds notability: museums and concert halls, punitive income tax rates, stringent health and safety legislation; sometimes removes notability: complete lack of public education, suspicion of poets |
+| 2026-06-27 13:23 | #1510 Devolution Devolves Into Disaster? | citizens insist that there's no law against standing downwind when marijuana crops are burned off | 157.93 | sometimes adds notability: punitive income tax rates |
 | 2026-06-26 14:14 | #707 The Eye of the Tiger | the nation's athletes must all cross the finish line together while holding hands | 69.43 | removes policy: No Sports; sometimes removes notability: deadly medical pandemics |
 | 2026-06-26 14:14 | #444 Virtually Assured Destruction | entire provinces are populated solely by nuclear missile technicians and military police | 445.08 | sometimes adds notability: punitive income tax rates, restrictive gun laws |
 | 2026-06-26 14:14 | #1847 A Rhetorical Question | entomologists flock to @@CAPITAL@@ for its remarkable gadfly population | 226.82 | sometimes adds notability: museums and concert halls; sometimes removes notability: punitive income tax rates, suspicion of poets |
