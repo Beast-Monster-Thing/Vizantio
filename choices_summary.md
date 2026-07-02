@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-07-02 13:49 | #826 Licensing Driving Vizantioans Crazy | it takes months to get the proper permits for a child's first tricycle | 155.06 | sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, barren, inhospitable landscape, spontaneously combusting cars |
+| 2026-07-02 13:49 | #309 Guerrilla Grandparents | fortified nursing homes are wracked with daily skirmishes | 637.92 | sometimes adds policy: No Dissent; sometimes removes policy: Public Protest; sometimes adds notability: punitive income tax rates, restrictive gun laws |
+| 2026-07-02 13:49 | #213 Bus Drivers Say No to Double-Decked Deathtraps | the carcasses of double-deckers can be found littering high streets all around the country | 38.31 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates, spontaneously combusting cars; sometimes removes notability: stringent health and safety legislation |
+| 2026-07-02 13:49 | #612 A Petty Issue | golden statues of @@ANIMALPLURAL@@ line the memorial avenues of the Funerary District | 108.25 | sometimes adds notability: museums and concert halls, punitive income tax rates; sometimes removes notability: suspicion of poets |
 | 2026-07-01 14:26 | #865 A Funeral for a Fiend? | war criminals are given full state funerals | 270.33 | sometimes adds notability: punitive income tax rates; sometimes removes notability: restrictive gun laws |
 | 2026-07-01 14:26 | #709 Armed and Legging It | community-designed sword prostheses are becoming dangerously common | 131.97 | sometimes adds notability: punitive income tax rates |
 | 2026-07-01 14:25 | #538 Leader, Let Your People Go! | public incontinence is a growing problem amongst the nation's women | 51.46 | sometimes adds notability: exploding hoverboards, spontaneously combusting cars; sometimes removes notability: punitive income tax rates, stringent health and safety legislation |
