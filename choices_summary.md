@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-07-05 13:22 | #1203 The Fandom Menace | @@DEMONYMADJECTIVE@@ novella fans become unusually flustered when thinking about @@LEADER@@ used to be "@@DEMONYMADJECTIVE@@ housewives become unusually flustered when thinking about @@LEADER@@" | 64.00 | sometimes adds notability: museums and concert halls; sometimes removes notability: punitive income tax rates, restrictive gun laws, suspicion of poets |
+| 2026-07-05 13:21 | #1276 A Boatload of Trouble | the government considers it a sacred duty to video bikini-clad beach swimmers | 290.89 | sometimes adds notability: punitive income tax rates |
+| 2026-07-05 13:21 | #1436 Meat Meet | government officials who do an offal job get smoked | 10.60 | — |
+| 2026-07-05 13:21 | #628 Only Leader Can Prevent Forest Fires | disaster relief budgets are growing like wildfire | 182.45 | sometimes adds notability: barren, inhospitable landscape, devotion to social welfare, hatred of cheese, punitive income tax rates; sometimes removes notability: complete absence of social welfare |
 | 2026-07-04 13:14 | #645 An Unwarranted Intrusion | policemen regularly conduct midnight raids on closed donut shops to 'collect evidence' | 240.00 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
 | 2026-07-04 13:14 | #150 Bug ‘Em All, Say Police | phone taps are frequently carried out by the police | 612.78 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-07-04 13:14 | #753 I’ve Got My Ion You | owners of man-portable particle accelerator backpacks are advised not to cross the streams | 646.19 | removes notability: restrictive gun laws; sometimes adds notability: absence of drug laws, deadly medical pandemics may add or remove notability: punitive income tax rates, spontaneously combusting cars |
