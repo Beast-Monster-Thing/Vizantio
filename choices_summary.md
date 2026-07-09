@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-07-09 14:48 | #57 Electronic Plague in Vizantio! | 2/3. much of @@NAME@@'s computer network is controlled by a rampant artificial intelligence | 238.40 | sometimes removes notability: punitive income tax rates |
+| 2026-07-09 14:48 | #768 Trouble Brewing | machine-peeled candied grapes come in individual packaging for the busy commuter | 901.00 | sometimes adds notability: deadly medical pandemics, suspicion of poets; sometimes removes notability: complete lack of public education, museums and concert halls may add or remove notability: punitive income tax rates, restrictive gun laws |
+| 2026-07-09 14:47 | #631 The Violet Mile | the government is denying reports that criminals injected with experimental drugs have turned into monstrous supervillains | 401.71 | sometimes adds notability: restrictive gun laws leads to #806; sometimes removes notability: absence of drug laws, punitive income tax rates |
+| 2026-07-09 14:47 | #713 Life in the Bike Lane | it is common to still see adults with training wheels on their bikes | 39.02 | sometimes adds notability: barren, inhospitable landscape, deadly medical pandemics, hatred of cheese, punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-07-08 13:52 | #474 Mesozoic Park | idyllic countryside scenes see border collies herding sixty-ton dinosaurs | 514.01 | adds notability: free-roaming dinosaurs; sometimes adds notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates, spontaneously combusting cars; sometimes removes notability: stringent health and safety legislation |
 | 2026-07-08 13:52 | #1705 Taken Out Back | patch v22.1705 - all developers are now paid for work | 323.89 | — |
 | 2026-07-08 13:52 | #1805 Avant-Guard | kids leave museums believing that some humans have six fingers | 449.61 | sometimes adds notability: museums and concert halls; sometimes removes notability: suspicion of poets |
