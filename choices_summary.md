@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-07-10 14:12 | #806 Unlicensed to Kill | cruel and unusual punishments are being crowdsourced | 92.23 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
+| 2026-07-10 14:12 | #1846 New Dental Research Hard to Chew | jaw strain is an increasingly common ailment | 557.74 | sometimes removes notability: barren, inhospitable landscape, deadly medical pandemics, punitive income tax rates |
+| 2026-07-10 14:11 | #433 The Worst Storm to Hit Vizantio Since... Yesterday? | electricity company executives pray nightly to Zeus and Thor | 166.48 | sometimes adds notability: punitive income tax rates |
+| 2026-07-10 14:11 | #1853 A Whole New World | SOS from foreign ships mean "shoot on sight" | 299.37 | — |
 | 2026-07-09 14:48 | #57 Electronic Plague in Vizantio! | 2/3. much of @@NAME@@'s computer network is controlled by a rampant artificial intelligence | 238.40 | sometimes removes notability: punitive income tax rates |
 | 2026-07-09 14:48 | #768 Trouble Brewing | machine-peeled candied grapes come in individual packaging for the busy commuter | 901.00 | sometimes adds notability: deadly medical pandemics, suspicion of poets; sometimes removes notability: complete lack of public education, museums and concert halls may add or remove notability: punitive income tax rates, restrictive gun laws |
 | 2026-07-09 14:47 | #631 The Violet Mile | the government is denying reports that criminals injected with experimental drugs have turned into monstrous supervillains | 401.71 | sometimes adds notability: restrictive gun laws leads to #806; sometimes removes notability: absence of drug laws, punitive income tax rates |
