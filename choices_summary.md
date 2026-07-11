@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-07-11 13:08 | #1175 Can I Borrow a Word? | colonial subjects have @@DEMONYMADJECTIVE@@ culture shoved down their throats | 727.98 | adds notability: pith helmet sales; sometimes adds notability: punitive income tax rates, restrictive gun laws |
+| 2026-07-11 13:08 | #1799 Pennypincher Nation? | the nation needs a second job to pay the bills | 79.68 | sometimes removes notability: complete absence of social welfare |
+| 2026-07-11 13:08 | #856 You Got Stones | the experimental sculpture "Overtures In Dried @@ANIMAL@@ Dung" has been declared a national treasure | 160.54 | sometimes adds notability: museums and concert halls, punitive income tax rates; sometimes removes notability: suspicion of poets |
+| 2026-07-11 13:08 | #977 Tragedy of Wounded Earlobe | tribal villagers hide behind the sofa when missionaries knock at their doors | 232.30 | sometimes adds policy: Theocracy; sometimes adds notability: restrictive gun laws |
 | 2026-07-10 14:12 | #806 Unlicensed to Kill | cruel and unusual punishments are being crowdsourced | 92.23 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
 | 2026-07-10 14:12 | #1846 New Dental Research Hard to Chew | jaw strain is an increasingly common ailment | 557.74 | sometimes removes notability: barren, inhospitable landscape, deadly medical pandemics, punitive income tax rates |
 | 2026-07-10 14:11 | #433 The Worst Storm to Hit Vizantio Since... Yesterday? | electricity company executives pray nightly to Zeus and Thor | 166.48 | sometimes adds notability: punitive income tax rates |
