@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-07-12 13:10 | #1566 Consensus Controversy | unpopular scientists are shunned by name | 72.24 | sometimes removes notability: punitive income tax rates |
+| 2026-07-12 13:10 | #1133 Rocky Road | 3/4. an increasing number of citizens believe the world is flat | 409.24 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates, spontaneously combusting cars; sometimes removes notability: stringent health and safety legislation |
+| 2026-07-12 13:09 | #1174 Bad Press | it is illegal to carry an umbrella when the official weather forecast predicts a sunny day | 416.21 | sometimes adds notability: punitive income tax rates, restrictive gun laws |
+| 2026-07-12 13:09 | #205 No More Broccoli, Beg Meat-Eaters | the consumption of vegetables is illegal | 293.38 | removes policy: Vegetarianism; removes notability: compulsory vegetarianism; sometimes adds policy: Cannibalism; sometimes adds notability: barren, inhospitable landscape, deadly medical pandemics; sometimes removes notability: hatred of cheese, punitive income tax rates |
 | 2026-07-11 13:08 | #1175 Can I Borrow a Word? | colonial subjects have @@DEMONYMADJECTIVE@@ culture shoved down their throats | 727.98 | adds notability: pith helmet sales; sometimes adds notability: punitive income tax rates, restrictive gun laws |
 | 2026-07-11 13:08 | #1799 Pennypincher Nation? | the nation needs a second job to pay the bills | 79.68 | sometimes removes notability: complete absence of social welfare |
 | 2026-07-11 13:08 | #856 You Got Stones | the experimental sculpture "Overtures In Dried @@ANIMAL@@ Dung" has been declared a national treasure | 160.54 | sometimes adds notability: museums and concert halls, punitive income tax rates; sometimes removes notability: suspicion of poets |
