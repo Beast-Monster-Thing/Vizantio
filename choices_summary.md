@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-07-13 14:23 | #1002 The Call of Nature | it's entirely possible foreign diplomats misheard when @@NAME@@ offered the words "peace be upon you" | 117.12 | sometimes adds notability: punitive income tax rates |
+| 2026-07-13 14:23 | #1012 Tilting at Wind Turbines | epidemiologists happily announce that the reported incidence of depression is close to zero percent | 206.78 | sometimes adds notability: restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws may add or remove notability: punitive income tax rates, spontaneously combusting cars |
+| 2026-07-13 14:23 | #84 Compulsory Gun Ownership? | gun ownership is compulsory | 6433.04 | adds policy: Gun Ownership; removes policy: No Dissent; adds notability: compulsory gun ownership; removes notability: restrictive gun laws; sometimes adds policy: Public Protest; sometimes adds notability: deadly medical pandemics; sometimes removes notability: absence of drug laws, punitive income tax rates |
+| 2026-07-13 14:23 | #980 Small Claims | the nation's soldiers sleep four to a bed in order to use space economically | 295.05 | sometimes adds notability: punitive income tax rates |
 | 2026-07-12 13:10 | #1566 Consensus Controversy | unpopular scientists are shunned by name | 72.24 | sometimes removes notability: punitive income tax rates |
 | 2026-07-12 13:10 | #1133 Rocky Road | 3/4. an increasing number of citizens believe the world is flat | 409.24 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates, spontaneously combusting cars; sometimes removes notability: stringent health and safety legislation |
 | 2026-07-12 13:09 | #1174 Bad Press | it is illegal to carry an umbrella when the official weather forecast predicts a sunny day | 416.21 | sometimes adds notability: punitive income tax rates, restrictive gun laws |
