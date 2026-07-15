@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-07-15 13:27 | #1755 Don’t Have a Cow, Man | black gold is looking more brown these days | 285.90 | sometimes adds notability: stringent health and safety legislation; sometimes removes notability: barren, inhospitable landscape, deadly medical pandemics, exploding hoverboards, spontaneously combusting cars |
+| 2026-07-15 13:26 | #1441 Don’t Burn Baby Don’t Burn | teen parties are often ruined by wet blanket chaperones | 642.90 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-07-15 13:26 | #115 Vizantio’s Schoolchildren Not Learning the Lingua Franca | citizens are expected to be proficient in at least five languages | 187.54 | sometimes adds notability: barren, inhospitable landscape, restrictive gun laws; sometimes removes notability: absence of drug laws, complete lack of public education, hatred of cheese, punitive income tax rates |
+| 2026-07-15 13:26 | #1489 No Tern Left Unstoned | children play a simplified version of hopscotch | 316.52 | — |
 | 2026-07-14 13:30 | #1665 The Relationship Is Complex-Cated | 2/3. the nation frequently puts profits over peace | 275.71 | sometimes removes notability: punitive income tax rates |
 | 2026-07-14 13:29 | #222 Terrorists Strike City Centre | customs turn away those considered to have an unfavourable ethnicity | 894.03 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-07-14 13:29 | #490 The Long and Winding Halls of Vizantio City | groups of government workers are declared protected tribes if they venture too deep into the Capitol | 82.58 | sometimes adds notability: museums and concert halls; sometimes removes notability: punitive income tax rates, restrictive gun laws, suspicion of poets |
