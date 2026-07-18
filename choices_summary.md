@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-07-18 13:04 | #868 All in the Family | family isn't who you're born with but who you abandon in foreign countries | 55.43 | — |
+| 2026-07-18 13:04 | #1375 Never Say Yes to a Conference Again | 5/6. the military has gone fission for more funding | 466.70 | sometimes adds notability: punitive income tax rates leads to #1376 for capitalists leads to #1391 for socialists |
+| 2026-07-18 13:04 | #1657 March Against the Museum | achieving blood purity involves a surprising amount of bloodshed | 380.86 | removes policy: Public Protest; sometimes adds policy: No Dissent; sometimes adds notability: punitive income tax rates |
+| 2026-07-18 13:04 | #1733 Next-Genocide? | robots can only dream of electric sheep and living a long happy life | 220.47 | removes policy: Universal Health Care; removes notability: national health service; sometimes removes notability: deadly medical pandemics, punitive income tax rates |
 | 2026-07-17 13:18 | #1051 Take to the Skies | the new intercity submarine SSN @@ANIMAL@@ Warrior instills terror in claustrophobic travellers | 11.78 | sometimes adds notability: punitive income tax rates |
 | 2026-07-17 13:18 | #1443 Forage and Forget | money grows on trees | 115.86 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese, punitive income tax rates; sometimes removes notability: deadly medical pandemics |
 | 2026-07-17 13:18 | #884 You’re Psychotic, Leader | they say insanity is torturing the same citizens over and over again and expecting a different result | 372.77 | sometimes adds notability: hatred of cheese, punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: barren, inhospitable landscape |
