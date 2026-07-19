@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-07-19 13:07 | #1391 The World Is Not Radioactive Enough | the military claims that their threatening letters are signed with the blood of their enemies | 140.42 | sometimes adds notability: punitive income tax rates leads to #1392 |
+| 2026-07-19 13:06 | #1602 Vizantio’s Bark Worse Than Its Byte? | enterprising game developers are a hop, skip, and a double-jump away from arrest | 380.09 | sometimes adds notability: punitive income tax rates, restrictive gun laws, suspicion of poets; sometimes removes notability: museums and concert halls |
+| 2026-07-19 13:06 | #1427 May the Fourth Estate Be With You | students spend the school year learning how great the education system is | 432.91 | sometimes adds notability: devotion to social welfare, punitive income tax rates, restrictive gun laws; sometimes removes notability: complete absence of social welfare |
+| 2026-07-19 13:06 | #1432 Oh Dear | 3/4. religion makes people horny | 180.84 | sometimes adds policy: Human Sacrifice may add or remove notability: absence of drug laws; sometimes removes policy: Atheism; sometimes adds notability: ritual sacrifices, stringent health and safety legislation; sometimes removes notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates may add or remove notability: restrictive gun laws |
 | 2026-07-18 13:04 | #868 All in the Family | family isn't who you're born with but who you abandon in foreign countries | 55.43 | — |
 | 2026-07-18 13:04 | #1375 Never Say Yes to a Conference Again | 5/6. the military has gone fission for more funding | 466.70 | sometimes adds notability: punitive income tax rates leads to #1376 for capitalists leads to #1391 for socialists |
 | 2026-07-18 13:04 | #1657 March Against the Museum | achieving blood purity involves a surprising amount of bloodshed | 380.86 | removes policy: Public Protest; sometimes adds policy: No Dissent; sometimes adds notability: punitive income tax rates |
