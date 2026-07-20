@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-07-20 13:56 | #1392 No Crime to Spy | reassembling shredded papers is the highlight of a spy's day | 15.82 | sometimes adds notability: punitive income tax rates leads to #1393 |
+| 2026-07-20 13:56 | #722 Thora and Eloise | fake beard sales are on the rise amongst female commuters | 379.27 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
+| 2026-07-20 13:56 | #1034 Counting Coups | power to the people comes from the barrel of a gun | 316.79 | sometimes adds notability: punitive income tax rates |
+| 2026-07-20 13:56 | #148 Spare the Rod, Demand Welfare Activists | record sales of 'child-whacking sticks' have been reported | 157.77 | sometimes adds notability: complete absence of social welfare, restrictive gun laws; sometimes removes notability: devotion to social welfare, punitive income tax rates |
 | 2026-07-19 13:07 | #1391 The World Is Not Radioactive Enough | the military claims that their threatening letters are signed with the blood of their enemies | 140.42 | sometimes adds notability: punitive income tax rates leads to #1392 |
 | 2026-07-19 13:06 | #1602 Vizantio’s Bark Worse Than Its Byte? | enterprising game developers are a hop, skip, and a double-jump away from arrest | 380.09 | sometimes adds notability: punitive income tax rates, restrictive gun laws, suspicion of poets; sometimes removes notability: museums and concert halls |
 | 2026-07-19 13:06 | #1427 May the Fourth Estate Be With You | students spend the school year learning how great the education system is | 432.91 | sometimes adds notability: devotion to social welfare, punitive income tax rates, restrictive gun laws; sometimes removes notability: complete absence of social welfare |
