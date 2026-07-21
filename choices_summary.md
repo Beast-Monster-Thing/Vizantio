@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-07-21 13:28 | #1393 Authorization to Kill | the navy is hoping to hear the enemy shout "you sank my battleship!" | 159.49 | sometimes removes notability: punitive income tax rates leads to #1394 |
+| 2026-07-21 13:28 | #1542 Dangerous Liaisons | 1/2. commuters travel in zigzags to avoid stalking accusations | 228.30 | removes policy: No Prison; removes notability: complete lack of prisons; sometimes adds notability: absence of drug laws, punitive income tax rates; sometimes removes notability: restrictive gun laws |
+| 2026-07-21 13:28 | #617 Who’s This Little Rascal? | colonials are offended to find a local animal has been re-named the 'Furry Four-Legged Marsupial @@ANIMAL@@' | 167.25 | sometimes adds notability: museums and concert halls; sometimes removes notability: punitive income tax rates, suspicion of poets |
+| 2026-07-21 13:28 | #1356 The Silicon Curtain | 1/2. the new @@DEMONYMADJECTIVE@@-made OS is buggier and more inconvenient than a horse-drawn carriage | 158.07 | sometimes removes notability: punitive income tax rates |
 | 2026-07-20 13:56 | #1392 No Crime to Spy | reassembling shredded papers is the highlight of a spy's day | 15.82 | sometimes adds notability: punitive income tax rates leads to #1393 |
 | 2026-07-20 13:56 | #722 Thora and Eloise | fake beard sales are on the rise amongst female commuters | 379.27 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
 | 2026-07-20 13:56 | #1034 Counting Coups | power to the people comes from the barrel of a gun | 316.79 | sometimes adds notability: punitive income tax rates |
