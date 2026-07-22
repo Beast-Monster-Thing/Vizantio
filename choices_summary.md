@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-07-22 13:40 | #1394 For Leader’s Ears Only | enemy agents often find themselves caught in a bind | 72.62 | sometimes adds notability: punitive income tax rates leads to #1396 |
+| 2026-07-22 13:40 | #959 A-Major Debate | elementary school students are required to master Bach's Chaconne in D before graduation | 745.05 | sometimes adds notability: museums and concert halls, punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, suspicion of poets |
+| 2026-07-22 13:40 | #482 Whose Fault Is It Anyways? | mandatory spouse selection pairs elderly apparatchiki with stunningly beautiful supermodels | 482.58 | removes policy: No Marriage; sometimes adds policy: Permanent Marriage; sometimes adds notability: punitive income tax rates, restrictive gun laws, zero percent divorce rate |
+| 2026-07-22 13:40 | #1786 Cold Fusion a Hot Topic? | scientists who publish a non-reproducible result are tarred and feathered | 195.46 | sometimes adds notability: complete lack of public education, stringent health and safety legislation; sometimes removes notability: absence of drug laws, exploding hoverboards, punitive income tax rates, spontaneously combusting cars |
 | 2026-07-21 13:28 | #1393 Authorization to Kill | the navy is hoping to hear the enemy shout "you sank my battleship!" | 159.49 | sometimes removes notability: punitive income tax rates leads to #1394 |
 | 2026-07-21 13:28 | #1542 Dangerous Liaisons | 1/2. commuters travel in zigzags to avoid stalking accusations | 228.30 | removes policy: No Prison; removes notability: complete lack of prisons; sometimes adds notability: absence of drug laws, punitive income tax rates; sometimes removes notability: restrictive gun laws |
 | 2026-07-21 13:28 | #617 Who’s This Little Rascal? | colonials are offended to find a local animal has been re-named the 'Furry Four-Legged Marsupial @@ANIMAL@@' | 167.25 | sometimes adds notability: museums and concert halls; sometimes removes notability: punitive income tax rates, suspicion of poets |
