@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-07-23 13:46 | #1396 Skycrash | enemy combatants are presumed guilty until proven innocent | 165.77 | sometimes removes notability: punitive income tax rates leads to #1397 |
+| 2026-07-23 13:46 | #1073 Much Ado About Everything | 1/2. young soldiers are shocked to discover there are no 'safe spaces' on a battlefield | 992.04 | adds policy: Conscription; adds notability: compulsory military service; sometimes adds notability: hatred of cheese, punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, barren, inhospitable landscape |
+| 2026-07-23 13:46 | #1851 Rally ‘Round the Flag | finders keepers is the law of the land | 204.08 | sometimes removes notability: complete lack of public education |
+| 2026-07-23 13:46 | #458 Bigtopian Lives Matter | officer recruitment and police brutality have reached an all-time high | 647.11 | removes policy: Public Protest; sometimes adds policy: No Dissent; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-07-22 13:40 | #1394 For Leader’s Ears Only | enemy agents often find themselves caught in a bind | 72.62 | sometimes adds notability: punitive income tax rates leads to #1396 |
 | 2026-07-22 13:40 | #959 A-Major Debate | elementary school students are required to master Bach's Chaconne in D before graduation | 745.05 | sometimes adds notability: museums and concert halls, punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, suspicion of poets |
 | 2026-07-22 13:40 | #482 Whose Fault Is It Anyways? | mandatory spouse selection pairs elderly apparatchiki with stunningly beautiful supermodels | 482.58 | removes policy: No Marriage; sometimes adds policy: Permanent Marriage; sometimes adds notability: punitive income tax rates, restrictive gun laws, zero percent divorce rate |
