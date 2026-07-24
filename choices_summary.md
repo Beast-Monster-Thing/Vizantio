@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-07-24 13:27 | #1397 On Leader’s Secret Service | 1/2. it's not only teenagers who mess around with fake IDs | 88.58 | sometimes adds notability: punitive income tax rates leads to #1398 |
+| 2026-07-24 13:26 | #727 Market Crash | historic buildings are being demolished to allow for road-widening in the city centre | 327.06 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese, punitive income tax rates, stringent health and safety legislation, suspicion of poets; sometimes removes notability: deadly medical pandemics, museums and concert halls, spontaneously combusting cars |
+| 2026-07-24 13:26 | #1009 A Woman’s Roll | glassy-eyed @@DEMONYMADJECTIVE@@ wives lifelessly chant "I love you" on command | 688.86 | adds policy: Slavery; adds notability: enslaved workforce may add or remove notability: punitive income tax rates; sometimes adds notability: deadly medical pandemics, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-07-24 13:26 | #257 Leader Assassinated... Almost | nobody ever seems to enter or leave the armour-plated flying castle that serves as the seat of government | 669.54 | sometimes adds notability: punitive income tax rates |
 | 2026-07-23 13:46 | #1396 Skycrash | enemy combatants are presumed guilty until proven innocent | 165.77 | sometimes removes notability: punitive income tax rates leads to #1397 |
 | 2026-07-23 13:46 | #1073 Much Ado About Everything | 1/2. young soldiers are shocked to discover there are no 'safe spaces' on a battlefield | 992.04 | adds policy: Conscription; adds notability: compulsory military service; sometimes adds notability: hatred of cheese, punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, barren, inhospitable landscape |
 | 2026-07-23 13:46 | #1851 Rally ‘Round the Flag | finders keepers is the law of the land | 204.08 | sometimes removes notability: complete lack of public education |
