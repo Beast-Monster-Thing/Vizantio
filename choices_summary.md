@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-07-25 13:14 | #1398 Spectre Royale | military advisors frequently remind San Vitenzan farmers that they have to pull the pin on a grenade before throwing it | 253.22 | sometimes removes notability: punitive income tax rates leads to #1399 |
+| 2026-07-25 13:14 | #1192 Child’s Play | childish pranks are no laughing matter | 224.17 | sometimes adds notability: punitive income tax rates |
+| 2026-07-25 13:14 | #456 Heads Will Roll | motorcycle riders are required to wear so much gear they've been nicknamed "Stay Pufts" | 324.97 | sometimes adds policy: Prudism; sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, deadly medical pandemics may add or remove notability: punitive income tax rates |
+| 2026-07-25 13:14 | #915 Clasp of Controversy | hazmat suits are a common @@DEMONYMADJECTIVE@@ garb | 157.18 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, deadly medical pandemics |
 | 2026-07-24 13:27 | #1397 On Leader’s Secret Service | 1/2. it's not only teenagers who mess around with fake IDs | 88.58 | sometimes adds notability: punitive income tax rates leads to #1398 |
 | 2026-07-24 13:26 | #727 Market Crash | historic buildings are being demolished to allow for road-widening in the city centre | 327.06 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese, punitive income tax rates, stringent health and safety legislation, suspicion of poets; sometimes removes notability: deadly medical pandemics, museums and concert halls, spontaneously combusting cars |
 | 2026-07-24 13:26 | #1009 A Woman’s Roll | glassy-eyed @@DEMONYMADJECTIVE@@ wives lifelessly chant "I love you" on command | 688.86 | adds policy: Slavery; adds notability: enslaved workforce may add or remove notability: punitive income tax rates; sometimes adds notability: deadly medical pandemics, restrictive gun laws; sometimes removes notability: absence of drug laws |
