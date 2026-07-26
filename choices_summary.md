@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-07-26 13:10 | #1399 VioletEye | no bunny expects the @@DEMONYMADJECTIVE@@ rabbit coalition | 399.07 | — |
+| 2026-07-26 13:10 | #853 Silence Is Golden | citizens no longer take selfies with their dead relatives at funerals | 326.65 | sometimes adds notability: museums and concert halls may add or remove notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, complete lack of public education, suspicion of poets |
+| 2026-07-26 13:09 | #62 Oh, the Angst! | citizens are encouraged to report friends, family members or co-workers who seem depressed to the government for "counselling" | 199.69 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: deadly medical pandemics |
+| 2026-07-26 13:09 | #1052 The Prisoners’ Dilemma | prisoners pray grey skies are gonna clear up | 175.39 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws may add or remove notability: punitive income tax rates |
 | 2026-07-25 13:14 | #1398 Spectre Royale | military advisors frequently remind San Vitenzan farmers that they have to pull the pin on a grenade before throwing it | 253.22 | sometimes removes notability: punitive income tax rates leads to #1399 |
 | 2026-07-25 13:14 | #1192 Child’s Play | childish pranks are no laughing matter | 224.17 | sometimes adds notability: punitive income tax rates |
 | 2026-07-25 13:14 | #456 Heads Will Roll | motorcycle riders are required to wear so much gear they've been nicknamed "Stay Pufts" | 324.97 | sometimes adds policy: Prudism; sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, deadly medical pandemics may add or remove notability: punitive income tax rates |
