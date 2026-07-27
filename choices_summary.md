@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-07-27 14:22 | #1403 Tomorrow Never Arrives | 1/2. rural @@DEMONYMNOUNPLURAL@@ stare in awe at the bright lights of the big cities | 52.35 | sometimes removes notability: punitive income tax rates leads to #1404 |
+| 2026-07-27 14:22 | #1025 A Meal to Die For | decreased demand for toilets is saving the prison service a lot of money | 110.28 | adds policy: Corporal Punishment; adds notability: public floggings; sometimes adds notability: restrictive gun laws; sometimes removes notability: punitive income tax rates |
+| 2026-07-27 14:22 | #1119 Where There Isn’t Smoke | @@LEADER@@ lights cigars with a hundred-@@CURRENCY@@ bill | -874.43 | removes policy: No Smoking, No Drugs; removes notability: anti-smoking policies; sometimes adds notability: absence of drug laws, deadly medical pandemics; sometimes removes notability: punitive income tax rates, restrictive gun laws |
+| 2026-07-27 14:22 | #763 Any Body for Science? | sneezing pedestrians are grabbed by alley-lurking doctors | 286.69 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, deadly medical pandemics may add or remove notability: punitive income tax rates |
 | 2026-07-26 13:10 | #1399 VioletEye | no bunny expects the @@DEMONYMADJECTIVE@@ rabbit coalition | 399.07 | — |
 | 2026-07-26 13:10 | #853 Silence Is Golden | citizens no longer take selfies with their dead relatives at funerals | 326.65 | sometimes adds notability: museums and concert halls may add or remove notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, complete lack of public education, suspicion of poets |
 | 2026-07-26 13:09 | #62 Oh, the Angst! | citizens are encouraged to report friends, family members or co-workers who seem depressed to the government for "counselling" | 199.69 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: deadly medical pandemics |
