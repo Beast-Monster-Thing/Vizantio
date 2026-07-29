@@ -2,6 +2,11 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-07-29 13:59 | #1404 Die Some Other Day | 1/2. the best spies are positively radiant after completing a big mission | -4.54 | — |
+| 2026-07-29 13:59 | #829 Winning at Battleship | a rusted hulk in @@CAPITAL@@ harbour has been voted the worst eyesore in @@REGION@@ | 149.60 | sometimes adds notability: museums and concert halls; sometimes removes notability: suspicion of poets |
+| 2026-07-29 13:59 | #1186 The Magic’s Gone | government agents are triangulating the position of the rainbow's end for the purposes of gold acquisition | 21.24 | sometimes adds notability: punitive income tax rates |
+| 2026-07-29 13:59 | #898 Two’s Company, Three’s a Crowd, Four’s an Uprising | understaffed slavers offer highballs when asked to 'pass the screwdriver' during household maintenance | 184.86 | sometimes adds notability: punitive income tax rates |
+| 2026-07-29 13:58 | #278 Relief Is Coming... In Four to Six Weeks | survivors receive aid from only the most environmentally-friendly transport | -2.57 | sometimes removes notability: barren, inhospitable landscape |
 | 2026-07-27 14:22 | #1403 Tomorrow Never Arrives | 1/2. rural @@DEMONYMNOUNPLURAL@@ stare in awe at the bright lights of the big cities | 52.35 | sometimes removes notability: punitive income tax rates leads to #1404 |
 | 2026-07-27 14:22 | #1025 A Meal to Die For | decreased demand for toilets is saving the prison service a lot of money | 110.28 | adds policy: Corporal Punishment; adds notability: public floggings; sometimes adds notability: restrictive gun laws; sometimes removes notability: punitive income tax rates |
 | 2026-07-27 14:22 | #1119 Where There Isn’t Smoke | @@LEADER@@ lights cigars with a hundred-@@CURRENCY@@ bill | -874.43 | removes policy: No Smoking, No Drugs; removes notability: anti-smoking policies; sometimes adds notability: absence of drug laws, deadly medical pandemics; sometimes removes notability: punitive income tax rates, restrictive gun laws |
