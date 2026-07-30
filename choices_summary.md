@@ -2,6 +2,9 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-07-30 13:48 | #1405 Spectrum of Solace | taxpayers cringe whenever someone brings up the Former Antagonist Reparations Treaty | 110.54 | sometimes adds notability: punitive income tax rates end chain |
+| 2026-07-30 13:48 | #680 The Fault Is in Our Stars | the new Really Big Telescope has been praised for presenting pictures of bright dots in unprecedented detail | 250.90 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
+| 2026-07-30 13:48 | #211 Unconventional Weapons Under Fire | the commercialisation of highly deadly weapons has instilled @@NAME@@ with a very polite populace | 1327.87 | removes notability: restrictive gun laws; sometimes adds notability: absence of drug laws may add or remove notability: punitive income tax rates |
 | 2026-07-29 13:59 | #1404 Die Some Other Day | 1/2. the best spies are positively radiant after completing a big mission | -4.54 | — |
 | 2026-07-29 13:59 | #829 Winning at Battleship | a rusted hulk in @@CAPITAL@@ harbour has been voted the worst eyesore in @@REGION@@ | 149.60 | sometimes adds notability: museums and concert halls; sometimes removes notability: suspicion of poets |
 | 2026-07-29 13:59 | #1186 The Magic’s Gone | government agents are triangulating the position of the rainbow's end for the purposes of gold acquisition | 21.24 | sometimes adds notability: punitive income tax rates |
