@@ -2,6 +2,11 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-07-31 13:53 | #1100 Raiders of the Lost Archive | the government's giant servers are often used as a tourist trap | 259.25 | sometimes adds notability: museums and concert halls; sometimes removes notability: punitive income tax rates, suspicion of poets |
+| 2026-07-31 13:53 | #439 The Law of Exodus | minefields are being deployed along the border to discourage potential emigrants from trying to leave | 383.34 | sometimes adds notability: punitive income tax rates |
+| 2026-07-31 13:53 | #1222 Family Matters | police nightsticks see use all day long | 264.92 | adds policy: Capital Punishment, Corporal Punishment; adds notability: frequent executions, public floggings; sometimes adds notability: punitive income tax rates, restrictive gun laws |
+| 2026-07-31 13:53 | #1617 The Defenestration of Progg | local officials love to claim the protection of their Big Brother | 499.13 | sometimes adds policy: No Dissent; sometimes removes policy: Public Protest; sometimes adds notability: punitive income tax rates, restrictive gun laws |
+| 2026-07-31 13:53 | #730 It’s Legal Now! | chests full of green leaves dumped into the harbor have many murmuring against the government | 2016.85 | adds policy: No Drugs; removes policy: Cannabis; removes notability: absence of drug laws; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: deadly medical pandemics |
 | 2026-07-30 13:48 | #1405 Spectrum of Solace | taxpayers cringe whenever someone brings up the Former Antagonist Reparations Treaty | 110.54 | sometimes adds notability: punitive income tax rates end chain |
 | 2026-07-30 13:48 | #680 The Fault Is in Our Stars | the new Really Big Telescope has been praised for presenting pictures of bright dots in unprecedented detail | 250.90 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
 | 2026-07-30 13:48 | #211 Unconventional Weapons Under Fire | the commercialisation of highly deadly weapons has instilled @@NAME@@ with a very polite populace | 1327.87 | removes notability: restrictive gun laws; sometimes adds notability: absence of drug laws may add or remove notability: punitive income tax rates |
