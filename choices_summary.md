@@ -2,6 +2,9 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-01 13:08 | #974 Siren Song | the banshee wail foretells skies of death | 353.04 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates; sometimes removes notability: deadly medical pandemics |
+| 2026-08-01 13:08 | #377 It’s a Bird! It’s a Plane! No, It’s... Oh, It Was a Plane | the nation has always been at war with Bigtopia | 393.01 | sometimes adds notability: punitive income tax rates |
+| 2026-08-01 13:07 | #1741 A Little More Than Sunburn | requests for government aid can be forwarded to the beach | 73.02 | — |
 | 2026-07-31 13:53 | #1100 Raiders of the Lost Archive | the government's giant servers are often used as a tourist trap | 259.25 | sometimes adds notability: museums and concert halls; sometimes removes notability: punitive income tax rates, suspicion of poets |
 | 2026-07-31 13:53 | #439 The Law of Exodus | minefields are being deployed along the border to discourage potential emigrants from trying to leave | 383.34 | sometimes adds notability: punitive income tax rates |
 | 2026-07-31 13:53 | #1222 Family Matters | police nightsticks see use all day long | 264.92 | adds policy: Capital Punishment, Corporal Punishment; adds notability: frequent executions, public floggings; sometimes adds notability: punitive income tax rates, restrictive gun laws |
