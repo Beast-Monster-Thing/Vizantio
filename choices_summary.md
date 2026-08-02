@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-02 13:10 | #119 Watershed Down? | Rupert Bear is considered to be the most risqué TV programme in @@NAME@@ | 163.52 | sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, exploding hoverboards, spontaneously combusting cars |
+| 2026-08-02 13:10 | #1505 A Tangled Web | cat memes without alt text are now illegal | 327.46 | sometimes adds notability: restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, exploding hoverboards may add or remove notability: punitive income tax rates, spontaneously combusting cars |
+| 2026-08-02 13:10 | #1225 The Rumors, They Fly | property owners are terrified of pigeons nesting in their buildings | 257.88 | sometimes adds notability: restrictive gun laws |
+| 2026-08-02 13:10 | #242 Follow the Leader | @@LEADER@@ has been known to threaten dissenting citizens with a machine gun at press conferences | 349.09 | sometimes adds notability: punitive income tax rates unlocks @@LEADER@@ field |
 | 2026-08-01 13:08 | #974 Siren Song | the banshee wail foretells skies of death | 353.04 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates; sometimes removes notability: deadly medical pandemics |
 | 2026-08-01 13:08 | #377 It’s a Bird! It’s a Plane! No, It’s... Oh, It Was a Plane | the nation has always been at war with Bigtopia | 393.01 | sometimes adds notability: punitive income tax rates |
 | 2026-08-01 13:07 | #1741 A Little More Than Sunburn | requests for government aid can be forwarded to the beach | 73.02 | — |
