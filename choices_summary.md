@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-05 13:57 | #584 The Cake Is a Lie | the people consider response to rudeness to be an acceptable casus belli | 437.30 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-08-05 13:57 | #1121 Tribes and Tribulations | the might of the entire @@DEMONYMADJECTIVE@@ Navy is focused on fifty bemused spear-throwing islanders | 397.66 | — |
+| 2026-08-05 13:57 | #1797 Jam to Gram’s Jam | city-slickers are jelly of all the farmland the government is giving away | 1061.07 | sometimes adds notability: museums and concert halls; sometimes removes notability: punitive income tax rates, suspicion of poets |
+| 2026-08-05 13:57 | #386 Droning On and On | warfare increasingly resembles a video game | 456.72 | sometimes adds notability: restrictive gun laws |
 | 2026-08-04 13:59 | #642 This Way’s Kinder | squeaky high prepubescent voices recite the patriotic poem "Hail to The Leader!" before each meal | 865.93 | adds policy: Pledge of Allegiance; removes policy: Gun Control; sometimes adds notability: museums and concert halls, punitive income tax rates; sometimes removes notability: complete lack of public education, deadly medical pandemics, restrictive gun laws, suspicion of poets |
 | 2026-08-04 13:59 | #844 Essentially on Strike | worried-looking neonatal nurses are being deployed in place of SWAT teams during dangerous drug busts | 332.11 | sometimes adds notability: deadly medical pandemics, punitive income tax rates may add or remove notability: stringent health and safety legislation |
 | 2026-08-04 13:59 | #29 Minorities Demand Representation in TV Soaps | the alarmingly racist TV show 'Bigtopians Say the Darndest Things' is a hit | 168.91 | sometimes adds notability: absence of drug laws, exploding hoverboards, spontaneously combusting cars; sometimes removes notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation |
