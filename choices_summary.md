@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-08 12:37 | #1854 I Suddenly Want Your Millions, Leader | the army lives rent-free in foreigners' heads and houses | 509.81 | adds notability: pith helmet sales; sometimes adds notability: punitive income tax rates |
+| 2026-08-08 12:37 | #79 Vizantio’s Eagles: Going the Way of the Dodo? | the only places to see @@ANIMALPLURAL@@ now are at local zoos | 3.91 | sometimes removes notability: barren, inhospitable landscape |
+| 2026-08-08 12:37 | #656 Ransoms Noted | the "war on terror" doesn't seem to be making @@DEMONYMNOUNPLURAL@@ any less frightened | 397.48 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-08-08 12:37 | #96 Water Supply Problems Becoming a Major Drain | crooks and people with too many kids are being kicked out of the country | 291.57 | adds policy: No Immigration; sometimes adds notability: closed borders, restrictive gun laws; sometimes removes notability: absence of drug laws, barren, inhospitable landscape, hatred of cheese, punitive income tax rates |
 | 2026-08-07 12:52 | #600 Making a House a Home | @@LEADER@@ often plays real life games of Tower Defense against hordes of angry villagers | 303.49 | removes policy: Public Protest; sometimes adds notability: barren, inhospitable landscape, punitive income tax rates |
 | 2026-08-07 12:52 | #756 The Issue With Issues | only clowns with PhDs from clown college can advise @@LEADER@@ on @@NAME@@'s coulrophobia epidemic | 178.39 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
 | 2026-08-07 12:52 | #1061 Every Day I’m Muffling | it's not just poseurs who wear oversized sound-cancelling headphones as they walk the city streets | 194.56 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese, punitive income tax rates, spontaneously combusting cars; sometimes removes notability: stringent health and safety legislation |
