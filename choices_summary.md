@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-09 12:40 | #690 Hey! Leader! Leave Them Kids Alone! | 2/3. citizens who don't recite the Pledge of @@NAME@@ at least three times a day are placed on a terrorist watch-list | 320.71 | sometimes adds policy: No Dissent; sometimes removes policy: Public Protest; sometimes adds notability: punitive income tax rates, restrictive gun laws |
+| 2026-08-09 12:40 | #503 Leader, Tear Down This Door! | petitioners are increasingly resorting to climbing through @@LEADER@@'s window to draw attention to their issues | 169.39 | sometimes adds notability: punitive income tax rates |
+| 2026-08-09 12:39 | #11 People Request Not So Much Dictatorship, if That’s All Right | political activists are routinely executed | 932.65 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-08-09 12:39 | #1691 The Fault in Our Skyline | homes without staircases are considered a step up in luxury | 141.94 | sometimes adds notability: exploding hoverboards, spontaneously combusting cars; sometimes removes notability: stringent health and safety legislation |
 | 2026-08-08 12:37 | #1854 I Suddenly Want Your Millions, Leader | the army lives rent-free in foreigners' heads and houses | 509.81 | adds notability: pith helmet sales; sometimes adds notability: punitive income tax rates |
 | 2026-08-08 12:37 | #79 Vizantio’s Eagles: Going the Way of the Dodo? | the only places to see @@ANIMALPLURAL@@ now are at local zoos | 3.91 | sometimes removes notability: barren, inhospitable landscape |
 | 2026-08-08 12:37 | #656 Ransoms Noted | the "war on terror" doesn't seem to be making @@DEMONYMNOUNPLURAL@@ any less frightened | 397.48 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
