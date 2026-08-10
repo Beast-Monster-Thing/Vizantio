@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-10 12:57 | #957 Putrid Predicament | the army's use of chemical weapons leaves a bad taste in the mouth | 357.11 | sometimes removes notability: hatred of cheese may add or remove notability: punitive income tax rates |
+| 2026-08-10 12:57 | #500 Please Don’t Feed the (Copyright) Trolls | Merry Birthday is a popular protest song despite the risk of fines and royalty dues | 75.62 | sometimes adds notability: restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, punitive income tax rates, spontaneously combusting cars |
+| 2026-08-10 12:56 | #487 Masks of Shame | gossip magazines have been replaced by mask catalogs | 460.25 | sometimes adds notability: museums and concert halls, restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates, suspicion of poets |
+| 2026-08-10 12:56 | #1428 In the Bag | no one gossips with @@LEADER@@ during diplomatic summits | 134.19 | sometimes adds notability: punitive income tax rates |
 | 2026-08-09 12:40 | #690 Hey! Leader! Leave Them Kids Alone! | 2/3. citizens who don't recite the Pledge of @@NAME@@ at least three times a day are placed on a terrorist watch-list | 320.71 | sometimes adds policy: No Dissent; sometimes removes policy: Public Protest; sometimes adds notability: punitive income tax rates, restrictive gun laws |
 | 2026-08-09 12:40 | #503 Leader, Tear Down This Door! | petitioners are increasingly resorting to climbing through @@LEADER@@'s window to draw attention to their issues | 169.39 | sometimes adds notability: punitive income tax rates |
 | 2026-08-09 12:39 | #11 People Request Not So Much Dictatorship, if That’s All Right | political activists are routinely executed | 932.65 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws |
