@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-11 12:53 | #1207 Next, Please! | nobody thinks that the Godfather was bettered by Part 2 | 120.04 | sometimes adds notability: museums and concert halls; sometimes removes notability: suspicion of poets |
+| 2026-08-11 12:53 | #681 Vizantio’s New Year’s Resolution: Lose Fewer Limbs | banning party poppers has been a real party pooper | 137.79 | sometimes adds notability: absence of drug laws, punitive income tax rates, stringent health and safety legislation; sometimes removes notability: deadly medical pandemics, exploding hoverboards, spontaneously combusting cars |
+| 2026-08-11 12:53 | #1472 Home Is Where the Lung Is | air purifiers fight smoke machines on @@DEMONYMADJECTIVE@@ stage setups | 225.18 | sometimes adds notability: punitive income tax rates |
+| 2026-08-11 12:53 | #1088 Inexpert Opinions | voter turnout for the election of the Junior Assistant for Non-Digital Media Strategies has been unsurprisingly low | 304.98 | sometimes adds notability: punitive income tax rates; sometimes removes notability: restrictive gun laws |
 | 2026-08-10 12:57 | #957 Putrid Predicament | the army's use of chemical weapons leaves a bad taste in the mouth | 357.11 | sometimes removes notability: hatred of cheese may add or remove notability: punitive income tax rates |
 | 2026-08-10 12:57 | #500 Please Don’t Feed the (Copyright) Trolls | Merry Birthday is a popular protest song despite the risk of fines and royalty dues | 75.62 | sometimes adds notability: restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, punitive income tax rates, spontaneously combusting cars |
 | 2026-08-10 12:56 | #487 Masks of Shame | gossip magazines have been replaced by mask catalogs | 460.25 | sometimes adds notability: museums and concert halls, restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates, suspicion of poets |
