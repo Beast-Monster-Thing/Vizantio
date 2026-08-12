@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-12 12:58 | #461 If at First You Don’t Succeed... | a wide-ranging purge of leading officials and family members is being carried out by @@LEADER@@ | 621.34 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds notability: punitive income tax rates |
+| 2026-08-12 12:58 | #1245 Sheepish Students | hay has been added to school cafeteria menus | 25.02 | sometimes removes notability: barren, inhospitable landscape |
+| 2026-08-12 12:57 | #170 Deserts Devouring Vizantio’s Countryside | owning a tractor is widely regarded as an essential prerequisite to most government positions | 200.60 | sometimes removes notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates |
+| 2026-08-12 12:57 | #908 The Forbidden Fruit | sending sick politicians "Get Well Soon" cards is considered bribery | 431.87 | sometimes adds notability: punitive income tax rates |
 | 2026-08-11 12:53 | #1207 Next, Please! | nobody thinks that the Godfather was bettered by Part 2 | 120.04 | sometimes adds notability: museums and concert halls; sometimes removes notability: suspicion of poets |
 | 2026-08-11 12:53 | #681 Vizantio’s New Year’s Resolution: Lose Fewer Limbs | banning party poppers has been a real party pooper | 137.79 | sometimes adds notability: absence of drug laws, punitive income tax rates, stringent health and safety legislation; sometimes removes notability: deadly medical pandemics, exploding hoverboards, spontaneously combusting cars |
 | 2026-08-11 12:53 | #1472 Home Is Where the Lung Is | air purifiers fight smoke machines on @@DEMONYMADJECTIVE@@ stage setups | 225.18 | sometimes adds notability: punitive income tax rates |
