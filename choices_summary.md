@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-13 12:59 | #604 Food Behind Bars | prisoners regularly escape detention posing as scarecrows | 355.27 | sometimes adds notability: punitive income tax rates; sometimes removes notability: deadly medical pandemics |
+| 2026-08-13 12:58 | #661 Scouting for Boys, Girls... Anyone? | truancy officers have a hard time catching children trained in advanced camouflage skills | 193.09 | sometimes adds notability: museums and concert halls may add or remove notability: punitive income tax rates; sometimes removes notability: absence of drug laws, barren, inhospitable landscape, complete lack of public education, hatred of cheese, suspicion of poets |
+| 2026-08-13 12:58 | #831 Give Us a Break, Leader | creating cardboard imitations of missiles is a new top-secret military project | 621.14 | sometimes adds policy: No Dissent may add or remove policy: Public Protest; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-08-13 12:58 | #1011 State of the Media | couch potatoes are considered to be model citizens | 568.61 | sometimes adds notability: punitive income tax rates, restrictive gun laws |
 | 2026-08-12 12:58 | #461 If at First You Don’t Succeed... | a wide-ranging purge of leading officials and family members is being carried out by @@LEADER@@ | 621.34 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds notability: punitive income tax rates |
 | 2026-08-12 12:58 | #1245 Sheepish Students | hay has been added to school cafeteria menus | 25.02 | sometimes removes notability: barren, inhospitable landscape |
 | 2026-08-12 12:57 | #170 Deserts Devouring Vizantio’s Countryside | owning a tractor is widely regarded as an essential prerequisite to most government positions | 200.60 | sometimes removes notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates |
