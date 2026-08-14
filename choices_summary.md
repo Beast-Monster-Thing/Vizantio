@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-14 12:55 | #861 Out With the Old | citizens worry more about a split end than their deceased parent | 159.84 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
+| 2026-08-14 12:54 | #1718 Can’t With Ants | foreign invaders are putting @@DEMONYMADJECTIVE@@ lab rats out of a job | 691.71 | sometimes adds notability: punitive income tax rates; sometimes removes notability: barren, inhospitable landscape, complete lack of public education |
+| 2026-08-14 12:54 | #419 RED Rover, RED Rover, Send Your Money Right Over! | the government spends more on chasing distant comets than on basic infrastructure | 334.39 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
+| 2026-08-14 12:54 | #185 “Bring Back Our Booze!” Cry Revellers | the police are tightening their grip on alcohol smugglers | 590.73 | removes notability: absence of drug laws; sometimes adds notability: punitive income tax rates |
 | 2026-08-13 12:59 | #604 Food Behind Bars | prisoners regularly escape detention posing as scarecrows | 355.27 | sometimes adds notability: punitive income tax rates; sometimes removes notability: deadly medical pandemics |
 | 2026-08-13 12:58 | #661 Scouting for Boys, Girls... Anyone? | truancy officers have a hard time catching children trained in advanced camouflage skills | 193.09 | sometimes adds notability: museums and concert halls may add or remove notability: punitive income tax rates; sometimes removes notability: absence of drug laws, barren, inhospitable landscape, complete lack of public education, hatred of cheese, suspicion of poets |
 | 2026-08-13 12:58 | #831 Give Us a Break, Leader | creating cardboard imitations of missiles is a new top-secret military project | 621.14 | sometimes adds policy: No Dissent may add or remove policy: Public Protest; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
