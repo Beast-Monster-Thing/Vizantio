@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-15 12:28 | #251 The Trouble With Hobos | citizens who become homeless are immediately executed | 324.11 | adds policy: Capital Punishment; adds notability: frequent executions may add or remove notability: punitive income tax rates; sometimes adds notability: complete absence of social welfare, restrictive gun laws; sometimes removes notability: absence of drug laws, devotion to social welfare |
+| 2026-08-15 12:28 | #857 Are You There God Particle? It’s Me, Leader | mathematicians are gathering an infinite number of @@ANIMALPLURAL@@ and typewriters to see if they can recreate the works of Max Barry | 560.51 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education, restrictive gun laws |
+| 2026-08-15 12:28 | #807 Have War Crimes, Will Travel | foreign leaders with unpaid parking tickets are often refused entry | 107.17 | — |
+| 2026-08-15 12:27 | #167 Fluoride Controversy a Toothy Problem | the people are famous throughout the region for their perfect yellow teeth | 109.45 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: deadly medical pandemics |
 | 2026-08-14 12:55 | #861 Out With the Old | citizens worry more about a split end than their deceased parent | 159.84 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
 | 2026-08-14 12:54 | #1718 Can’t With Ants | foreign invaders are putting @@DEMONYMADJECTIVE@@ lab rats out of a job | 691.71 | sometimes adds notability: punitive income tax rates; sometimes removes notability: barren, inhospitable landscape, complete lack of public education |
 | 2026-08-14 12:54 | #419 RED Rover, RED Rover, Send Your Money Right Over! | the government spends more on chasing distant comets than on basic infrastructure | 334.39 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
