@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-16 12:29 | #2 Reclaim the Streets! | the automotive industry soaks up huge government handouts | 605.20 | sometimes adds notability: absence of drug laws, barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates |
+| 2026-08-16 12:29 | #1638 The Waiting Is the Hardest Part | 4/5. migrating birds in the nation's airspace are considered a violation of national sovereignty | 187.44 | sometimes adds notability: restrictive gun laws |
+| 2026-08-16 12:29 | #968 Vizantio Falls Flat in Singing Contest | most pop videos prominently feature the @@DEMONYMADJECTIVE@@ flag | 423.90 | sometimes adds notability: museums and concert halls, punitive income tax rates; sometimes removes notability: suspicion of poets |
+| 2026-08-16 12:29 | #152 A Capital Idea | the words 'private' and 'enterprise' must never appear in the same sentence | 464.89 | removes policy: Public Protest; sometimes adds policy: No Dissent; sometimes adds notability: punitive income tax rates, stringent health and safety legislation |
 | 2026-08-15 12:28 | #251 The Trouble With Hobos | citizens who become homeless are immediately executed | 324.11 | adds policy: Capital Punishment; adds notability: frequent executions may add or remove notability: punitive income tax rates; sometimes adds notability: complete absence of social welfare, restrictive gun laws; sometimes removes notability: absence of drug laws, devotion to social welfare |
 | 2026-08-15 12:28 | #857 Are You There God Particle? It’s Me, Leader | mathematicians are gathering an infinite number of @@ANIMALPLURAL@@ and typewriters to see if they can recreate the works of Max Barry | 560.51 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education, restrictive gun laws |
 | 2026-08-15 12:28 | #807 Have War Crimes, Will Travel | foreign leaders with unpaid parking tickets are often refused entry | 107.17 | — |
