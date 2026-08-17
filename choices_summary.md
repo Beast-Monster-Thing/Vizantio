@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-17 12:34 | #81 Close Encounters of the Sci-Fi Kind? | UFO sightings are listed daily in the morning news | 474.84 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
+| 2026-08-17 12:34 | #1824 A Great Swansong? | it is an honour for assistant regional managers to be buried alongside their bosses | 256.24 | sometimes removes notability: deadly medical pandemics |
+| 2026-08-17 12:34 | #798 A Periodic Issue of Elementary Nature | prankster scientists legally change their names to silly pseudonyms before major discoveries | 104.68 | sometimes removes notability: punitive income tax rates |
+| 2026-08-17 12:34 | #640 A Clear-Cut Conundrum | severed limbs litter woodland edges across the land | 733.47 | sometimes adds notability: stringent health and safety legislation; sometimes removes notability: absence of drug laws, barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates |
 | 2026-08-16 12:29 | #2 Reclaim the Streets! | the automotive industry soaks up huge government handouts | 605.20 | sometimes adds notability: absence of drug laws, barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates |
 | 2026-08-16 12:29 | #1638 The Waiting Is the Hardest Part | 4/5. migrating birds in the nation's airspace are considered a violation of national sovereignty | 187.44 | sometimes adds notability: restrictive gun laws |
 | 2026-08-16 12:29 | #968 Vizantio Falls Flat in Singing Contest | most pop videos prominently feature the @@DEMONYMADJECTIVE@@ flag | 423.90 | sometimes adds notability: museums and concert halls, punitive income tax rates; sometimes removes notability: suspicion of poets |
