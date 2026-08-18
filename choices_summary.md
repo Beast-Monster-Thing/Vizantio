@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-18 12:35 | #949 Jailhouses Rocked! | 2/3. the military conducts 'training exercises' in prisons | 421.04 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-08-18 12:35 | #344 Trash Talk | 3/4. the Hanging Gardens account for half of @@CAPITAL@@'s water use | 216.64 | sometimes adds notability: museums and concert halls may add or remove notability: punitive income tax rates; sometimes removes notability: barren, inhospitable landscape, hatred of cheese, suspicion of poets |
+| 2026-08-18 12:35 | #572 Reading, Your Rights | libraries are refusing to stock A Midsummer Night's Dream because it has an ass in it | -53.60 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-08-18 12:35 | #1239 The Walking, Talking, and Irritated Dead | adults have never outgrown their fear of monsters | 297.35 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-08-17 12:34 | #81 Close Encounters of the Sci-Fi Kind? | UFO sightings are listed daily in the morning news | 474.84 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
 | 2026-08-17 12:34 | #1824 A Great Swansong? | it is an honour for assistant regional managers to be buried alongside their bosses | 256.24 | sometimes removes notability: deadly medical pandemics |
 | 2026-08-17 12:34 | #798 A Periodic Issue of Elementary Nature | prankster scientists legally change their names to silly pseudonyms before major discoveries | 104.68 | sometimes removes notability: punitive income tax rates |
