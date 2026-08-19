@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-19 12:36 | #940 The Court of the Crimson Lord | a typical peasant's life cycle leads from birth to the gallows | 490.34 | sometimes adds notability: museums and concert halls, restrictive gun laws; sometimes removes notability: punitive income tax rates, suspicion of poets |
+| 2026-08-19 12:36 | #329 Military Uniforms Under Scrutiny | soldiers are equipped with multi-million @@CURRENCY@@ battlesuits | 506.58 | — |
+| 2026-08-19 12:36 | #1789 Mold, Mold, Go Away | subsistence farmers require doctorates in applied sowing | 1634.75 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese, punitive income tax rates, stringent health and safety legislation; sometimes removes notability: complete lack of public education, exploding hoverboards, spontaneously combusting cars |
+| 2026-08-19 12:36 | #52 Is It Art or Is It Porn? | all artwork is carefully screened for offensive material | 235.69 | sometimes adds policy: Prudism; sometimes adds notability: punitive income tax rates, restrictive gun laws, suspicion of poets; sometimes removes notability: absence of drug laws, museums and concert halls |
 | 2026-08-18 12:35 | #949 Jailhouses Rocked! | 2/3. the military conducts 'training exercises' in prisons | 421.04 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-08-18 12:35 | #344 Trash Talk | 3/4. the Hanging Gardens account for half of @@CAPITAL@@'s water use | 216.64 | sometimes adds notability: museums and concert halls may add or remove notability: punitive income tax rates; sometimes removes notability: barren, inhospitable landscape, hatred of cheese, suspicion of poets |
 | 2026-08-18 12:35 | #572 Reading, Your Rights | libraries are refusing to stock A Midsummer Night's Dream because it has an ass in it | -53.60 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
