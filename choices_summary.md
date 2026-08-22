@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-22 12:29 | #1124 Signing Off, Your God | it is written that heretics die and @@LEADER@@ laughs | 534.50 | removes policy: Public Protest; adds notability: frequent executions; sometimes adds policy: No Dissent; sometimes adds notability: restrictive gun laws; sometimes removes notability: irreverence towards religion |
+| 2026-08-22 12:29 | #1321 Who Wants to Know a Millionaire? | there's no such thing as a safe bet | 1055.72 | adds policy: No Gambling; sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: spontaneously combusting cars |
+| 2026-08-22 12:28 | #610 Only Leader Could Go to Dàguó | the government baselessly accuses foreign dignitaries of being assassins | 167.89 | — |
+| 2026-08-22 12:28 | #1451 A Dread Letter | promising seven years of bad luck leads to seven years of community service | 198.17 | sometimes adds notability: stringent health and safety legislation |
 | 2026-08-21 12:37 | #363 The Apotheosis of Leader? | failure to pay the thrice-daily homage to the divine @@LEADER@@ is punishable by death | 1320.18 | adds policy: Theocracy, Capital Punishment; adds notability: frequent executions; sometimes adds notability: punitive income tax rates, restrictive gun laws leads to #1124; sometimes removes notability: irreverence towards religion |
 | 2026-08-21 12:37 | #353 Broadband Going to the Birds? | consumption of cat memes has skyrocketed | 515.57 | — |
 | 2026-08-21 12:36 | #1413 Old Fusion | military minds worry that 'the blue screen of death' on brand new operating systems may be a literal description | 260.23 | sometimes adds notability: punitive income tax rates |
