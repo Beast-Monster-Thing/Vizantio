@@ -2,6 +2,9 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-23 12:30 | #1792 Liberté, Égalité, Calamité | it isn't a secret plot without caviar and foie gras | 142.98 | sometimes adds notability: punitive income tax rates |
+| 2026-08-23 12:29 | #36 International Community Comes Doorknocking | the nation has an international reputation for compassion | 427.84 | sometimes adds notability: punitive income tax rates |
+| 2026-08-23 12:29 | #1173 Thinking a Little Too Hard? | ghost regiments exist only on paper | 156.29 | sometimes adds notability: punitive income tax rates |
 | 2026-08-22 12:29 | #1124 Signing Off, Your God | it is written that heretics die and @@LEADER@@ laughs | 534.50 | removes policy: Public Protest; adds notability: frequent executions; sometimes adds policy: No Dissent; sometimes adds notability: restrictive gun laws; sometimes removes notability: irreverence towards religion |
 | 2026-08-22 12:29 | #1321 Who Wants to Know a Millionaire? | there's no such thing as a safe bet | 1055.72 | adds policy: No Gambling; sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: spontaneously combusting cars |
 | 2026-08-22 12:28 | #610 Only Leader Could Go to Dàguó | the government baselessly accuses foreign dignitaries of being assassins | 167.89 | — |
