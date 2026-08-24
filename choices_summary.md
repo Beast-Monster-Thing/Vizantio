@@ -2,6 +2,11 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-24 12:39 | #1860 Quantum Leap | starving citizens are offered nuclear pasta | 755.60 | sometimes adds notability: barren, inhospitable landscape |
+| 2026-08-24 12:39 | #1836 Tummy Troubles | today's secret ingredients are blood, sweat, and tears | 922.94 | sometimes adds notability: museums and concert halls; sometimes removes notability: complete lack of public education, suspicion of poets |
+| 2026-08-24 12:39 | #1643 Cicadas in Their Prime | the inchworm that measured the marigolds is six feet under | 147.64 | sometimes adds notability: barren, inhospitable landscape, punitive income tax rates, spontaneously combusting cars; sometimes removes notability: stringent health and safety legislation |
+| 2026-08-24 12:38 | #728 A Bone to Pick | ice-filled coffins are ominously positioned in the corner of every hospital ward | 163.43 | sometimes adds notability: stringent health and safety legislation; sometimes removes notability: deadly medical pandemics, exploding hoverboards may add or remove notability: punitive income tax rates, spontaneously combusting cars |
+| 2026-08-24 12:38 | #1311 An Acquired Taste | weird kids who eat bugs are breaking the law | 322.46 | sometimes adds notability: stringent health and safety legislation; sometimes removes notability: deadly medical pandemics, exploding hoverboards may add or remove notability: punitive income tax rates, spontaneously combusting cars |
 | 2026-08-23 12:30 | #1792 Liberté, Égalité, Calamité | it isn't a secret plot without caviar and foie gras | 142.98 | sometimes adds notability: punitive income tax rates |
 | 2026-08-23 12:29 | #36 International Community Comes Doorknocking | the nation has an international reputation for compassion | 427.84 | sometimes adds notability: punitive income tax rates |
 | 2026-08-23 12:29 | #1173 Thinking a Little Too Hard? | ghost regiments exist only on paper | 156.29 | sometimes adds notability: punitive income tax rates |
