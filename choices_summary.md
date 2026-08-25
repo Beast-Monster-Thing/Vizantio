@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-25 12:38 | #1062 The Hunt for Violet November | the military refers to helpless combatants offering surrender as "sitting ducks" | 326.05 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-08-25 12:38 | #322 Empathy a Rare Commodity? | citizens are tied down and forced to watch educational videos on empathy | 32.14 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
+| 2026-08-25 12:38 | #823 Where the Sun Don’t Shine | shivering secretaries type letters under torrential downpours in open-roof offices | 342.92 | sometimes adds notability: deadly medical pandemics, punitive income tax rates |
+| 2026-08-25 12:37 | #586 School’s in for Summer? | all work and no play has rendered the nation's children somewhat intelligent but also remarkably dull | 1558.63 | adds policy: Free Tertiary Education; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-08-24 12:39 | #1860 Quantum Leap | starving citizens are offered nuclear pasta | 755.60 | sometimes adds notability: barren, inhospitable landscape |
 | 2026-08-24 12:39 | #1836 Tummy Troubles | today's secret ingredients are blood, sweat, and tears | 922.94 | sometimes adds notability: museums and concert halls; sometimes removes notability: complete lack of public education, suspicion of poets |
 | 2026-08-24 12:39 | #1643 Cicadas in Their Prime | the inchworm that measured the marigolds is six feet under | 147.64 | sometimes adds notability: barren, inhospitable landscape, punitive income tax rates, spontaneously combusting cars; sometimes removes notability: stringent health and safety legislation |
