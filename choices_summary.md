@@ -2,6 +2,9 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-29 16:06 | #352 Going Off the Rails | the relatives of suicide victims tend to be angry rather than sad | 54.76 | sometimes adds notability: restrictive gun laws |
+| 2026-08-29 16:06 | #431 Gone a Stray! | Jack Russells have proven to be terrible spies | 179.54 | sometimes adds notability: punitive income tax rates |
+| 2026-08-29 16:06 | #1862 Emperor’s New Move | 6/7. emperors are sacrificed to Violet to save on postage | 140.91 | adds policy: Human Sacrifice; adds notability: ritual sacrifices |
 | 2026-08-28 21:41 | #876 Sequels: The Saga Continues | this year's televised Budget Forecast has been cancelled because there was already one last year | 461.64 | sometimes adds notability: museums and concert halls, punitive income tax rates; sometimes removes notability: suspicion of poets |
 | 2026-08-28 21:40 | #1370 All Systems Post-Nominal | professionals are ready to retire by the time they receive permission to use their credentials | 202.49 | sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, deadly medical pandemics, exploding hoverboards, spontaneously combusting cars |
 | 2026-08-28 21:40 | #194 A Request for Military Aid | the country has been 'going shopping' by annexing nearby nations for their resources | 686.12 | adds notability: pith helmet sales; sometimes adds notability: barren, inhospitable landscape; sometimes removes notability: hatred of cheese, punitive income tax rates, restrictive gun laws |
