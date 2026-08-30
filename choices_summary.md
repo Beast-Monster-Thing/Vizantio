@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-30 15:56 | #655 No Bones About It | barbed wire entanglements and guard towers surround the @@CAPITAL@@ Natural History Museum | 362.36 | sometimes adds notability: museums and concert halls, punitive income tax rates, restrictive gun laws; sometimes removes notability: suspicion of poets |
+| 2026-08-30 15:56 | #602 Hobby Lobby | the government has stated an intention to min-max its stats for 'teh pwnage' | 59.01 | sometimes adds notability: deadly medical pandemics; sometimes removes notability: punitive income tax rates |
+| 2026-08-30 15:56 | #121 A Uniform Plan for Vizantio’s Students? | school uniforms are compulsory | 335.51 | sometimes adds policy: Prudism; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-08-30 15:55 | #26 Compulsory Organ Harvesting Proposed | organ donation is compulsory | 655.97 | sometimes adds policy: Compulsory Organ Harvesting; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, deadly medical pandemics |
 | 2026-08-29 16:06 | #352 Going Off the Rails | the relatives of suicide victims tend to be angry rather than sad | 54.76 | sometimes adds notability: restrictive gun laws |
 | 2026-08-29 16:06 | #431 Gone a Stray! | Jack Russells have proven to be terrible spies | 179.54 | sometimes adds notability: punitive income tax rates |
 | 2026-08-29 16:06 | #1862 Emperor’s New Move | 6/7. emperors are sacrificed to Violet to save on postage | 140.91 | adds policy: Human Sacrifice; adds notability: ritual sacrifices |
