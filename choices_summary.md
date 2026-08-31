@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-08-31 18:40 | #275 Wiki Worries | the Ministry of Truthiness now manages the entire media industry | 675.69 | adds policy: State Press; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-08-31 18:39 | #624 A Role to Play | taking hostages is a great way to influence government policy | 228.81 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, complete lack of public education, punitive income tax rates |
+| 2026-08-31 18:39 | #1137 A Really Sour Lemon | children grow up long before the paperwork for their lemonade stands can be sorted out | 137.22 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation |
+| 2026-08-31 18:39 | #960 Nobody Does It Better? | looting and pillaging are now considered vital intelligence-gathering activities | 114.95 | adds notability: infamous sell-swords; sometimes adds notability: punitive income tax rates, spontaneously combusting cars; sometimes removes notability: stringent health and safety legislation |
 | 2026-08-30 15:56 | #655 No Bones About It | barbed wire entanglements and guard towers surround the @@CAPITAL@@ Natural History Museum | 362.36 | sometimes adds notability: museums and concert halls, punitive income tax rates, restrictive gun laws; sometimes removes notability: suspicion of poets |
 | 2026-08-30 15:56 | #602 Hobby Lobby | the government has stated an intention to min-max its stats for 'teh pwnage' | 59.01 | sometimes adds notability: deadly medical pandemics; sometimes removes notability: punitive income tax rates |
 | 2026-08-30 15:56 | #121 A Uniform Plan for Vizantio’s Students? | school uniforms are compulsory | 335.51 | sometimes adds policy: Prudism; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
