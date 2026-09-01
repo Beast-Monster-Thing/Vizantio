@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-01 15:58 | #413 A Shot in the Arm | parents who refuse to vaccinate their children are given a short jail sentence | 481.68 | sometimes adds notability: complete lack of public education, punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, deadly medical pandemics |
+| 2026-09-01 15:58 | #124 To Paint or Not to Paint? | artists are pillars of society | 123.69 | sometimes adds notability: museums and concert halls; sometimes removes notability: punitive income tax rates, suspicion of poets |
+| 2026-09-01 15:58 | #1449 Annie Get Your Gun | metal detectors at school gates make sure that teenagers are carrying at least one sidearm | 182.22 | sometimes adds policy: Gun Ownership; sometimes adds notability: compulsory gun ownership; sometimes removes notability: punitive income tax rates |
+| 2026-09-01 15:58 | #870 Vizantioans Literally Exploding With Excitement | the government is encouraging violence on television | 41.49 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds notability: deadly medical pandemics |
 | 2026-08-31 18:40 | #275 Wiki Worries | the Ministry of Truthiness now manages the entire media industry | 675.69 | adds policy: State Press; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-08-31 18:39 | #624 A Role to Play | taking hostages is a great way to influence government policy | 228.81 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, complete lack of public education, punitive income tax rates |
 | 2026-08-31 18:39 | #1137 A Really Sour Lemon | children grow up long before the paperwork for their lemonade stands can be sorted out | 137.22 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation |
