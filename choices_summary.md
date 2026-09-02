@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-02 15:52 | #522 Time to Get Serious | business meetings across the country are interrupted by the sound of squeaking whoopee-cushions | 747.14 | sometimes removes notability: deadly medical pandemics may add or remove notability: punitive income tax rates |
+| 2026-09-02 15:52 | #903 Every Breath You Take | joggers are often arrested for breathing too heavily | 416.22 | sometimes adds notability: punitive income tax rates |
+| 2026-09-02 15:51 | #1027 Murder in Mind | citizens know never to accept cookies from strangers | 185.97 | sometimes removes notability: punitive income tax rates |
+| 2026-09-02 15:51 | #371 Lotto Fever | betting pennies on games of Go Fish is considered deviant | 52.75 | adds policy: No Gambling; sometimes adds notability: punitive income tax rates; sometimes removes notability: irreverence towards religion |
 | 2026-09-01 15:58 | #413 A Shot in the Arm | parents who refuse to vaccinate their children are given a short jail sentence | 481.68 | sometimes adds notability: complete lack of public education, punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, deadly medical pandemics |
 | 2026-09-01 15:58 | #124 To Paint or Not to Paint? | artists are pillars of society | 123.69 | sometimes adds notability: museums and concert halls; sometimes removes notability: punitive income tax rates, suspicion of poets |
 | 2026-09-01 15:58 | #1449 Annie Get Your Gun | metal detectors at school gates make sure that teenagers are carrying at least one sidearm | 182.22 | sometimes adds policy: Gun Ownership; sometimes adds notability: compulsory gun ownership; sometimes removes notability: punitive income tax rates |
