@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-03 15:41 | #1430 Taking the Peace? | requests to "pass the salt" are supported by tank divisions | 238.98 | sometimes adds notability: barren, inhospitable landscape may add or remove notability: punitive income tax rates, restrictive gun laws |
+| 2026-09-03 15:41 | #963 The Leader Meme | the latest political memes depict @@LEADER@@ as an overly-choreographed robot | 169.46 | sometimes adds notability: museums and concert halls; sometimes removes notability: suspicion of poets |
+| 2026-09-03 15:41 | #496 Rock ‘n’ Roll Suicide | attempted suicide is punishable by public hanging | 335.92 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-09-03 15:40 | #676 Down the Rabbit Hole | wigged-out hunters report playing croquet with the Queen of Hearts | 74.92 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates; sometimes removes notability: deadly medical pandemics, stringent health and safety legislation |
 | 2026-09-02 15:52 | #522 Time to Get Serious | business meetings across the country are interrupted by the sound of squeaking whoopee-cushions | 747.14 | sometimes removes notability: deadly medical pandemics may add or remove notability: punitive income tax rates |
 | 2026-09-02 15:52 | #903 Every Breath You Take | joggers are often arrested for breathing too heavily | 416.22 | sometimes adds notability: punitive income tax rates |
 | 2026-09-02 15:51 | #1027 Murder in Mind | citizens know never to accept cookies from strangers | 185.97 | sometimes removes notability: punitive income tax rates |
