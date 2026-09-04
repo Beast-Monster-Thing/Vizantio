@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-04 15:40 | #1465 Parking Pandemonium | parking lots are littered with coffee cups and doughnut crumbs | 261.27 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-09-04 15:39 | #752 The Immortal Cells of Mrs. Gratwick | any body part that can be cut off a person is no longer considered to be their property | 454.75 | sometimes adds notability: restrictive gun laws, spontaneously combusting cars; sometimes removes notability: absence of drug laws, deadly medical pandemics may add or remove notability: punitive income tax rates, stringent health and safety legislation |
+| 2026-09-04 15:39 | #1497 Double Trouble | twins move across the country to avoid being accused of the other's crimes | 125.76 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-09-04 15:39 | #1767 A Game Theory | toddlers insist their pacifiers be autoclaved | 379.23 | sometimes removes notability: complete lack of public education, deadly medical pandemics, punitive income tax rates |
 | 2026-09-03 15:41 | #1430 Taking the Peace? | requests to "pass the salt" are supported by tank divisions | 238.98 | sometimes adds notability: barren, inhospitable landscape may add or remove notability: punitive income tax rates, restrictive gun laws |
 | 2026-09-03 15:41 | #963 The Leader Meme | the latest political memes depict @@LEADER@@ as an overly-choreographed robot | 169.46 | sometimes adds notability: museums and concert halls; sometimes removes notability: suspicion of poets |
 | 2026-09-03 15:41 | #496 Rock ‘n’ Roll Suicide | attempted suicide is punishable by public hanging | 335.92 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
