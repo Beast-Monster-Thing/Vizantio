@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-06 14:49 | #97 Landfills Filling Up | space shuttles regularly launch rubbish into space | 502.03 | adds policy: Space Program; adds notability: keen interest in outer space; sometimes adds notability: punitive income tax rates; sometimes removes notability: barren, inhospitable landscape, hatred of cheese |
+| 2026-09-06 14:49 | #1642 When Push-itzer Comes to Shove | those awarding peace prizes to @@DEMONYMNOUNPLURAL@@ find themselves in pieces | 399.67 | sometimes adds notability: punitive income tax rates, restrictive gun laws |
+| 2026-09-06 14:49 | #1199 Locked Down | the police think a properly conducted criminal investigation is a real pain | 423.42 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws may add or remove notability: punitive income tax rates |
+| 2026-09-06 14:49 | #904 Yours Insincerely | the government maintains that belief brings greater security than money or a roof | 208.56 | sometimes removes notability: irreverence towards religion |
 | 2026-09-05 14:27 | #705 The Germ of an Idea | it is illegal to distribute Girl Guide Cookies without an advanced food hygiene diploma | 457.37 | sometimes adds notability: hatred of cheese, punitive income tax rates, stringent health and safety legislation; sometimes removes notability: deadly medical pandemics, exploding hoverboards, spontaneously combusting cars |
 | 2026-09-05 14:27 | #976 Demonic Possession Getting You Down? | foreign militaries are taking a particular interest in the nation's abandoned borders and cities | 472.23 | sometimes adds notability: hatred of cheese, punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, barren, inhospitable landscape, irreverence towards religion |
 | 2026-09-05 14:27 | #1211 Free Credit Reports With Monitoring | flatulent people are left to die of cancer at the end of hospital waiting lists | 638.74 | sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation |
