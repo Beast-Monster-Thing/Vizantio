@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-09 15:49 | #551 The Big Fat Vizantioan Wedding | the media have begun calling the government treasury "@@LEADER@@'s stash" | 126.45 | sometimes adds notability: punitive income tax rates |
+| 2026-09-09 15:49 | #770 Vaping Up a Storm | sniffer dogs are trained to follow clouds of fruity-smelling vapor | 267.81 | sometimes adds policy: No Drugs; sometimes adds notability: deadly medical pandemics, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, exploding hoverboards may add or remove notability: punitive income tax rates, spontaneously combusting cars |
+| 2026-09-09 15:48 | #1722 Seeing With the Heart | children who ask questions are told to conduct double-blinded studies | 418.60 | — |
+| 2026-09-09 15:48 | #1107 Welcome to the Party | there's sophisticated talk of revolution within the ever-expanding mining colonies | 667.35 | sometimes adds notability: barren, inhospitable landscape, restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
 | 2026-09-08 15:53 | #191 Blood Banks Running Dry | citizens are forced to donate blood once every three months | 218.60 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, deadly medical pandemics |
 | 2026-09-08 15:53 | #1827 Row, Row, Row Your Drug Boat! | foreign nationals who stumble near @@NAME@@ are harbingers of war | 531.77 | sometimes adds policy: No Drugs; sometimes adds notability: punitive income tax rates; sometimes removes notability: absence of drug laws |
 | 2026-09-08 15:53 | #708 How Leader Learned to Start Worrying and Fear Bio-Weapons | some say @@LEADER@@ has gone MAD after authorizing the development of apocalyptic biological weapons | 469.95 | adds policy: Weapons of Mass Destruction; removes policy: No WMDs; adds notability: ubiquitous missile silos; sometimes removes notability: punitive income tax rates |
