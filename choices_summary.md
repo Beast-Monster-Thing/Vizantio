@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-10 15:44 | #579 Real Handwriting Has Curves | urban graffiti is hand-calligraphed in perfectly kerned elegant fonts | 200.07 | sometimes adds notability: museums and concert halls, punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, complete lack of public education, suspicion of poets |
+| 2026-09-10 15:44 | #424 You Just Sank My Battleship! | the military has forsaken terrestrial warfare | 965.25 | adds policy: Space Program; adds notability: keen interest in outer space; sometimes adds notability: punitive income tax rates |
+| 2026-09-10 15:43 | #1029 Frozen Assets | the government sends submarines to retrieve bodies from shipwrecked submarines | 8.34 | sometimes adds notability: punitive income tax rates |
+| 2026-09-10 15:43 | #846 Use Your Words | the recital of citations that follows any political speech can be longer than the speech itself | 97.06 | sometimes adds notability: punitive income tax rates |
 | 2026-09-09 15:49 | #551 The Big Fat Vizantioan Wedding | the media have begun calling the government treasury "@@LEADER@@'s stash" | 126.45 | sometimes adds notability: punitive income tax rates |
 | 2026-09-09 15:49 | #770 Vaping Up a Storm | sniffer dogs are trained to follow clouds of fruity-smelling vapor | 267.81 | sometimes adds policy: No Drugs; sometimes adds notability: deadly medical pandemics, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, exploding hoverboards may add or remove notability: punitive income tax rates, spontaneously combusting cars |
 | 2026-09-09 15:48 | #1722 Seeing With the Heart | children who ask questions are told to conduct double-blinded studies | 418.60 | — |
