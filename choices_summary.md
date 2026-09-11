@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-11 15:45 | #973 Guided Missiles and Misguided Men | children are often punished for the sins of the fathers | 222.37 | — |
+| 2026-09-11 15:45 | #258 What’s in a Name? | all citizens are solely referenced by their allocated identity number | 432.87 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
+| 2026-09-11 15:45 | #1185 Should Be Sufficient | formerly internationally exported goods are now given away for free | 248.77 | sometimes adds notability: punitive income tax rates |
+| 2026-09-11 15:45 | #188 Video Games Too Violent, Say Parents | only adults may purchase violent video games | 72.38 | sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, exploding hoverboards, spontaneously combusting cars |
 | 2026-09-10 15:44 | #579 Real Handwriting Has Curves | urban graffiti is hand-calligraphed in perfectly kerned elegant fonts | 200.07 | sometimes adds notability: museums and concert halls, punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, complete lack of public education, suspicion of poets |
 | 2026-09-10 15:44 | #424 You Just Sank My Battleship! | the military has forsaken terrestrial warfare | 965.25 | adds policy: Space Program; adds notability: keen interest in outer space; sometimes adds notability: punitive income tax rates |
 | 2026-09-10 15:43 | #1029 Frozen Assets | the government sends submarines to retrieve bodies from shipwrecked submarines | 8.34 | sometimes adds notability: punitive income tax rates |
