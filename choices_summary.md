@@ -2,6 +2,9 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-12 14:53 | #321 Cowboys and... Aliens? | immigrant herding has become a national pastime | 140.77 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-09-12 14:53 | #1470 The Devil’s Spawn | declaring that "some kids are just born evil" is not endearing @@LEADER@@ to progressive thinkers | 51.56 | sometimes adds notability: punitive income tax rates |
+| 2026-09-12 14:53 | #243 A Question of Faith | open-heart surgery is taught in seminaries | 1107.71 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds policy: Theocracy, Human Sacrifice; sometimes adds notability: punitive income tax rates, restrictive gun laws, ritual sacrifices unlocks @@FAITH@@ field; sometimes removes notability: absence of drug laws, irreverence towards religion |
 | 2026-09-11 15:45 | #973 Guided Missiles and Misguided Men | children are often punished for the sins of the fathers | 222.37 | — |
 | 2026-09-11 15:45 | #258 What’s in a Name? | all citizens are solely referenced by their allocated identity number | 432.87 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
 | 2026-09-11 15:45 | #1185 Should Be Sufficient | formerly internationally exported goods are now given away for free | 248.77 | sometimes adds notability: punitive income tax rates |
