@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-14 17:31 | #145 Hackles Raised Over Fur Clothes Debate | the wearing and manufacture of fur apparel is banned | -0.41 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: spontaneously combusting cars |
+| 2026-09-14 17:31 | #1628 NEET Freaks? | the only movement outdoors is of ramen-delivery drones | 426.25 | sometimes adds notability: deadly medical pandemics, punitive income tax rates |
+| 2026-09-14 17:31 | #719 Buried Bones Unearth Debate | graverobbers claim they're acting within the interest of 'scientific preservation' | 252.71 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
+| 2026-09-14 17:31 | #1462 Glory Kill | quiet professionalism has returned to the nation's armed forces | 76.84 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-09-13 15:31 | #910 A for Effort | hidden bedroom-cams are installed to catch mothers doing their kids' homework | 410.69 | sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, complete lack of public education, exploding hoverboards, spontaneously combusting cars |
 | 2026-09-13 15:30 | #1195 All Hands on Tap! | the government has officially clarified that "wee on your hands to save time" does not count as proper hygiene | 97.18 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese, punitive income tax rates; sometimes removes notability: deadly medical pandemics |
 | 2026-09-13 15:30 | #1446 Yet Another Issue About Periods | children spend all morning taking out a comma and all afternoon putting it back in again | 193.04 | sometimes adds notability: museums and concert halls, punitive income tax rates; sometimes removes notability: complete lack of public education, suspicion of poets |
