@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-15 16:07 | #1736 Anthems of Dispute | the musical cognoscenti insist the national anthem just isn't the same without a double contrabass flute | 355.12 | sometimes adds notability: museums and concert halls; sometimes removes notability: absence of drug laws, suspicion of poets |
+| 2026-09-15 16:07 | #457 Colossus With Feet of Clay | suburban backyards are seized by the government and turned into national parks | 98.65 | sometimes adds notability: punitive income tax rates; sometimes removes notability: barren, inhospitable landscape, hatred of cheese |
+| 2026-09-15 16:07 | #1485 How to Train Your AI | AI citizens think only in binary | -7.95 | — |
+| 2026-09-15 16:06 | #729 Teenage Kicks | five-year-olds chanting "Little Miss Muffet" are accused of bullying arachnophobes | 251.54 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, complete lack of public education |
 | 2026-09-14 17:31 | #145 Hackles Raised Over Fur Clothes Debate | the wearing and manufacture of fur apparel is banned | -0.41 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: spontaneously combusting cars |
 | 2026-09-14 17:31 | #1628 NEET Freaks? | the only movement outdoors is of ramen-delivery drones | 426.25 | sometimes adds notability: deadly medical pandemics, punitive income tax rates |
 | 2026-09-14 17:31 | #719 Buried Bones Unearth Debate | graverobbers claim they're acting within the interest of 'scientific preservation' | 252.71 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
