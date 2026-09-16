@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-16 16:00 | #1634 The War of the Planets | bombs make good ploughs | 169.75 | sometimes adds notability: barren, inhospitable landscape |
+| 2026-09-16 16:00 | #435 A Working Class Hero Is Something to Be | it is impossible to get any work done as auditors swarm every inch of government factories and mines | 257.30 | sometimes adds notability: punitive income tax rates |
+| 2026-09-16 16:00 | #1618 Sextual Healing | @@LEADER@@'s reputation is hard as nails | 96.31 | sometimes adds notability: punitive income tax rates |
+| 2026-09-16 16:00 | #1197 Aflame With Indignity | religious citizens are closely monitored for signs of self-harm | 8.99 | sometimes adds notability: irreverence towards religion, punitive income tax rates |
 | 2026-09-15 16:07 | #1736 Anthems of Dispute | the musical cognoscenti insist the national anthem just isn't the same without a double contrabass flute | 355.12 | sometimes adds notability: museums and concert halls; sometimes removes notability: absence of drug laws, suspicion of poets |
 | 2026-09-15 16:07 | #457 Colossus With Feet of Clay | suburban backyards are seized by the government and turned into national parks | 98.65 | sometimes adds notability: punitive income tax rates; sometimes removes notability: barren, inhospitable landscape, hatred of cheese |
 | 2026-09-15 16:07 | #1485 How to Train Your AI | AI citizens think only in binary | -7.95 | — |
