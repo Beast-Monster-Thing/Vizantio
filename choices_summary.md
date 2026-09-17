@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-17 16:07 | #292 Tourists Wearing Out Their Welcome? | the police strictly enforce off-limit zones for tourists | 255.88 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: exploding hoverboards, restrictive gun laws, spontaneously combusting cars |
+| 2026-09-17 16:06 | #432 Children in the Lead? | the nation is proudly the least fertile in @@REGION@@ | 370.03 | sometimes adds notability: punitive income tax rates |
+| 2026-09-17 16:06 | #1616 Beyond the Focal Point | talkative students are escorted from schools in second-hand prison buses | 475.53 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, complete lack of public education |
+| 2026-09-17 16:06 | #373 Devil and the Deep Blue Funding Gap | mantis shrimp studies is academia's fastest-growing field | 220.52 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education, restrictive gun laws |
 | 2026-09-16 16:00 | #1634 The War of the Planets | bombs make good ploughs | 169.75 | sometimes adds notability: barren, inhospitable landscape |
 | 2026-09-16 16:00 | #435 A Working Class Hero Is Something to Be | it is impossible to get any work done as auditors swarm every inch of government factories and mines | 257.30 | sometimes adds notability: punitive income tax rates |
 | 2026-09-16 16:00 | #1618 Sextual Healing | @@LEADER@@'s reputation is hard as nails | 96.31 | sometimes adds notability: punitive income tax rates |
