@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-18 15:43 | #1723 Have You Ever Seen the Rain? | scientists take credit every time it rains in @@REGION@@ | 504.42 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
+| 2026-09-18 15:43 | #895 Stop Training and Start Coaching | wilderness-dwelling hermits are surprised to find railway stations on their front doorsteps | 229.46 | sometimes adds notability: absence of drug laws, punitive income tax rates; sometimes removes notability: restrictive gun laws |
+| 2026-09-18 15:42 | #1738 Malpractice Makes Perfect | resident physicians are said to have a silver scalpel in their hands | 418.24 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education, deadly medical pandemics |
+| 2026-09-18 15:42 | #1113 No Sex Please, We’re Vizantioan | @@LEADER@@ is in a committed monogamous relationship with a huge number of people | 1187.71 | adds policy: No Marriage; removes policy: Marriage Equality, No Adultery, Permanent Marriage, Polygamy; removes notability: multi-spousal wedding ceremonies, zero percent divorce rate; sometimes adds notability: restrictive gun laws |
 | 2026-09-17 16:07 | #292 Tourists Wearing Out Their Welcome? | the police strictly enforce off-limit zones for tourists | 255.88 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: exploding hoverboards, restrictive gun laws, spontaneously combusting cars |
 | 2026-09-17 16:06 | #432 Children in the Lead? | the nation is proudly the least fertile in @@REGION@@ | 370.03 | sometimes adds notability: punitive income tax rates |
 | 2026-09-17 16:06 | #1616 Beyond the Focal Point | talkative students are escorted from schools in second-hand prison buses | 475.53 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, complete lack of public education |
