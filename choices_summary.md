@@ -2,6 +2,9 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-19 15:14 | #18 Citizens Struggle Under “Unfair” Tax Burden | high-income earners pay a 100% tax rate | -54.41 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: spontaneously combusting cars |
+| 2026-09-19 15:14 | #882 Death by Chocolate | school lunches are made with hypo-allergenic wood pulp | 233.87 | sometimes adds notability: hatred of cheese, punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, complete lack of public education, deadly medical pandemics, exploding hoverboards, spontaneously combusting cars |
+| 2026-09-19 15:14 | #1249 Red Dead Representatives | left-wing militias train children how to properly burn down banks | 551.22 | sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, complete lack of public education |
 | 2026-09-18 15:43 | #1723 Have You Ever Seen the Rain? | scientists take credit every time it rains in @@REGION@@ | 504.42 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
 | 2026-09-18 15:43 | #895 Stop Training and Start Coaching | wilderness-dwelling hermits are surprised to find railway stations on their front doorsteps | 229.46 | sometimes adds notability: absence of drug laws, punitive income tax rates; sometimes removes notability: restrictive gun laws |
 | 2026-09-18 15:42 | #1738 Malpractice Makes Perfect | resident physicians are said to have a silver scalpel in their hands | 418.24 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education, deadly medical pandemics |
