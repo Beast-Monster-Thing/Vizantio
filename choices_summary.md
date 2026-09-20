@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-20 15:19 | #1667 Memoirs of a Pale Blue Dot | celestial bodies that make revolutions receive revolutions | 155.44 | sometimes adds notability: museums and concert halls |
+| 2026-09-20 15:19 | #1788 Virtual Vigilantes | parents who try to organize playdates for their kids have police drop through their ceilings | 72.44 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: spontaneously combusting cars |
+| 2026-09-20 15:19 | #869 I’ll Be in My Bunker | cleaners are very careful not to bump into the big red button on @@LEADER@@'s desk | 515.29 | sometimes adds notability: barren, inhospitable landscape, punitive income tax rates |
+| 2026-09-20 15:18 | #308 Over, Under or Through? | @@NAME@@ Barrier Island residents anxiously await their 'Bridge to Somewhere' | 178.09 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates, spontaneously combusting cars |
 | 2026-09-19 15:14 | #18 Citizens Struggle Under “Unfair” Tax Burden | high-income earners pay a 100% tax rate | -54.41 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: spontaneously combusting cars |
 | 2026-09-19 15:14 | #882 Death by Chocolate | school lunches are made with hypo-allergenic wood pulp | 233.87 | sometimes adds notability: hatred of cheese, punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, complete lack of public education, deadly medical pandemics, exploding hoverboards, spontaneously combusting cars |
 | 2026-09-19 15:14 | #1249 Red Dead Representatives | left-wing militias train children how to properly burn down banks | 551.22 | sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, complete lack of public education |
