@@ -2,6 +2,11 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-21 17:45 | #979 A Patronising Statement | modern @@DEMONYMADJECTIVE@@ art is so hot right now | 233.24 | sometimes adds policy: Theocracy; sometimes adds notability: restrictive gun laws, suspicion of poets; sometimes removes notability: irreverence towards religion, museums and concert halls |
+| 2026-09-21 17:44 | #673 The Deportation of Mr. B. Leeper | dangerous criminals are often 'accidentally' sent on one-way trips to Maxtopia | 272.98 | sometimes adds notability: punitive income tax rates, restrictive gun laws, suspicion of poets; sometimes removes notability: absence of drug laws, museums and concert halls |
+| 2026-09-21 17:44 | #878 DoublePlusUnGood | the nation has always been at war with Moltovea | 555.19 | — |
+| 2026-09-21 17:44 | #648 Confessions of a Dangerous Mind | the police have been known to wiretap confessional boxes | 422.84 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-09-21 17:44 | #1590 Tinder Profiled | asthmatics can now suffer the effects of polluting chimneys from further away than ever before | 105.83 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese, punitive income tax rates, stringent health and safety legislation; sometimes removes notability: exploding hoverboards, spontaneously combusting cars |
 | 2026-09-20 15:19 | #1667 Memoirs of a Pale Blue Dot | celestial bodies that make revolutions receive revolutions | 155.44 | sometimes adds notability: museums and concert halls |
 | 2026-09-20 15:19 | #1788 Virtual Vigilantes | parents who try to organize playdates for their kids have police drop through their ceilings | 72.44 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: spontaneously combusting cars |
 | 2026-09-20 15:19 | #869 I’ll Be in My Bunker | cleaners are very careful not to bump into the big red button on @@LEADER@@'s desk | 515.29 | sometimes adds notability: barren, inhospitable landscape, punitive income tax rates |
