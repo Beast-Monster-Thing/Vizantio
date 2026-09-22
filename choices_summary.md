@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-22 16:09 | #887 Thin Skin | fashion models are guaranteed to be 100% genuinely as anorexic as they appear on magazine covers | 104.22 | sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, deadly medical pandemics, exploding hoverboards, spontaneously combusting cars |
+| 2026-09-22 16:09 | #683 Different Keystrokes for Different Folks | @@LEADER@@'s office has a newly installed Max-Man arcade game programmed by a 5th-grader | 878.21 | sometimes removes notability: complete lack of public education may add or remove notability: punitive income tax rates |
+| 2026-09-22 16:09 | #650 Political Hacks | drill sergeants yell in the ears of bespectacled nerds in cybermilitary "reboot camps" | 306.61 | — |
+| 2026-09-22 16:08 | #948 1x, 2x, 3x, a Lady | male celebrity chefs are laughed at for their lack of manliness | 112.55 | removes policy: Affirmative Action; sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
 | 2026-09-21 17:45 | #979 A Patronising Statement | modern @@DEMONYMADJECTIVE@@ art is so hot right now | 233.24 | sometimes adds policy: Theocracy; sometimes adds notability: restrictive gun laws, suspicion of poets; sometimes removes notability: irreverence towards religion, museums and concert halls |
 | 2026-09-21 17:44 | #673 The Deportation of Mr. B. Leeper | dangerous criminals are often 'accidentally' sent on one-way trips to Maxtopia | 272.98 | sometimes adds notability: punitive income tax rates, restrictive gun laws, suspicion of poets; sometimes removes notability: absence of drug laws, museums and concert halls |
 | 2026-09-21 17:44 | #878 DoublePlusUnGood | the nation has always been at war with Moltovea | 555.19 | — |
