@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-23 15:59 | #1768 Move Over, Darling | urban planners beg for just one more lane before bedtime | 317.04 | sometimes adds notability: barren, inhospitable landscape |
+| 2026-09-23 15:59 | #502 Scientists Declare That Eagles Are Persons | 2/3. children often kick @@ANIMALPLURAL@@ for amusement | 285.15 | sometimes removes notability: punitive income tax rates |
+| 2026-09-23 15:59 | #811 Get Baked | grandparents tell young ones tales of the good old days when people had cake on their birthday | 355.05 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: deadly medical pandemics, irreverence towards religion |
+| 2026-09-23 15:58 | #28 Cancer Sufferer Demands Euthanasia Bill | 2/3. euthanasia is illegal | 311.33 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, deadly medical pandemics, irreverence towards religion |
 | 2026-09-22 16:09 | #887 Thin Skin | fashion models are guaranteed to be 100% genuinely as anorexic as they appear on magazine covers | 104.22 | sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, deadly medical pandemics, exploding hoverboards, spontaneously combusting cars |
 | 2026-09-22 16:09 | #683 Different Keystrokes for Different Folks | @@LEADER@@'s office has a newly installed Max-Man arcade game programmed by a 5th-grader | 878.21 | sometimes removes notability: complete lack of public education may add or remove notability: punitive income tax rates |
 | 2026-09-22 16:09 | #650 Political Hacks | drill sergeants yell in the ears of bespectacled nerds in cybermilitary "reboot camps" | 306.61 | — |
