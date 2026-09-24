@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-24 16:23 | #1716 The Bald Facts | the latest government policy passed by a close shave | 60.05 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-09-24 16:22 | #1079 What’s Love Got to Do With It? | to 'cut off family ties' is no longer just a phrase | 246.08 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
+| 2026-09-24 16:22 | #1701 All That Glitters Amidst Night Skies | weather forecasts regularly cover meteor showers | 470.66 | adds policy: Space Program; adds notability: keen interest in outer space; sometimes removes notability: punitive income tax rates |
+| 2026-09-24 16:22 | #1838 Who’s Afraid of Red, Yellow, and Blue? | state-run museums boast about their anti-@@DEMONYMADJECTIVE@@ art collections | 549.50 | sometimes adds notability: punitive income tax rates, suspicion of poets; sometimes removes notability: complete lack of public education, museums and concert halls |
 | 2026-09-23 15:59 | #1768 Move Over, Darling | urban planners beg for just one more lane before bedtime | 317.04 | sometimes adds notability: barren, inhospitable landscape |
 | 2026-09-23 15:59 | #502 Scientists Declare That Eagles Are Persons | 2/3. children often kick @@ANIMALPLURAL@@ for amusement | 285.15 | sometimes removes notability: punitive income tax rates |
 | 2026-09-23 15:59 | #811 Get Baked | grandparents tell young ones tales of the good old days when people had cake on their birthday | 355.05 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: deadly medical pandemics, irreverence towards religion |
