@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-25 16:23 | #1035 Bringing a Bayonet to a Gunfight | running away is an essential part of the elite forces' hand-to-hand training | 317.00 | sometimes adds notability: suspicion of poets; sometimes removes notability: museums and concert halls may add or remove notability: punitive income tax rates |
+| 2026-09-25 16:23 | #325 Blazing Through the Paper Trail | 2/3. 1% of global paper production is bound for the National Archive | 262.34 | — |
+| 2026-09-25 16:23 | #378 The War to End All Wars | historical commemorations regularly devolve into militaristic jingoism | 227.01 | sometimes adds notability: museums and concert halls, punitive income tax rates; sometimes removes notability: suspicion of poets |
+| 2026-09-25 16:23 | #3 Harry Potter Censorship Row | 3/4. the latest Harry Potter book is a bestseller | 281.39 | sometimes adds notability: absence of drug laws; sometimes removes notability: complete lack of public education may add or remove notability: punitive income tax rates, restrictive gun laws |
 | 2026-09-24 16:23 | #1716 The Bald Facts | the latest government policy passed by a close shave | 60.05 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-09-24 16:22 | #1079 What’s Love Got to Do With It? | to 'cut off family ties' is no longer just a phrase | 246.08 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
 | 2026-09-24 16:22 | #1701 All That Glitters Amidst Night Skies | weather forecasts regularly cover meteor showers | 470.66 | adds policy: Space Program; adds notability: keen interest in outer space; sometimes removes notability: punitive income tax rates |
