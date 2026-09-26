@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-26 15:38 | #1748 Vizantioans Still Footing the Bill | the "government funding" steroid is all the rage | 339.37 | sometimes removes notability: deadly medical pandemics |
+| 2026-09-26 15:38 | #706 A Walk in the Park | glamping @@DEMONYMNOUNPLURAL@@ won't sleep in a tent that doesn't include a Jacuzzi | 175.32 | sometimes removes notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates |
+| 2026-09-26 15:37 | #1374 Protect and Swerve | both criminals and civilians are DOA | 226.72 | sometimes adds notability: deadly medical pandemics, punitive income tax rates |
+| 2026-09-26 15:37 | #630 This Green and Pleasant Land | formerly fertile fields are being leached dry of nutrients by intensive farming | 243.85 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates, spontaneously combusting cars; sometimes removes notability: stringent health and safety legislation |
 | 2026-09-25 16:23 | #1035 Bringing a Bayonet to a Gunfight | running away is an essential part of the elite forces' hand-to-hand training | 317.00 | sometimes adds notability: suspicion of poets; sometimes removes notability: museums and concert halls may add or remove notability: punitive income tax rates |
 | 2026-09-25 16:23 | #325 Blazing Through the Paper Trail | 2/3. 1% of global paper production is bound for the National Archive | 262.34 | — |
 | 2026-09-25 16:23 | #378 The War to End All Wars | historical commemorations regularly devolve into militaristic jingoism | 227.01 | sometimes adds notability: museums and concert halls, punitive income tax rates; sometimes removes notability: suspicion of poets |
