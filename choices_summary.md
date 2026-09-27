@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-27 16:17 | #598 A Violet Trojan Horse | burning members of the Order of Violet is the nation's favorite pastime | 788.01 | adds policy: Capital Punishment; removes policy: Atheism; adds notability: frequent executions; sometimes adds policy: Theocracy, Human Sacrifice; sometimes adds notability: barren, inhospitable landscape, restrictive gun laws, ritual sacrifices, suspicion of poets; sometimes removes notability: absence of drug laws, museums and concert halls may add or remove notability: punitive income tax rates |
+| 2026-09-27 16:17 | #714 Milky Ways | supermarket milk is a shear-thickening fluid that can stop small-caliber bullets | 424.38 | sometimes removes notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates |
+| 2026-09-27 16:16 | #1645 Gone Girls | heartbroken parents are urged to "smile for the camera" | 383.99 | — |
+| 2026-09-27 16:16 | #319 Sizing Up the Competition | the populace harbors a fierce hatred of the metric system | 99.33 | sometimes adds notability: museums and concert halls; sometimes removes notability: punitive income tax rates, suspicion of poets |
 | 2026-09-26 15:38 | #1748 Vizantioans Still Footing the Bill | the "government funding" steroid is all the rage | 339.37 | sometimes removes notability: deadly medical pandemics |
 | 2026-09-26 15:38 | #706 A Walk in the Park | glamping @@DEMONYMNOUNPLURAL@@ won't sleep in a tent that doesn't include a Jacuzzi | 175.32 | sometimes removes notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates |
 | 2026-09-26 15:37 | #1374 Protect and Swerve | both criminals and civilians are DOA | 226.72 | sometimes adds notability: deadly medical pandemics, punitive income tax rates |
