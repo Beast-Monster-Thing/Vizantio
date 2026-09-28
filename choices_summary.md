@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-28 19:10 | #1305 The Woman From AUNT | adults pretending to be teenage girls claim to have wholesome motives | 200.73 | sometimes adds notability: punitive income tax rates |
+| 2026-09-28 19:09 | #1218 Due Processing | all smart devices are under the control of the all-seeing AI | 92.72 | — |
+| 2026-09-28 19:09 | #420 Caught Green Handed | many politicians are serving jail time for minor drug offenses | 415.92 | removes notability: absence of drug laws; sometimes adds policy: No Drugs; sometimes adds notability: punitive income tax rates, restrictive gun laws |
+| 2026-09-28 19:09 | #543 Flash, Aaaaaargh! | oddly patriotic flash mobs spontaneously sing the national anthem | 1008.72 | removes policy: Public Protest; sometimes adds policy: No Dissent; sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation, suspicion of poets; sometimes removes notability: absence of drug laws, museums and concert halls, spontaneously combusting cars |
 | 2026-09-27 16:17 | #598 A Violet Trojan Horse | burning members of the Order of Violet is the nation's favorite pastime | 788.01 | adds policy: Capital Punishment; removes policy: Atheism; adds notability: frequent executions; sometimes adds policy: Theocracy, Human Sacrifice; sometimes adds notability: barren, inhospitable landscape, restrictive gun laws, ritual sacrifices, suspicion of poets; sometimes removes notability: absence of drug laws, museums and concert halls may add or remove notability: punitive income tax rates |
 | 2026-09-27 16:17 | #714 Milky Ways | supermarket milk is a shear-thickening fluid that can stop small-caliber bullets | 424.38 | sometimes removes notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates |
 | 2026-09-27 16:16 | #1645 Gone Girls | heartbroken parents are urged to "smile for the camera" | 383.99 | — |
