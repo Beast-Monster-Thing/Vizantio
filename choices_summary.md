@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-09-29 17:31 | #1708 The Sun Is a Deadly Lazer | the numbers on the latest spending report are reaching stellar levels | 313.56 | sometimes adds notability: punitive income tax rates |
+| 2026-09-29 17:31 | #1039 You’ve Got Mail | everyone apparently sends @@LEADER@@ hair-filled lockets, offers to die heroically, and poetic desires to co-parent a child | 984.90 | adds policy: State Press; removes policy: Public Protest; sometimes adds policy: No Dissent; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-09-29 17:30 | #101 Tiara Sign of Oppression, Declare Feminists | 2/3. women who display their ankles are shunned by society | 698.02 | sometimes adds policy: Prudism; sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, spontaneously combusting cars |
+| 2026-09-29 17:30 | #1135 My Eyes Are Up Here | male med students learning female anatomy do so with their eyes tightly closed | 83.38 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-09-28 19:10 | #1305 The Woman From AUNT | adults pretending to be teenage girls claim to have wholesome motives | 200.73 | sometimes adds notability: punitive income tax rates |
 | 2026-09-28 19:09 | #1218 Due Processing | all smart devices are under the control of the all-seeing AI | 92.72 | — |
 | 2026-09-28 19:09 | #420 Caught Green Handed | many politicians are serving jail time for minor drug offenses | 415.92 | removes notability: absence of drug laws; sometimes adds policy: No Drugs; sometimes adds notability: punitive income tax rates, restrictive gun laws |
