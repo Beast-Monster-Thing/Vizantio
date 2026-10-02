@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-10-02 17:20 | #69 Power Problems Need Bright Solution | vile black smog from coal power plants has enveloped several major urban centres | 209.24 | sometimes adds notability: barren, inhospitable landscape may add or remove notability: hatred of cheese may add or remove notability: punitive income tax rates, spontaneously combusting cars |
+| 2026-10-02 17:20 | #342 This Land Was Made for You and Me | 3/4. citizens living in underground cities have developed a healthy green glow | 301.39 | sometimes adds notability: barren, inhospitable landscape, deadly medical pandemics may add or remove notability: punitive income tax rates |
+| 2026-10-02 17:19 | #1703 Hitchhikers Guide Vizantio | 3/4. automotive regulators are throwing in the towel | 355.00 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese, spontaneously combusting cars; sometimes removes notability: punitive income tax rates, stringent health and safety legislation |
+| 2026-10-02 17:19 | #677 Dial L for Loan | the nation's taxpayers pay for foreign governments' extravagances | 116.45 | sometimes adds notability: punitive income tax rates |
 | 2026-10-01 17:55 | #6 Appointment of Spiritual Advisor | the government is seen to favor traditionalist religions | 420.91 | sometimes adds notability: punitive income tax rates |
 | 2026-10-01 17:55 | #1332 We Won’t, We Won’t Rock You | breaking rocks in the hot sun now involves using your head | 280.06 | sometimes adds notability: punitive income tax rates |
 | 2026-10-01 17:54 | #229 Government Saturated in Corruption | politicians accepting drinks in bars are executed for taking bribes | 916.51 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds notability: restrictive gun laws |
