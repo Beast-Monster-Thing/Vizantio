@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-10-03 15:37 | #1758 Let Me Be Queer | gay couples who hold hands are forced into unbreakable bonds | 254.55 | — |
+| 2026-10-03 15:37 | #799 A Political Cock-Up | politicians sweat as journalists scour internet archives for any mention of them | 210.39 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-10-03 15:37 | #1437 Crushed Dreams | a favorite "life hack" for gap year backpackers is to pretend to be homeless for government handouts | 44.83 | sometimes adds notability: devotion to social welfare, punitive income tax rates; sometimes removes notability: complete absence of social welfare |
+| 2026-10-03 15:36 | #1857 Dredd Omens | slavery is freedom | 441.76 | removes policy: Devolution |
 | 2026-10-02 17:20 | #69 Power Problems Need Bright Solution | vile black smog from coal power plants has enveloped several major urban centres | 209.24 | sometimes adds notability: barren, inhospitable landscape may add or remove notability: hatred of cheese may add or remove notability: punitive income tax rates, spontaneously combusting cars |
 | 2026-10-02 17:20 | #342 This Land Was Made for You and Me | 3/4. citizens living in underground cities have developed a healthy green glow | 301.39 | sometimes adds notability: barren, inhospitable landscape, deadly medical pandemics may add or remove notability: punitive income tax rates |
 | 2026-10-02 17:19 | #1703 Hitchhikers Guide Vizantio | 3/4. automotive regulators are throwing in the towel | 355.00 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese, spontaneously combusting cars; sometimes removes notability: punitive income tax rates, stringent health and safety legislation |
