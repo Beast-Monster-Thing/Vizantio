@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-10-04 16:21 | #31 Get Efficient, Private Sector Tells Nature | a government program is underway to revitalize @@NAME@@'s beaches | 24.03 | sometimes removes notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates |
+| 2026-10-04 16:21 | #466 Vizantio Is Never Ever Getting Back Together... Like Ever | the military patrols the streets in search of possible secessionists | 208.28 | sometimes adds notability: punitive income tax rates |
+| 2026-10-04 16:21 | #71 Minority Group Demands Language Recognition | the government is attempting to impose a new national language on the public | 346.77 | sometimes adds notability: punitive income tax rates |
+| 2026-10-04 16:20 | #151 Build Bigger Bombs, Advise Scientists | 2/3. the nation has recently been attributed to the funding of terrorist organisations | 688.93 | adds policy: Weapons of Mass Destruction; removes policy: No WMDs; adds notability: ubiquitous missile silos; sometimes adds notability: barren, inhospitable landscape, deadly medical pandemics, hatred of cheese may add or remove notability: punitive income tax rates |
 | 2026-10-03 15:37 | #1758 Let Me Be Queer | gay couples who hold hands are forced into unbreakable bonds | 254.55 | — |
 | 2026-10-03 15:37 | #799 A Political Cock-Up | politicians sweat as journalists scour internet archives for any mention of them | 210.39 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-10-03 15:37 | #1437 Crushed Dreams | a favorite "life hack" for gap year backpackers is to pretend to be homeless for government handouts | 44.83 | sometimes adds notability: devotion to social welfare, punitive income tax rates; sometimes removes notability: complete absence of social welfare |
