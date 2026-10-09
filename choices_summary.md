@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-10-09 17:53 | #1561 Murderers Making Money? | nobody likes bad boys any more | 20.17 | sometimes adds notability: punitive income tax rates |
+| 2026-10-09 17:53 | #1514 Flushing for Freedom | things are looking up for sentient toilet bowls | 75.02 | — |
+| 2026-10-09 17:53 | #85 Illegal File-Sharing Flares | a cyber-war between file sharers and the music industry formats hard drives across the country | 241.29 | sometimes adds notability: museums and concert halls may add or remove notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, spontaneously combusting cars, suspicion of poets |
+| 2026-10-09 17:53 | #1544 Happy Juice | safety warnings are prohibited lest they give people ideas | 252.00 | sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: deadly medical pandemics, exploding hoverboards, spontaneously combusting cars |
 | 2026-10-08 18:20 | #16 Information Technology Workers Strike | employers may fire workers without giving any reason | 18.95 | sometimes adds notability: exploding hoverboards, spontaneously combusting cars; sometimes removes notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation |
 | 2026-10-08 18:20 | #1259 Buy Low, Sell High | government solves problems by tossing money at the nearest geek | 154.09 | — |
 | 2026-10-08 18:20 | #83 High-Speed Monorail Service Promises Connections | 3/4. a vast monorail network carries people all over the country | -20.60 | sometimes adds notability: absence of drug laws, punitive income tax rates; sometimes removes notability: barren, inhospitable landscape, hatred of cheese, restrictive gun laws |
