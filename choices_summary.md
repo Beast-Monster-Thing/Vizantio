@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-10-10 16:51 | #10 Social Inequality Reaching Embarrassing Levels | the country is preparing for war | 1036.52 | — |
+| 2026-10-10 16:51 | #1545 Deep Down Up to No Good | what goes down must come up | 214.54 | sometimes adds notability: museums and concert halls, punitive income tax rates; sometimes removes notability: complete lack of public education, suspicion of poets |
+| 2026-10-10 16:51 | #1160 Milking It | a milk bath costs more than bathing in money | 183.94 | sometimes adds notability: spontaneously combusting cars; sometimes removes notability: hatred of cheese, punitive income tax rates, stringent health and safety legislation |
+| 2026-10-10 16:50 | #1775 IOU? | the government will gladly pay you next Tuesday for a hamburger today | 91.30 | sometimes adds notability: punitive income tax rates |
 | 2026-10-09 17:53 | #1561 Murderers Making Money? | nobody likes bad boys any more | 20.17 | sometimes adds notability: punitive income tax rates |
 | 2026-10-09 17:53 | #1514 Flushing for Freedom | things are looking up for sentient toilet bowls | 75.02 | — |
 | 2026-10-09 17:53 | #85 Illegal File-Sharing Flares | a cyber-war between file sharers and the music industry formats hard drives across the country | 241.29 | sometimes adds notability: museums and concert halls may add or remove notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, spontaneously combusting cars, suspicion of poets |
