@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-10-13 18:47 | #1815 Seed Sovereignty | genetic research is facing major headwinds | 467.98 | sometimes removes notability: punitive income tax rates |
+| 2026-10-13 18:47 | #1072 Holographic Harmonization | there's no weight to modern politics | 178.47 | sometimes adds notability: restrictive gun laws, spontaneously combusting cars; sometimes removes notability: absence of drug laws may add or remove notability: punitive income tax rates |
+| 2026-10-13 18:47 | #1047 Rivers of Blood | many in @@NAME@@ are born in the purple | 237.69 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: barren, inhospitable landscape, hatred of cheese |
+| 2026-10-13 18:47 | #216 Eminent Domain: Inherent Right or Daylight Robbery? | the government seizes private property for the 'good of the people' | 430.52 | sometimes adds notability: devotion to social welfare, punitive income tax rates; sometimes removes notability: barren, inhospitable landscape, complete absence of social welfare, complete lack of public education, hatred of cheese, spontaneously combusting cars |
 | 2026-10-12 20:49 | #726 Jobless Fair | @@DEMONYMADJECTIVE@@ companies generally just fire employees in lieu of giving them vacation | 525.93 | sometimes adds notability: barren, inhospitable landscape; sometimes removes notability: hatred of cheese may add or remove notability: punitive income tax rates |
 | 2026-10-12 20:49 | #941 Scents and Sensibility | police frequently raid drugstores in search of contraband bottles of New Spice aftershave | 235.34 | sometimes adds notability: punitive income tax rates, restrictive gun laws |
 | 2026-10-12 20:49 | #1573 Unseen Academia | scientific journals publish third-graders' school essays | 330.62 | sometimes adds notability: stringent health and safety legislation; sometimes removes notability: exploding hoverboards may add or remove notability: punitive income tax rates, spontaneously combusting cars |
