@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-10-14 16:23 | #1715 Perfectly Private Property — Presumably | nothing is beneath the government after it has extracted all the oil | 1324.14 | sometimes adds notability: barren, inhospitable landscape, devotion to social welfare, hatred of cheese, punitive income tax rates, restrictive gun laws, spontaneously combusting cars; sometimes removes notability: absence of drug laws, complete absence of social welfare |
+| 2026-10-14 16:23 | #1613 Incarceration Sensation | a popular saying is "don't do the crime if you can't smash the lime(stone)" | 41.01 | — |
+| 2026-10-14 16:23 | #412 The Magic (Of Advertising!) School Bus | the education system is being cleansed of all corporate influence | 200.04 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: spontaneously combusting cars |
+| 2026-10-14 16:23 | #184 Compulsory Military Service Under Attack | children as young as twelve are conscripted into the armed forces | 602.54 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-10-13 18:47 | #1815 Seed Sovereignty | genetic research is facing major headwinds | 467.98 | sometimes removes notability: punitive income tax rates |
 | 2026-10-13 18:47 | #1072 Holographic Harmonization | there's no weight to modern politics | 178.47 | sometimes adds notability: restrictive gun laws, spontaneously combusting cars; sometimes removes notability: absence of drug laws may add or remove notability: punitive income tax rates |
 | 2026-10-13 18:47 | #1047 Rivers of Blood | many in @@NAME@@ are born in the purple | 237.69 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: barren, inhospitable landscape, hatred of cheese |
