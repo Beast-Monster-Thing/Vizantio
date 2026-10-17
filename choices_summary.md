@@ -2,6 +2,9 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-10-17 14:51 | #1334 Withdrawing Diplomatic Relations | diplomacy falls apart when diplomats drink too much | 30.71 | sometimes adds notability: restrictive gun laws; sometimes removes notability: punitive income tax rates |
+| 2026-10-17 14:51 | #193 Robots Leaving Workers Jobless | businesses often fire workers in favour of cheaper automatic systems | 191.28 | sometimes adds notability: barren, inhospitable landscape, spontaneously combusting cars; sometimes removes notability: hatred of cheese, punitive income tax rates |
+| 2026-10-17 14:51 | #1444 Trouble in Deed | attempts to inform people about their unclaimed property are often mistaken for telephone scams | 39.18 | sometimes adds notability: punitive income tax rates |
 | 2026-10-16 15:58 | #1109 Of Mice and Meth | people forget to eat because they are too busy singing @@LEADER@@'s praises | 16.62 | sometimes adds notability: deadly medical pandemics may add or remove notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-10-16 15:58 | #108 Gambling Interests Offer High Stakes | the mob and the police have recently had numerous clashes in the back alleys of @@NAME@@'s cities due to the government's steadfast anti-casino stance | 335.96 | sometimes adds notability: punitive income tax rates |
 | 2026-10-16 15:58 | #615 Tempted by the Fruit of Another | the central politburo bears the fruits of everyone's labor | 700.80 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: spontaneously combusting cars |
