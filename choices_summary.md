@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-10-18 15:17 | #641 Dirty Little Minds | corporate lawyers are switching careers to the more lucrative field of green politics | 35.75 | removes notability: exploding hoverboards may add or remove notability: hatred of cheese may add or remove notability: punitive income tax rates, spontaneously combusting cars; sometimes removes notability: barren, inhospitable landscape, deadly medical pandemics |
+| 2026-10-18 15:17 | #1521 The Bells! The Bells! | wealthy @@DEMONYMNOUNPLURAL@@ never seem to hear the doorbell | 303.35 | sometimes adds notability: punitive income tax rates |
+| 2026-10-18 15:17 | #473 A-B-C, Easy as Don’t Use Me | children are expected to carve their own toys | 347.09 | sometimes adds notability: museums and concert halls may add or remove notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: exploding hoverboards, spontaneously combusting cars, suspicion of poets |
+| 2026-10-18 15:16 | #906 Internet Killed the Television Star | the television adaptation of Jennifer Government is the most popular program in the nation | 581.66 | sometimes adds notability: museums and concert halls may add or remove notability: punitive income tax rates; sometimes removes notability: suspicion of poets |
 | 2026-10-17 14:51 | #1334 Withdrawing Diplomatic Relations | diplomacy falls apart when diplomats drink too much | 30.71 | sometimes adds notability: restrictive gun laws; sometimes removes notability: punitive income tax rates |
 | 2026-10-17 14:51 | #193 Robots Leaving Workers Jobless | businesses often fire workers in favour of cheaper automatic systems | 191.28 | sometimes adds notability: barren, inhospitable landscape, spontaneously combusting cars; sometimes removes notability: hatred of cheese, punitive income tax rates |
 | 2026-10-17 14:51 | #1444 Trouble in Deed | attempts to inform people about their unclaimed property are often mistaken for telephone scams | 39.18 | sometimes adds notability: punitive income tax rates |
