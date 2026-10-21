@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-10-21 16:30 | #1800 Disposable Assets | every day is laundry day | 29.19 | sometimes adds notability: exploding hoverboards, spontaneously combusting cars; sometimes removes notability: barren, inhospitable landscape, punitive income tax rates, stringent health and safety legislation |
+| 2026-10-21 16:30 | #1560 Dead Gay | a lot of number one hits are straight cover versions | 135.49 | sometimes adds notability: museums and concert halls; sometimes removes notability: suspicion of poets |
+| 2026-10-21 16:29 | #1500 Rodents of Unusual Sociability | news headlines suggest that @@LEADER@@ has a sideline in guinea pig pimping | 46.90 | — |
+| 2026-10-21 16:29 | #505 Florists Blooming Mad | Maxtopians are both starving and giddy after the @@DEMONYMADJECTIVE@@ military unleashed its biological weapons | 248.04 | adds policy: Weapons of Mass Destruction; removes policy: No WMDs; adds notability: ubiquitous missile silos; sometimes adds notability: barren, inhospitable landscape, hatred of cheese, punitive income tax rates |
 | 2026-10-20 16:15 | #582 Augmented Reality Check | people seem disproportionately distraught when told a museum has a phones-off policy | 201.49 | sometimes adds notability: museums and concert halls; sometimes removes notability: complete lack of public education, punitive income tax rates, suspicion of poets |
 | 2026-10-20 16:15 | #1126 Waste of Time | government statistics suggest 115% of the population love @@LEADER@@ | 260.68 | removes policy: Public Protest; sometimes adds policy: No Dissent; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-10-20 16:15 | #1423 A Slice of the Pi | blue sky thinkers are reminded that the firmament is actually more of a grey-ish colour | 276.18 | sometimes adds notability: punitive income tax rates; sometimes removes notability: restrictive gun laws |
