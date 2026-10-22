@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-10-22 16:30 | #927 Your Assignment, Should You Choose to Accept It | just as students finish their homework it's time for school | 317.12 | sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, complete lack of public education, exploding hoverboards, spontaneously combusting cars |
+| 2026-10-22 16:30 | #946 Better In Than Out | there's a lot of hot air coming from the Capitol Building | 191.13 | sometimes adds notability: museums and concert halls; sometimes removes notability: suspicion of poets |
+| 2026-10-22 16:30 | #540 Shh! Spoilers! | drive-by spoilers are an increasingly common crime | 232.10 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
+| 2026-10-22 16:30 | #1777 Peace, Love, and Vizantio | aid workers deliver life-saving supplies with a devious gleam in their eyes | 568.43 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-10-21 16:30 | #1800 Disposable Assets | every day is laundry day | 29.19 | sometimes adds notability: exploding hoverboards, spontaneously combusting cars; sometimes removes notability: barren, inhospitable landscape, punitive income tax rates, stringent health and safety legislation |
 | 2026-10-21 16:30 | #1560 Dead Gay | a lot of number one hits are straight cover versions | 135.49 | sometimes adds notability: museums and concert halls; sometimes removes notability: suspicion of poets |
 | 2026-10-21 16:29 | #1500 Rodents of Unusual Sociability | news headlines suggest that @@LEADER@@ has a sideline in guinea pig pimping | 46.90 | — |
