@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-10-23 16:20 | #455 Police on Overkill Mode? | the police use sound cannons and mortars to deal with loud parties | 599.78 | — |
+| 2026-10-23 16:20 | #1031 Down in the Groove | seven-year-olds debate for weeks on the merits of the Oxford comma | 523.31 | sometimes adds notability: museums and concert halls may add or remove notability: punitive income tax rates; sometimes removes notability: complete lack of public education, suspicion of poets |
+| 2026-10-23 16:20 | #1869 Architects of Tomorrow | @@NAME@@'s citizens often wander into each other's homes | 290.12 | sometimes adds notability: devotion to social welfare, punitive income tax rates, suspicion of poets; sometimes removes notability: complete absence of social welfare, museums and concert halls |
+| 2026-10-23 16:20 | #838 The Bark Knight Rises | Dogman-branded weapons are all the rage in the militaristic comic-book community | 336.79 | sometimes removes notability: punitive income tax rates |
 | 2026-10-22 16:30 | #927 Your Assignment, Should You Choose to Accept It | just as students finish their homework it's time for school | 317.12 | sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, complete lack of public education, exploding hoverboards, spontaneously combusting cars |
 | 2026-10-22 16:30 | #946 Better In Than Out | there's a lot of hot air coming from the Capitol Building | 191.13 | sometimes adds notability: museums and concert halls; sometimes removes notability: suspicion of poets |
 | 2026-10-22 16:30 | #540 Shh! Spoilers! | drive-by spoilers are an increasingly common crime | 232.10 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
