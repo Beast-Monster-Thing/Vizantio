@@ -2,6 +2,9 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-10-24 15:17 | #1624 Vizantio City Coffinrail | heart attack victims are thrown onto the rails | 61.57 | sometimes adds notability: stringent health and safety legislation; sometimes removes notability: deadly medical pandemics, exploding hoverboards |
+| 2026-10-24 15:17 | #525 Nowhere to Go! | @@A@@ @@REGION@@ Tourist Association survey has rated @@NAME@@ #1 for number twos | 50.20 | sometimes adds notability: complete absence of social welfare, spontaneously combusting cars; sometimes removes notability: devotion to social welfare, punitive income tax rates, stringent health and safety legislation |
+| 2026-10-24 15:17 | #34 Don’t Puff on Me, Say Non-Smokers | an underground movement of cigarette smokers has sprung up in response to a government ban | 1004.33 | adds policy: No Smoking; adds notability: anti-smoking policies; sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, deadly medical pandemics |
 | 2026-10-23 16:20 | #455 Police on Overkill Mode? | the police use sound cannons and mortars to deal with loud parties | 599.78 | — |
 | 2026-10-23 16:20 | #1031 Down in the Groove | seven-year-olds debate for weeks on the merits of the Oxford comma | 523.31 | sometimes adds notability: museums and concert halls may add or remove notability: punitive income tax rates; sometimes removes notability: complete lack of public education, suspicion of poets |
 | 2026-10-23 16:20 | #1869 Architects of Tomorrow | @@NAME@@'s citizens often wander into each other's homes | 290.12 | sometimes adds notability: devotion to social welfare, punitive income tax rates, suspicion of poets; sometimes removes notability: complete absence of social welfare, museums and concert halls |
