@@ -2,6 +2,11 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-10-26 18:08 | #1707 Crime and Re-Punishment | ex-cons are paid to remain law-abidingly dull | 632.87 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: exploding hoverboards, spontaneously combusting cars |
+| 2026-10-26 18:08 | #1679 Meals on Foot | police shut down children's lemonade stands for being "unsavory street food" | 296.43 | sometimes adds notability: museums and concert halls may add or remove notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: suspicion of poets |
+| 2026-10-26 18:08 | #679 Space Is Big Enough for the Both of Us | East Lebatuckese astronauts' favorite game during downtime on the Multinational Space Station is 'I Spy' | 593.16 | sometimes adds notability: restrictive gun laws |
+| 2026-10-26 18:07 | #1292 A Sticky End for Leader? | when shaking hands with foreign leaders @@LEADER@@ wears an armoured gauntlet | 173.39 | sometimes adds notability: punitive income tax rates |
+| 2026-10-26 18:07 | #468 Selling Vizantio Down the River? | the 'maybe not shock and awe' foreign policy initiative is showing promise | 194.83 | removes notability: infamous sell-swords; sometimes adds notability: punitive income tax rates |
 | 2026-10-25 15:27 | #1569 The Not-So-Long Arm of the Law | the government invades its allies more than its enemies | 158.25 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-10-25 15:27 | #685 Externalities Palmed Off | napalm is the tool of choice for disabling eco-unfriendly forestry operations | 182.70 | sometimes adds notability: punitive income tax rates |
 | 2026-10-25 15:27 | #834 Government and CO | conspiracy theorists allege that the government is spying on them through their carbon monoxide detectors | 400.20 | sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, deadly medical pandemics, exploding hoverboards, spontaneously combusting cars |
