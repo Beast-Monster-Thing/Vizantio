@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-10-27 17:20 | #1439 Philately Will Get You Nowhere | penny whistles have been rebranded 'tin hornpipes' | 399.53 | sometimes adds policy: No Gambling; sometimes adds notability: restrictive gun laws; sometimes removes notability: barren, inhospitable landscape, punitive income tax rates, spontaneously combusting cars |
+| 2026-10-27 17:20 | #1030 Looking Down in the Dumps | hundreds of subterranean tunnels are being built as part of "Project Morlock" | 63.54 | sometimes adds notability: punitive income tax rates |
+| 2026-10-27 17:19 | #1727 Wrath of the Lichen | tree farms across the nation are overrun by clipboard-wielding biologists | 168.73 | sometimes adds notability: stringent health and safety legislation; sometimes removes notability: barren, inhospitable landscape, complete lack of public education, hatred of cheese may add or remove notability: punitive income tax rates |
+| 2026-10-27 17:19 | #1732 Too Big to Rig | pension obligations are building | 114.61 | sometimes adds notability: devotion to social welfare, punitive income tax rates; sometimes removes notability: complete absence of social welfare |
 | 2026-10-26 18:08 | #1707 Crime and Re-Punishment | ex-cons are paid to remain law-abidingly dull | 632.87 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: exploding hoverboards, spontaneously combusting cars |
 | 2026-10-26 18:08 | #1679 Meals on Foot | police shut down children's lemonade stands for being "unsavory street food" | 296.43 | sometimes adds notability: museums and concert halls may add or remove notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: suspicion of poets |
 | 2026-10-26 18:08 | #679 Space Is Big Enough for the Both of Us | East Lebatuckese astronauts' favorite game during downtime on the Multinational Space Station is 'I Spy' | 593.16 | sometimes adds notability: restrictive gun laws |
