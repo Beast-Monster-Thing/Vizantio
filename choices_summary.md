@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-10-29 17:56 | #198 Not All Those Who Wander Are Paying | homes have been banned from having any more than one wheel | 411.76 | sometimes adds notability: punitive income tax rates may add or remove notability: restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, barren, inhospitable landscape, spontaneously combusting cars |
+| 2026-10-29 17:56 | #1085 Nuke Before You Leap | the fate of the world literally rests on @@LEADER@@'s fingers | 78.42 | sometimes adds notability: punitive income tax rates |
+| 2026-10-29 17:56 | #114 Wipe Out Graffiti? | graffiti artists spend lengthy periods of time in jail | 195.93 | sometimes adds notability: punitive income tax rates, restrictive gun laws, suspicion of poets; sometimes removes notability: absence of drug laws, museums and concert halls |
+| 2026-10-29 17:56 | #920 Central Planning Theatrics | theatre audiences often need a telescope to see the stage | 331.69 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese, museums and concert halls, punitive income tax rates; sometimes removes notability: suspicion of poets |
 | 2026-10-28 17:49 | #984 A Midsummer Night’s Snooze-Fest | all the playground's a stage for @@DEMONYMADJECTIVE@@ schoolchildren | 812.00 | sometimes adds notability: museums and concert halls may add or remove notability: punitive income tax rates; sometimes removes notability: complete lack of public education, suspicion of poets |
 | 2026-10-28 17:49 | #595 Quis Custodiet Ipsos Custodes? | criminals always seem to be forewarned of police raids | 414.45 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws may add or remove notability: punitive income tax rates |
 | 2026-10-28 17:49 | #625 Delivering the Goods | policemen want to put the nation's homosexuals up against a wall | 407.77 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds notability: punitive income tax rates, restrictive gun laws |
