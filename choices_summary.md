@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-10-30 17:39 | #1183 Bloodied but Unbowed | female brains are believed to heat up dangerously when 'overclocked' | 322.14 | sometimes adds notability: hatred of cheese may add or remove notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, barren, inhospitable landscape, spontaneously combusting cars |
+| 2026-10-30 17:38 | #1821 A Dilemma of (Musical) Note | soporific speeches from @@LEADER@@ have left the opposition utterly knocked out | 207.04 | sometimes adds notability: restrictive gun laws |
+| 2026-10-30 17:38 | #372 The Coming of the Commissars | rocket boots and thermal detonators have become standard-issue military gear | 533.74 | sometimes adds notability: punitive income tax rates |
+| 2026-10-30 17:38 | #1759 Curvy Cuisine Causes Conflict | shoppers carry protractors to verify their produce | 517.67 | sometimes adds notability: museums and concert halls, punitive income tax rates, stringent health and safety legislation; sometimes removes notability: deadly medical pandemics, exploding hoverboards, hatred of cheese, spontaneously combusting cars, suspicion of poets |
 | 2026-10-29 17:56 | #198 Not All Those Who Wander Are Paying | homes have been banned from having any more than one wheel | 411.76 | sometimes adds notability: punitive income tax rates may add or remove notability: restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, barren, inhospitable landscape, spontaneously combusting cars |
 | 2026-10-29 17:56 | #1085 Nuke Before You Leap | the fate of the world literally rests on @@LEADER@@'s fingers | 78.42 | sometimes adds notability: punitive income tax rates |
 | 2026-10-29 17:56 | #114 Wipe Out Graffiti? | graffiti artists spend lengthy periods of time in jail | 195.93 | sometimes adds notability: punitive income tax rates, restrictive gun laws, suspicion of poets; sometimes removes notability: absence of drug laws, museums and concert halls |
