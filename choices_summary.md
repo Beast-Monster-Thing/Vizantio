@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-10-31 16:44 | #1844 A Spicy Situation | children are strong-armed by police into eating their greens | 363.84 | — |
+| 2026-10-31 16:43 | #1635 A Sine of the Times | the number of eyes rolled per maths lesson is increasing exponentially | 142.92 | sometimes adds notability: suspicion of poets; sometimes removes notability: museums and concert halls, punitive income tax rates |
+| 2026-10-31 16:43 | #1589 Losing Touch | mums always ask their three-year-olds for permission before hugging them | 64.34 | sometimes adds notability: absence of drug laws, punitive income tax rates; sometimes removes notability: restrictive gun laws |
+| 2026-10-31 16:43 | #1427 May the Fourth Estate Be With You | students spend the school year learning how great the education system is | 471.39 | sometimes adds notability: devotion to social welfare, punitive income tax rates, restrictive gun laws; sometimes removes notability: complete absence of social welfare |
 | 2026-10-30 17:39 | #1183 Bloodied but Unbowed | female brains are believed to heat up dangerously when 'overclocked' | 322.14 | sometimes adds notability: hatred of cheese may add or remove notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, barren, inhospitable landscape, spontaneously combusting cars |
 | 2026-10-30 17:38 | #1821 A Dilemma of (Musical) Note | soporific speeches from @@LEADER@@ have left the opposition utterly knocked out | 207.04 | sometimes adds notability: restrictive gun laws |
 | 2026-10-30 17:38 | #372 The Coming of the Commissars | rocket boots and thermal detonators have become standard-issue military gear | 533.74 | sometimes adds notability: punitive income tax rates |
