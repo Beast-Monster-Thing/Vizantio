@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-11-02 21:18 | #140 A Grave Problem | houses and businesses are bulldozed to make way for ever-expanding cemeteries | 125.55 | sometimes adds notability: hatred of cheese, punitive income tax rates, stringent health and safety legislation; sometimes removes notability: barren, inhospitable landscape, irreverence towards religion |
+| 2026-11-02 21:18 | #1871 Thief Rex | children with trilobite collections are drafted into the 'Billy and the Cloneasaurus' division | 438.75 | sometimes removes notability: stringent health and safety legislation |
+| 2026-11-02 21:18 | #139 Drug Debate Hits the Streets | the police have reaffirmed their tough stance on drugs | 533.99 | removes notability: absence of drug laws; sometimes adds policy: No Drugs; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: complete lack of public education, deadly medical pandemics |
+| 2026-11-02 21:18 | #865 A Funeral for a Fiend? | war criminals are given full state funerals | 273.27 | sometimes adds notability: punitive income tax rates; sometimes removes notability: restrictive gun laws |
 | 2026-11-01 17:33 | #510 Possession, Protection or Poppycock? | children fear compulsory visits to their spiritual advisors more than the dentist | 753.59 | sometimes adds policy: Theocracy; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-11-01 17:32 | #758 Bye Bye to the Birdies? | it is illegal to brush crumbs off your clothing outdoors | 146.08 | sometimes removes notability: barren, inhospitable landscape, deadly medical pandemics, hatred of cheese may add or remove notability: punitive income tax rates |
 | 2026-11-01 17:32 | #1809 Origin Story | students can name the chiefs of proto-Bigtopian tribes before they can count to ten | 316.17 | sometimes adds notability: punitive income tax rates; sometimes removes notability: complete lack of public education |
