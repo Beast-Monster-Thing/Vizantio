@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-11-03 18:58 | #404 404 Issue Not Found | the government has awarded itself a month-long holiday to celebrate its achievements | 147.52 | — |
+| 2026-11-03 18:58 | #1557 The Artist Is Literally Present | people say that cubists are rubbish because they can't draw faces | 229.77 | sometimes adds notability: museums and concert halls; sometimes removes notability: punitive income tax rates, suspicion of poets |
+| 2026-11-03 18:57 | #62 Oh, the Angst! | citizens are encouraged to report friends, family members or co-workers who seem depressed to the government for "counselling" | 192.93 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: deadly medical pandemics |
+| 2026-11-03 18:57 | #1296 Once Upon a Time | the only Maxxmas gift frontline troops receive from officers is a bullet with the enemy's name on it | 122.93 | sometimes adds notability: deadly medical pandemics; sometimes removes notability: punitive income tax rates |
 | 2026-11-02 21:18 | #140 A Grave Problem | houses and businesses are bulldozed to make way for ever-expanding cemeteries | 125.55 | sometimes adds notability: hatred of cheese, punitive income tax rates, stringent health and safety legislation; sometimes removes notability: barren, inhospitable landscape, irreverence towards religion |
 | 2026-11-02 21:18 | #1871 Thief Rex | children with trilobite collections are drafted into the 'Billy and the Cloneasaurus' division | 438.75 | sometimes removes notability: stringent health and safety legislation |
 | 2026-11-02 21:18 | #139 Drug Debate Hits the Streets | the police have reaffirmed their tough stance on drugs | 533.99 | removes notability: absence of drug laws; sometimes adds policy: No Drugs; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: complete lack of public education, deadly medical pandemics |
