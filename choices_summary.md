@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-11-07 17:20 | #1209 Your Island Is My Island | vacationing @@DEMONYMNOUNPLURAL@@ expect to be treated as royalty | 389.29 | sometimes adds notability: punitive income tax rates |
+| 2026-11-07 17:19 | #260 Taxpayers on Strike! | the police crack down on tax evaders without mercy | 212.13 | sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation |
+| 2026-11-07 17:19 | #803 Park That Thought | cogitators and mass debaters are skiving off work to hang around the National Symposium Park | 257.59 | sometimes adds notability: museums and concert halls; sometimes removes notability: suspicion of poets |
+| 2026-11-07 17:19 | #1092 The Boys From Brasilistan | a recent "genocide prevention" campaign includes murdering children based on their DNA | 232.57 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
 | 2026-11-06 18:48 | #1407 New Tricks | red fabric is banned | 161.39 | sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: irreverence towards religion |
 | 2026-11-06 18:47 | #1373 You Should Have (Copy)Left My Software Alone! | using "inspect element" is grounds for espionage charges | 163.29 | sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, spontaneously combusting cars |
 | 2026-11-06 18:47 | #1318 Blitzed | 3/4/5/6. a soldier's body is a temple | 247.20 | sometimes adds policy: No Drugs; sometimes removes policy: Cannabis; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, deadly medical pandemics |
