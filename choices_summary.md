@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-11-08 17:31 | #626 Carbon Copied | 1/2. there is a growing belief that consciousness is a simulated illusion within a computer-generated reality | 998.59 | sometimes adds notability: irreverence towards religion may add or remove notability: punitive income tax rates, restrictive gun laws, spontaneously combusting cars; sometimes removes notability: absence of drug laws, complete lack of public education |
+| 2026-11-08 17:31 | #564 Do Good Intentions Make Good Samaritans? | bands of paramedics walk the streets looking for suspicious medical activity | 185.83 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: deadly medical pandemics |
+| 2026-11-08 17:31 | #1837 Sue That Storm | the government subsidizes those who produce the worst results | 169.35 | sometimes adds notability: absence of drug laws; sometimes removes notability: barren, inhospitable landscape, complete lack of public education, hatred of cheese may add or remove notability: punitive income tax rates |
+| 2026-11-08 17:31 | #813 A Little Birdie Told Me | foreign leaders' Twitcher accounts are monitored for potential threats to national security | 190.44 | sometimes adds notability: punitive income tax rates |
 | 2026-11-07 17:20 | #1209 Your Island Is My Island | vacationing @@DEMONYMNOUNPLURAL@@ expect to be treated as royalty | 389.29 | sometimes adds notability: punitive income tax rates |
 | 2026-11-07 17:19 | #260 Taxpayers on Strike! | the police crack down on tax evaders without mercy | 212.13 | sometimes adds notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation |
 | 2026-11-07 17:19 | #803 Park That Thought | cogitators and mass debaters are skiving off work to hang around the National Symposium Park | 257.59 | sometimes adds notability: museums and concert halls; sometimes removes notability: suspicion of poets |
