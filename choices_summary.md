@@ -2,6 +2,9 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-11-10 19:14 | #1627 Snow Days on Thin Ice | truancy is as easy as clicking a camera icon | 322.25 | sometimes removes notability: complete lack of public education may add or remove notability: punitive income tax rates |
+| 2026-11-10 19:14 | #1656 Stealing Afoot | taxpayer money is hard at work exorcizing laundry | 278.14 | sometimes adds notability: punitive income tax rates |
+| 2026-11-10 19:14 | #89 “Don’t Dam Our Rivers, Damnit!” Say Protesters | scenic mountain valleys are flooded with water as damming projects get underway | 60.48 | sometimes adds notability: barren, inhospitable landscape may add or remove notability: hatred of cheese, spontaneously combusting cars; sometimes removes notability: punitive income tax rates, restrictive gun laws, stringent health and safety legislation |
 | 2026-11-09 21:52 | #565 ‘A’ Is for Academic Doping | summer science camps are regularly raided by narcotics police | 734.30 | removes notability: absence of drug laws; sometimes adds notability: punitive income tax rates, restrictive gun laws |
 | 2026-11-09 21:52 | #202 Guns or Butter? | politicians are often seen with soldiers pointing guns at their heads | 1238.00 | removes policy: Compulsory Vote, Native Representation, Proportional Representation, Referendums, Term Limits; removes notability: daily referendums may add or remove notability: punitive income tax rates; sometimes adds policy: Autocracy, Sortition |
 | 2026-11-09 21:52 | #1482 A Crypto for the Comrades? | digital novelty coins make for surprising vanguards of the revolution | 277.78 | sometimes removes notability: punitive income tax rates, stringent health and safety legislation |
