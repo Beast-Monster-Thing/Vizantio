@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-11-19 19:53 | #709 Armed and Legging It | community-designed sword prostheses are becoming dangerously common | 132.30 | sometimes adds notability: punitive income tax rates |
+| 2026-11-19 19:53 | #913 Couped Up | the practice of capital punishment proves divisive | 565.19 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds policy: No Dissent; sometimes removes policy: Public Protest; sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
+| 2026-11-19 19:53 | #22 Nazi Sympathizers Plan Rally | it is illegal to make racist remarks in public | 30.96 | sometimes adds notability: punitive income tax rates may add or remove notability: restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-11-19 19:52 | #1314 Nothing to Write Home About | soldiers on first dates introduce themselves only by their ranks and serial numbers | 189.20 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-11-18 19:53 | #1279 Crate Work, Plane and Simple | diplomats shake hands with their right and hide a poison dagger in their left | 294.01 | — |
 | 2026-11-18 19:53 | #747 The Plane Truth | 5/6. Air @@NAME@@ is rumored to receive more government funding than the @@DEMONYMADJECTIVE@@ Air Force | 196.42 | sometimes adds notability: museums and concert halls, punitive income tax rates; sometimes removes notability: suspicion of poets |
 | 2026-11-18 19:53 | #261 Plastic, Plastic Everywhere | the nation's industries are scrambling to switch to biodegradable plastics | 47.83 | sometimes adds notability: stringent health and safety legislation; sometimes removes notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates |
