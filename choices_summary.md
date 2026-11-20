@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-11-20 19:33 | #754 The Hit Parade | the voyages of obsolete star-trekking satellites on deliberate escape orbits are only just beginning | 384.24 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: barren, inhospitable landscape, exploding hoverboards, hatred of cheese, spontaneously combusting cars |
+| 2026-11-20 19:32 | #1464 Gentry Genes Getting Grim | aristocratic family trees are beginning to resemble tumbleweeds | 381.28 | sometimes adds notability: restrictive gun laws |
+| 2026-11-20 19:32 | #1644 From Silver Spoons to Swordplay | an increasing number of knights in shining armor suffer from PTSD | 172.16 | sometimes adds notability: punitive income tax rates |
+| 2026-11-20 19:32 | #1013 Grave Disease | wood-framed catapults are ready to launch diseased corpses into besieged cities | 558.34 | adds policy: Weapons of Mass Destruction; removes policy: No WMDs; adds notability: ubiquitous missile silos; sometimes adds notability: punitive income tax rates |
 | 2026-11-19 19:53 | #709 Armed and Legging It | community-designed sword prostheses are becoming dangerously common | 132.30 | sometimes adds notability: punitive income tax rates |
 | 2026-11-19 19:53 | #913 Couped Up | the practice of capital punishment proves divisive | 565.19 | adds policy: Capital Punishment; adds notability: frequent executions; sometimes adds policy: No Dissent; sometimes removes policy: Public Protest; sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
 | 2026-11-19 19:53 | #22 Nazi Sympathizers Plan Rally | it is illegal to make racist remarks in public | 30.96 | sometimes adds notability: punitive income tax rates may add or remove notability: restrictive gun laws; sometimes removes notability: absence of drug laws |
