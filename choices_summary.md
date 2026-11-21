@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-11-21 18:38 | #1518 Test Environment | handling people's data is proving an immersive experience | 253.49 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: exploding hoverboards, spontaneously combusting cars |
+| 2026-11-21 18:37 | #1498 Flight 201: An Airspace Oddity | tumbleweeds are seen blowing through the nation's airspace | 272.98 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-11-21 18:37 | #716 Cheek to Cheek | airplane passengers have been known to stuff pillows in their jackets to get extra arm room | 105.73 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: exploding hoverboards, spontaneously combusting cars |
+| 2026-11-21 18:37 | #37 Traffic Cops Needed on Information Superhighway? | the government snoops on private internet connections | 361.22 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
 | 2026-11-20 19:33 | #754 The Hit Parade | the voyages of obsolete star-trekking satellites on deliberate escape orbits are only just beginning | 384.24 | sometimes adds notability: punitive income tax rates, stringent health and safety legislation; sometimes removes notability: barren, inhospitable landscape, exploding hoverboards, hatred of cheese, spontaneously combusting cars |
 | 2026-11-20 19:32 | #1464 Gentry Genes Getting Grim | aristocratic family trees are beginning to resemble tumbleweeds | 381.28 | sometimes adds notability: restrictive gun laws |
 | 2026-11-20 19:32 | #1644 From Silver Spoons to Swordplay | an increasing number of knights in shining armor suffer from PTSD | 172.16 | sometimes adds notability: punitive income tax rates |
