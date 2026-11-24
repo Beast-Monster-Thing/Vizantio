@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-11-24 21:52 | #1706 Coal, Coal Never Changes | the Great @@DEMONYMADJECTIVE@@ Tar Cloud can be seen from space | 323.05 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese; sometimes removes notability: punitive income tax rates |
+| 2026-11-24 21:52 | #835 The End Is in Sight? | hit TV show 'The eXecution Factor' is a critical success | 114.15 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
+| 2026-11-24 21:51 | #875 They See Me Trollin’, They Threatenin’ | 13-year-old internet trolls are treated as a threat on par with terrorists | 487.00 | sometimes adds policy: No Dissent may add or remove policy: Public Protest; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
+| 2026-11-24 21:51 | #581 Fair to Say...? | tech-mad citizens think that the laser-powered bread-slicer uPhone App is the coolest thing since sliced bread | 366.60 | sometimes removes notability: punitive income tax rates |
 | 2026-11-23 23:17 | #237 Tourists on Death Row | drug-related crimes carry the death penalty | 793.67 | adds policy: Capital Punishment; removes policy: Cannabis; adds notability: frequent executions; removes notability: absence of drug laws; sometimes adds policy: No Drugs; sometimes adds notability: restrictive gun laws; sometimes removes notability: punitive income tax rates |
 | 2026-11-23 23:17 | #1463 Sandbagging | birdsong in the mountains has to be loud enough to drown out nearby jackhammers | 136.82 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese may add or remove notability: punitive income tax rates |
 | 2026-11-23 23:17 | #1602 Vizantio’s Bark Worse Than Its Byte? | enterprising game developers are a hop, skip, and a double-jump away from arrest | 375.93 | sometimes adds notability: punitive income tax rates, restrictive gun laws, suspicion of poets; sometimes removes notability: museums and concert halls |
