@@ -2,6 +2,9 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-11-25 20:58 | #225 Prayer in Public Schools? | students who refuse to pray are expelled from school | 340.09 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, irreverence towards religion |
+| 2026-11-25 20:58 | #1192 Child’s Play | childish pranks are no laughing matter | 226.52 | sometimes adds notability: punitive income tax rates |
+| 2026-11-25 20:58 | #1725 Criminals on the (Pay)Roll? | having only one wallet stolen in a day is considered a cause for celebration | 194.44 | sometimes adds notability: punitive income tax rates |
 | 2026-11-24 21:52 | #1706 Coal, Coal Never Changes | the Great @@DEMONYMADJECTIVE@@ Tar Cloud can be seen from space | 323.05 | sometimes adds notability: barren, inhospitable landscape, hatred of cheese; sometimes removes notability: punitive income tax rates |
 | 2026-11-24 21:52 | #835 The End Is in Sight? | hit TV show 'The eXecution Factor' is a critical success | 114.15 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
 | 2026-11-24 21:51 | #875 They See Me Trollin’, They Threatenin’ | 13-year-old internet trolls are treated as a threat on par with terrorists | 487.00 | sometimes adds policy: No Dissent may add or remove policy: Public Protest; sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws |
