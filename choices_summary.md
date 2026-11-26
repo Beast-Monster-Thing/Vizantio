@@ -2,6 +2,10 @@
 
 | Date (UTC) | Issue | Option | Score | Effects |
 |------------|-------|--------|-------|---------|
+| 2026-11-26 20:51 | #1556 Gimme Shelter | men who wear pink are seen as dangerously unmanly | 311.54 | sometimes adds notability: restrictive gun laws; sometimes removes notability: absence of drug laws, punitive income tax rates |
+| 2026-11-26 20:51 | #1078 Down With That? | ship captains always order a return to port at the slightest sign of rain | 215.48 | sometimes adds notability: museums and concert halls, restrictive gun laws, stringent health and safety legislation; sometimes removes notability: absence of drug laws, exploding hoverboards, punitive income tax rates, spontaneously combusting cars, suspicion of poets |
+| 2026-11-26 20:51 | #1105 A Green History Lesson | residents of ageing concrete tower blocks have vital renovation work stopped by Brutalism enthusiasts | 268.30 | sometimes adds notability: barren, inhospitable landscape, museums and concert halls, punitive income tax rates; sometimes removes notability: suspicion of poets |
+| 2026-11-26 20:50 | #1053 Some Enchanted Evening That Was | @@DEMONYMADJECTIVE@@ soldiers know how to create single mothers in more ways than one | 162.39 | sometimes adds notability: punitive income tax rates |
 | 2026-11-25 20:58 | #225 Prayer in Public Schools? | students who refuse to pray are expelled from school | 340.09 | sometimes adds notability: punitive income tax rates, restrictive gun laws; sometimes removes notability: absence of drug laws, irreverence towards religion |
 | 2026-11-25 20:58 | #1192 Child’s Play | childish pranks are no laughing matter | 226.52 | sometimes adds notability: punitive income tax rates |
 | 2026-11-25 20:58 | #1725 Criminals on the (Pay)Roll? | having only one wallet stolen in a day is considered a cause for celebration | 194.44 | sometimes adds notability: punitive income tax rates |
